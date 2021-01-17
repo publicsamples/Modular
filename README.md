@@ -1,6 +1,6 @@
 # Modular Sample Library
 
-A large Collection of sounds from a modular synthesiser. Featuring a Eurorack system and a small Dotcom.
+A large Collection of sounds from a modular synthesiser configurations.
 
 
 -   **Formats:** EXS24, Kontakt, NN-XT
