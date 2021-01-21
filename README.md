@@ -31,5 +31,5 @@ A large Collection of sounds from a modular synthesiser configurations.
 # Disks
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![enter image description here](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)
