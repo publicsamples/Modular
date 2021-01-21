@@ -1,6 +1,6 @@
 # Modular Sample Library
 
-A large Collection of sounds from a modular synthesiser configurations.
+A large Collection of sounds from a modular synthesiser.
 
 
 -   **Formats:** EXS24, Kontakt, NN-XT
