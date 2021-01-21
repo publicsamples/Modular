@@ -4,7 +4,10 @@ A large Collection of sounds from a modular synthesiser.
 
 
 -   **Formats:** EXS24, Kontakt, NN-XT
--   **Audio:** https://www.dropbox.com/sh/dmqladrqlpn6i1h/AAC9Z34_RwkiEwVETX1HpDs0a?dl=0
+
+**This collection requires you to download the audio port seperately**
+
+**[Download Audio]**(https://www.dropbox.com/sh/dmqladrqlpn6i1h/AAC9Z34_RwkiEwVETX1HpDs0a?dl=0)
 
 # Loading
 
