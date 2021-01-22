@@ -1,0 +1,86 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - 135 Bubbling loop.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/135 Bubbling loop-SAMPLES/
+
+<group> volume=-6        // Single group
+<region> sample=20091017005534_c#23f0000.wav key=49 lokey=0 hikey=49 amp_veltrack=20 lovel=0 hivel=95 end=258099 loop_mode=no_loop
+<region> sample=20091017005547_c#27f0000.wav key=49 lokey=0 hikey=49 amp_veltrack=20 lovel=32 hivel=127 end=271099 loop_mode=no_loop
+<region> sample=20091017005559_d23f0000.wav key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=0 hivel=95 end=259099 loop_mode=no_loop
+<region> sample=20091017005611_d27f0000.wav key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=32 hivel=127 end=254099 loop_mode=no_loop
+<region> sample=20091017005624_d#23f0000.wav key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=0 hivel=95 end=259099 loop_mode=no_loop
+<region> sample=20091017005636_d#27f0000.wav key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=32 hivel=127 end=270099 loop_mode=no_loop
+<region> sample=20091017005648_e23f0000.wav key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=0 hivel=95 end=264099 loop_mode=no_loop
+<region> sample=20091017005701_e27f0000.wav key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=32 hivel=127 end=259099 loop_mode=no_loop
+<region> sample=20091017005713_f23f0000.wav key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=0 hivel=95 end=256099 loop_mode=no_loop
+<region> sample=20091017005726_f27f0000.wav key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=32 hivel=127 end=263099 loop_mode=no_loop
+<region> sample=20091017005738_f#23f0000.wav key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=0 hivel=95 end=267099 loop_mode=no_loop
+<region> sample=20091017005750_f#27f0000.wav key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=32 hivel=127 end=263099 loop_mode=no_loop
+<region> sample=20091017005803_g23f0000.wav key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=0 hivel=95 end=259099 loop_mode=no_loop
+<region> sample=20091017005815_g27f0000.wav key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=32 hivel=127 end=259099 loop_mode=no_loop
+<region> sample=20091017005828_g#23f0000.wav key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=0 hivel=95 end=266099 loop_mode=no_loop
+<region> sample=20091017005840_g#27f0000.wav key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=32 hivel=127 end=267099 loop_mode=no_loop
+<region> sample=20091017005852_a23f0000.wav key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=0 hivel=95 end=257099 loop_mode=no_loop
+<region> sample=20091017005905_a27f0000.wav key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=32 hivel=127 end=259099 loop_mode=no_loop
+<region> sample=20091017005917_a#23f0000.wav key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=0 hivel=95 end=265099 loop_mode=no_loop
+<region> sample=20091017005930_a#27f0000.wav key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=32 hivel=127 end=274099 loop_mode=no_loop
+<region> sample=20091017005942_b23f0000.wav key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=0 hivel=95 end=265099 loop_mode=no_loop
+<region> sample=20091017005955_b27f0000.wav key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=32 hivel=127 end=258099 loop_mode=no_loop
+<region> sample=20091017010007_c33f0000.wav key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=0 hivel=95 end=263099 loop_mode=no_loop
+<region> sample=20091017010020_c37f0000.wav key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=32 hivel=127 end=274099 loop_mode=no_loop
+<region> sample=20091017010032_c#33f0000.wav key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=0 hivel=95 end=258099 loop_mode=no_loop
+<region> sample=20091017010044_c#37f0000.wav key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=32 hivel=127 end=259099 loop_mode=no_loop
+<region> sample=20091017010057_d33f0000.wav key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=0 hivel=95 end=258099 loop_mode=no_loop
+<region> sample=20091017010109_d37f0000.wav key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=32 hivel=127 end=262099 loop_mode=no_loop
+<region> sample=20091017010122_d#33f0000.wav key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=0 hivel=95 end=271099 loop_mode=no_loop
+<region> sample=20091017010135_d#37f0000.wav key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=32 hivel=127 end=265099 loop_mode=no_loop
+<region> sample=20091017010147_e33f0000.wav key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=0 hivel=95 end=257099 loop_mode=no_loop
+<region> sample=20091017010159_e37f0000.wav key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=32 hivel=127 end=260099 loop_mode=no_loop
+<region> sample=20091017010212_f33f0000.wav key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=0 hivel=95 end=268099 loop_mode=no_loop
+<region> sample=20091017010225_f37f0000.wav key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=32 hivel=127 end=263099 loop_mode=no_loop
+<region> sample=20091017010237_f#33f0000.wav key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=0 hivel=95 end=260099 loop_mode=no_loop
+<region> sample=20091017010249_f#37f0000.wav key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=32 hivel=127 end=258099 loop_mode=no_loop
+<region> sample=20091017010302_g33f0000.wav key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=0 hivel=95 end=259099 loop_mode=no_loop
+<region> sample=20091017010314_g37f0000.wav key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=32 hivel=127 end=258099 loop_mode=no_loop
+<region> sample=20091017010327_g#33f0000.wav key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=0 hivel=95 end=261099 loop_mode=no_loop
+<region> sample=20091017010339_g#37f0000.wav key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=32 hivel=127 end=258099 loop_mode=no_loop
+<region> sample=20091017010351_a33f0000.wav key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=0 hivel=95 end=260099 loop_mode=no_loop
+<region> sample=20091017010404_a37f0000.wav key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=32 hivel=127 end=274099 loop_mode=no_loop
+<region> sample=20091017010416_a#33f0000.wav key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=0 hivel=95 end=260099 loop_mode=no_loop
+<region> sample=20091017010428_a#37f0000.wav key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=32 hivel=127 end=262099 loop_mode=no_loop
+<region> sample=20091017010441_b33f0000.wav key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=0 hivel=95 end=258099 loop_mode=no_loop
+<region> sample=20091017010453_b37f0000.wav key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=32 hivel=127 end=262099 loop_mode=no_loop
+<region> sample=20091017010505_c43f0000.wav key=72 lokey=72 hikey=72 amp_veltrack=20 lovel=0 hivel=95 end=260099 loop_mode=no_loop
+<region> sample=20091017010518_c47f0000.wav key=72 lokey=72 hikey=72 amp_veltrack=20 lovel=32 hivel=127 end=274099 loop_mode=no_loop
+<region> sample=20091017010530_c#43f0000.wav key=73 lokey=73 hikey=74 amp_veltrack=20 lovel=0 hivel=95 end=263099 loop_mode=no_loop
+<region> sample=20091017010542_c#47f0000.wav key=73 lokey=73 hikey=74 amp_veltrack=20 lovel=32 hivel=127 end=260099 loop_mode=no_loop
+<region> sample=20091017010642_e47f0000.wav key=76 lokey=75 hikey=76 end=262099 loop_mode=no_loop
+<region> sample=20091017010654_f43f0000.wav key=77 lokey=77 hikey=77 amp_veltrack=20 lovel=0 hivel=95 end=262099 loop_mode=no_loop
+<region> sample=20091017010707_f47f0000.wav key=77 lokey=77 hikey=77 amp_veltrack=20 lovel=32 hivel=127 end=271099 loop_mode=no_loop
+<region> sample=20091017010720_f#43f0000.wav key=78 lokey=78 hikey=78 amp_veltrack=20 lovel=0 hivel=95 end=263099 loop_mode=no_loop
+<region> sample=20091017010732_f#47f0000.wav key=78 lokey=78 hikey=78 amp_veltrack=20 lovel=32 hivel=127 end=260099 loop_mode=no_loop
+<region> sample=20091017010745_g43f0000.wav key=79 lokey=79 hikey=79 amp_veltrack=20 lovel=0 hivel=95 end=267099 loop_mode=no_loop
+<region> sample=20091017010758_g47f0000.wav key=79 lokey=79 hikey=79 amp_veltrack=20 lovel=32 hivel=127 end=285099 loop_mode=no_loop
+<region> sample=20091017010810_g#43f0000.wav key=80 lokey=80 hikey=80 amp_veltrack=20 lovel=0 hivel=95 end=260099 loop_mode=no_loop
+<region> sample=20091017010823_g#47f0000.wav key=80 lokey=80 hikey=80 amp_veltrack=20 lovel=32 hivel=127 end=260099 loop_mode=no_loop
+<region> sample=20091017010835_a43f0000.wav key=81 lokey=81 hikey=81 amp_veltrack=20 lovel=0 hivel=95 end=264099 loop_mode=no_loop
+<region> sample=20091017010847_a47f0000.wav key=81 lokey=81 hikey=81 amp_veltrack=20 lovel=32 hivel=127 end=276099 loop_mode=no_loop
+<region> sample=20091017010900_a#43f0000.wav key=82 lokey=82 hikey=82 amp_veltrack=20 lovel=0 hivel=95 end=281099 loop_mode=no_loop
+<region> sample=20091017010913_a#47f0000.wav key=82 lokey=82 hikey=82 amp_veltrack=20 lovel=32 hivel=127 end=266099 loop_mode=no_loop
+<region> sample=20091017010925_b43f0000.wav key=83 lokey=83 hikey=83 amp_veltrack=20 lovel=0 hivel=95 end=263099 loop_mode=no_loop
+<region> sample=20091017010937_b47f0000.wav key=83 lokey=83 hikey=83 amp_veltrack=20 lovel=32 hivel=127 end=263099 loop_mode=no_loop
+<region> sample=20091017010950_c53f0000.wav key=84 lokey=84 hikey=84 amp_veltrack=20 lovel=0 hivel=95 end=263099 loop_mode=no_loop
+<region> sample=20091017011003_c57f0000.wav key=84 lokey=84 hikey=84 amp_veltrack=20 lovel=32 hivel=127 end=267099 loop_mode=no_loop
+<region> sample=20091017011015_c#53f0000.wav key=85 lokey=85 hikey=85 amp_veltrack=20 lovel=0 hivel=95 end=265099 loop_mode=no_loop
+<region> sample=20091017011028_c#57f0000.wav key=85 lokey=85 hikey=85 amp_veltrack=20 lovel=32 hivel=127 end=263099 loop_mode=no_loop
+<region> sample=20091017011041_d53f0000.wav key=86 lokey=86 hikey=86 amp_veltrack=20 lovel=0 hivel=95 end=281099 loop_mode=no_loop
+<region> sample=20091017011054_d57f0000.wav key=86 lokey=86 hikey=86 amp_veltrack=20 lovel=32 hivel=127 end=283099 loop_mode=no_loop
+<region> sample=20091017011106_d#53f0000.wav key=87 lokey=87 hikey=87 amp_veltrack=20 lovel=0 hivel=95 end=263099 loop_mode=no_loop
+<region> sample=20091017011119_d#57f0000.wav key=87 lokey=87 hikey=87 amp_veltrack=20 lovel=32 hivel=127 end=262099 loop_mode=no_loop
+<region> sample=20091017011132_e53f0000.wav key=88 lokey=88 hikey=88 amp_veltrack=20 lovel=0 hivel=95 end=271099 loop_mode=no_loop
+<region> sample=20091017011144_e57f0000.wav key=88 lokey=88 hikey=88 amp_veltrack=20 lovel=32 hivel=127 end=246099 loop_mode=no_loop
+<region> sample=20091017011157_f53f0000.wav key=89 lokey=89 hikey=89 amp_veltrack=20 lovel=0 hivel=95 end=276099 loop_mode=no_loop
+<region> sample=20091017011209_f57f0000.wav key=89 lokey=89 hikey=89 amp_veltrack=20 lovel=32 hivel=127 end=265099 loop_mode=no_loop
+<region> sample=20091017011222_f#53f0000.wav key=90 lokey=90 hikey=127 amp_veltrack=20 lovel=0 hivel=95 end=262099 loop_mode=no_loop
+<region> sample=20091017011234_f#57f0000.wav key=90 lokey=90 hikey=127 amp_veltrack=20 lovel=32 hivel=127 end=273099 loop_mode=no_loop

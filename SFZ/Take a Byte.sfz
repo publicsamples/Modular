@@ -1,0 +1,192 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Take a Byte.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Take a Byte/
+
+<group>        // Take a Byte
+<region> sample=braids-atl-C0-25-KBWF.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=1 hivel=25 offset=150 end=932207 loop_mode=no_loop
+<region> sample=braids-atl-C0-51-O6R9.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=26 hivel=51 offset=324 end=1066257 loop_mode=no_loop
+<region> sample=braids-atl-C0-76-2CEF.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=52 hivel=76 offset=216 end=1111182 loop_mode=no_loop
+<region> sample=braids-atl-C0-102-Y19J.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=77 hivel=102 offset=388 loop_mode=no_loop
+<region> sample=braids-atl-C0-127-38F9.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=103 hivel=127 offset=236 end=1219052 loop_mode=no_loop
+<region> sample=braids-atl-C#0-25-LMHF.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=1 hivel=25 offset=449 end=1006196 loop_mode=no_loop
+<region> sample=braids-atl-C#0-51-4E8D.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=26 hivel=51 offset=341 end=1048842 loop_mode=no_loop
+<region> sample=braids-atl-C#0-76-SSMU.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=52 hivel=76 offset=359 end=1089433 loop_mode=no_loop
+<region> sample=braids-atl-C#0-102-O8OT.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=77 hivel=102 offset=171 loop_mode=no_loop
+<region> sample=braids-atl-C#0-127-IRHV.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=103 hivel=127 offset=281 end=1203933 loop_mode=no_loop
+<region> sample=braids-atl-D0-25-7AKR.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=1 hivel=25 offset=296 loop_mode=no_loop
+<region> sample=braids-atl-D0-51-O9KU.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=26 hivel=51 offset=215 end=1046752 loop_mode=no_loop
+<region> sample=braids-atl-D0-76-WRBH.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=52 hivel=76 offset=288 end=1095227 loop_mode=no_loop
+<region> sample=braids-atl-D0-102-5L8J.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=77 hivel=102 offset=291 end=1113065 loop_mode=no_loop
+<region> sample=braids-atl-D0-127-8KAG.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=103 hivel=127 offset=305 end=1186829 loop_mode=no_loop
+<region> sample=braids-atl-D#0-25-83W9.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=1 hivel=25 offset=406 end=995600 loop_mode=no_loop
+<region> sample=braids-atl-D#0-51-CJ8U.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=26 hivel=51 offset=91 end=1038531 loop_mode=no_loop
+<region> sample=braids-atl-D#0-76-FXQX.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=52 hivel=76 offset=374 end=1106210 loop_mode=no_loop
+<region> sample=braids-atl-D#0-102-PWJT.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=77 hivel=102 offset=467 end=1110923 loop_mode=no_loop
+<region> sample=braids-atl-D#0-127-SLDN.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=103 hivel=127 offset=202 loop_mode=no_loop
+<region> sample=braids-atl-E0-25-WF47.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=1 hivel=25 offset=201 end=1002487 loop_mode=no_loop
+<region> sample=braids-atl-E0-51-VJMA.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=26 hivel=51 offset=243 end=1036027 loop_mode=no_loop
+<region> sample=braids-atl-E0-76-IVSX.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=52 hivel=76 offset=279 loop_mode=no_loop
+<region> sample=braids-atl-E0-102-LJKP.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=77 hivel=102 offset=330 end=1112194 loop_mode=no_loop
+<region> sample=braids-atl-E0-127-UOI5.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=103 hivel=127 offset=324 end=1206105 loop_mode=no_loop
+<region> sample=braids-atl-F0-25-URAZ.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=1 hivel=25 offset=283 end=987493 loop_mode=no_loop
+<region> sample=braids-atl-F0-51-UVWI.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=26 hivel=51 offset=268 end=1047381 loop_mode=no_loop
+<region> sample=braids-atl-F0-76-SY27.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=52 hivel=76 offset=429 end=1094528 loop_mode=no_loop
+<region> sample=braids-atl-F0-102-OB5K.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=77 hivel=102 offset=447 end=1104643 loop_mode=no_loop
+<region> sample=braids-atl-F0-127-HDT4.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=103 hivel=127 offset=448 loop_mode=no_loop
+<region> sample=braids-atl-F#0-25-D1V3.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=1 hivel=25 offset=315 end=1001507 loop_mode=no_loop
+<region> sample=braids-atl-F#0-51-L7SE.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=26 hivel=51 offset=228 loop_mode=no_loop
+<region> sample=braids-atl-F#0-76-LTJM.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=52 hivel=76 offset=459 end=1103138 loop_mode=no_loop
+<region> sample=braids-atl-F#0-102-AW91.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=77 hivel=102 offset=240 loop_mode=no_loop
+<region> sample=braids-atl-F#0-127-UC8K.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=103 hivel=127 offset=349 end=1148255 loop_mode=no_loop
+<region> sample=braids-atl-G0-25-W2CK.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=1 hivel=25 offset=215 end=979554 loop_mode=no_loop
+<region> sample=braids-atl-G0-51-O7K6.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=26 hivel=51 offset=89 loop_mode=no_loop
+<region> sample=braids-atl-G0-76-BUL3.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=52 hivel=76 offset=375 end=1095606 loop_mode=no_loop
+<region> sample=braids-atl-G0-102-7PFR.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=77 hivel=102 offset=332 end=1115172 loop_mode=no_loop
+<region> sample=braids-atl-G0-127-JWZ4.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=103 hivel=127 offset=282 end=1146492 loop_mode=no_loop
+<region> sample=braids-atl-G#0-25-Z599.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=1 hivel=25 offset=459 loop_mode=no_loop
+<region> sample=braids-atl-G#0-51-BX12.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=26 hivel=51 offset=228 end=1046648 loop_mode=no_loop
+<region> sample=braids-atl-G#0-76-3TRY.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=52 hivel=76 offset=341 end=1081070 loop_mode=no_loop
+<region> sample=braids-atl-G#0-102-R5U9.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=77 hivel=102 offset=258 end=1088824 loop_mode=no_loop
+<region> sample=braids-atl-G#0-127-LAGL.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=103 hivel=127 offset=266 end=1187848 loop_mode=no_loop
+<region> sample=braids-atl-A0-25-MXAU.aif key=33 lokey=33 hikey=33 amp_veltrack=20 lovel=1 hivel=25 offset=218 end=980788 loop_mode=no_loop
+<region> sample=braids-atl-A0-51-K8LL.aif key=33 lokey=33 hikey=33 amp_veltrack=20 lovel=26 hivel=51 offset=162 end=1042123 loop_mode=no_loop
+<region> sample=braids-atl-A0-76-IGIN.aif key=33 lokey=33 hikey=33 amp_veltrack=20 lovel=52 hivel=76 offset=409 end=1084613 loop_mode=no_loop
+<region> sample=braids-atl-A0-102-MUPE.aif key=33 lokey=33 hikey=33 amp_veltrack=20 lovel=77 hivel=102 offset=414 end=1131144 loop_mode=no_loop
+<region> sample=braids-atl-A0-127-LYU8.aif key=33 lokey=33 hikey=33 amp_veltrack=20 lovel=103 hivel=127 offset=396 end=1157127 loop_mode=no_loop
+<region> sample=braids-atl-A#0-25-EWHV.aif key=34 lokey=34 hikey=34 amp_veltrack=20 lovel=1 hivel=25 offset=254 end=985870 loop_mode=no_loop
+<region> sample=braids-atl-A#0-51-B416.aif key=34 lokey=34 hikey=34 amp_veltrack=20 lovel=26 hivel=51 offset=248 end=1033602 loop_mode=no_loop
+<region> sample=braids-atl-A#0-76-1HBQ.aif key=34 lokey=34 hikey=34 amp_veltrack=20 lovel=52 hivel=76 offset=263 end=1073543 loop_mode=no_loop
+<region> sample=braids-atl-A#0-102-5KJL.aif key=34 lokey=34 hikey=34 amp_veltrack=20 lovel=77 hivel=102 offset=312 loop_mode=no_loop
+<region> sample=braids-atl-A#0-127-Y7YZ.aif key=34 lokey=34 hikey=34 amp_veltrack=20 lovel=103 hivel=127 offset=366 end=1134580 loop_mode=no_loop
+<region> sample=braids-atl-B0-25-B0BR.aif key=35 lokey=35 hikey=35 amp_veltrack=20 lovel=1 hivel=25 offset=196 end=996391 loop_mode=no_loop
+<region> sample=braids-atl-B0-51-0LN3.aif key=35 lokey=35 hikey=35 amp_veltrack=20 lovel=26 hivel=51 offset=230 end=1033989 loop_mode=no_loop
+<region> sample=braids-atl-B0-76-OTK6.aif key=35 lokey=35 hikey=35 amp_veltrack=20 lovel=52 hivel=76 offset=215 end=1098794 loop_mode=no_loop
+<region> sample=braids-atl-B0-102-NPF9.aif key=35 lokey=35 hikey=35 amp_veltrack=20 lovel=77 hivel=102 offset=495 loop_mode=no_loop
+<region> sample=braids-atl-B0-127-MDCA.aif key=35 lokey=35 hikey=35 amp_veltrack=20 lovel=103 hivel=127 offset=382 loop_mode=no_loop
+<region> sample=braids-atl-C1-25-Q8IA.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=1 hivel=25 offset=40 end=1005062 loop_mode=no_loop
+<region> sample=braids-atl-C1-51-RM8N.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=26 hivel=51 offset=228 end=1038256 loop_mode=no_loop
+<region> sample=braids-atl-C1-76-DW3K.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=52 hivel=76 offset=446 loop_mode=no_loop
+<region> sample=braids-atl-C1-102-TYA4.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=77 hivel=102 offset=311 loop_mode=no_loop
+<region> sample=braids-atl-C1-127-98CY.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=103 hivel=127 offset=321 end=1181015 loop_mode=no_loop
+<region> sample=braids-atl-C#1-25-LDVN.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=25 offset=216 end=995286 loop_mode=no_loop
+<region> sample=braids-atl-C#1-51-WL9C.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=26 hivel=51 offset=213 loop_mode=no_loop
+<region> sample=braids-atl-C#1-76-E84Y.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=52 hivel=76 offset=415 end=1071117 loop_mode=no_loop
+<region> sample=braids-atl-C#1-102-QJRK.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=77 hivel=102 offset=240 end=1123882 loop_mode=no_loop
+<region> sample=braids-atl-C#1-127-FKXS.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=103 hivel=127 offset=263 end=1163763 loop_mode=no_loop
+<region> sample=braids-atl-D1-25-J77K.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=25 offset=311 loop_mode=no_loop
+<region> sample=braids-atl-D1-51-NZXX.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=26 hivel=51 offset=367 end=1038026 loop_mode=no_loop
+<region> sample=braids-atl-D1-76-HP9M.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=52 hivel=76 offset=226 end=1066588 loop_mode=no_loop
+<region> sample=braids-atl-D1-102-4K4C.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=77 hivel=102 offset=31 loop_mode=no_loop
+<region> sample=braids-atl-D1-127-FMD8.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=103 hivel=127 offset=371 loop_mode=no_loop
+<region> sample=braids-atl-D#1-25-YJ39.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=25 offset=220 end=994571 loop_mode=no_loop
+<region> sample=braids-atl-D#1-51-42KG.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=26 hivel=51 offset=324 end=1041675 loop_mode=no_loop
+<region> sample=braids-atl-D#1-76-XGSZ.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=52 hivel=76 offset=413 end=1083546 loop_mode=no_loop
+<region> sample=braids-atl-D#1-102-AATC.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=77 hivel=102 offset=340 loop_mode=no_loop
+<region> sample=braids-atl-D#1-127-5MT9.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=103 hivel=127 offset=353 end=1133589 loop_mode=no_loop
+<region> sample=braids-atl-E1-25-OH0D.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=25 offset=432 end=986333 loop_mode=no_loop
+<region> sample=braids-atl-E1-51-7RKB.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=26 hivel=51 offset=371 end=1041964 loop_mode=no_loop
+<region> sample=braids-atl-E1-76-VSB7.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=52 hivel=76 offset=244 end=1097462 loop_mode=no_loop
+<region> sample=braids-atl-E1-102-2G2D.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=77 hivel=102 offset=279 loop_mode=no_loop
+<region> sample=braids-atl-E1-127-9239.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=103 hivel=127 offset=289 loop_mode=no_loop
+<region> sample=braids-atl-F1-25-JWU1.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=25 offset=453 loop_mode=no_loop
+<region> sample=braids-atl-F1-51-63PI.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=26 hivel=51 offset=295 loop_mode=no_loop
+<region> sample=braids-atl-F1-76-5B06.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=52 hivel=76 offset=293 end=1079726 loop_mode=no_loop
+<region> sample=braids-atl-F1-102-C5AQ.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=77 hivel=102 offset=315 end=1129112 loop_mode=no_loop
+<region> sample=braids-atl-F1-127-5WJZ.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=103 hivel=127 offset=334 end=1138085 loop_mode=no_loop
+<region> sample=braids-atl-F#1-25-KWFS.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=25 offset=136 end=978547 loop_mode=no_loop
+<region> sample=braids-atl-F#1-51-H42T.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=26 hivel=51 offset=195 end=1057644 loop_mode=no_loop
+<region> sample=braids-atl-F#1-76-CL6A.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=52 hivel=76 offset=249 loop_mode=no_loop
+<region> sample=braids-atl-F#1-102-K5UP.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=77 hivel=102 offset=219 end=1134175 loop_mode=no_loop
+<region> sample=braids-atl-F#1-127-MQK4.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=103 hivel=127 offset=375 end=1120290 loop_mode=no_loop
+<region> sample=braids-atl-G1-25-O0JJ.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=25 offset=386 end=987479 loop_mode=no_loop
+<region> sample=braids-atl-G1-51-BMXT.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=26 hivel=51 offset=474 end=1049850 loop_mode=no_loop
+<region> sample=braids-atl-G1-76-M1ZS.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=52 hivel=76 offset=449 end=1078860 loop_mode=no_loop
+<region> sample=braids-atl-G1-102-37XB.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=77 hivel=102 offset=313 end=1104657 loop_mode=no_loop
+<region> sample=braids-atl-G1-127-LRBX.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=103 hivel=127 offset=314 end=1121663 loop_mode=no_loop
+<region> sample=braids-atl-G#1-25-1V64.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=25 offset=295 end=991766 loop_mode=no_loop
+<region> sample=braids-atl-G#1-51-W44U.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=26 hivel=51 offset=195 end=1055734 loop_mode=no_loop
+<region> sample=braids-atl-G#1-76-O7YC.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=52 hivel=76 offset=364 loop_mode=no_loop
+<region> sample=braids-atl-G#1-102-NG0A.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=77 hivel=102 offset=389 end=1129335 loop_mode=no_loop
+<region> sample=braids-atl-G#1-127-P8U3.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=103 hivel=127 offset=193 end=1154150 loop_mode=no_loop
+<region> sample=braids-atl-A1-25-9OFT.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=25 offset=507 end=984909 loop_mode=no_loop
+<region> sample=braids-atl-A1-51-7T12.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=26 hivel=51 offset=141 end=1032859 loop_mode=no_loop
+<region> sample=braids-atl-A1-76-64JK.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=52 hivel=76 offset=216 loop_mode=no_loop
+<region> sample=braids-atl-A1-102-V0RM.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=77 hivel=102 offset=415 loop_mode=no_loop
+<region> sample=braids-atl-A1-127-AV43.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=103 hivel=127 offset=473 end=1191398 loop_mode=no_loop
+<region> sample=braids-atl-A#1-25-U8M1.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=25 offset=381 end=987985 loop_mode=no_loop
+<region> sample=braids-atl-A#1-51-LC2J.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=26 hivel=51 offset=204 loop_mode=no_loop
+<region> sample=braids-atl-A#1-76-NF7F.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=52 hivel=76 offset=344 end=1076518 loop_mode=no_loop
+<region> sample=braids-atl-A#1-102-DB9Y.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=77 hivel=102 offset=296 end=1099863 loop_mode=no_loop
+<region> sample=braids-atl-A#1-127-1JT2.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=103 hivel=127 offset=256 end=1172648 loop_mode=no_loop
+<region> sample=braids-atl-B1-25-ZVKC.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=25 offset=137 end=997503 loop_mode=no_loop
+<region> sample=braids-atl-B1-51-7N9P.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=26 hivel=51 offset=260 end=1039099 loop_mode=no_loop
+<region> sample=braids-atl-B1-76-GMK8.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=52 hivel=76 offset=362 loop_mode=no_loop
+<region> sample=braids-atl-B1-102-IV3V.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=77 hivel=102 offset=269 end=1103035 loop_mode=no_loop
+<region> sample=braids-atl-B1-127-X4LB.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=103 hivel=127 offset=298 end=1170145 loop_mode=no_loop
+<region> sample=braids-atl-C2-25-XMPS.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=25 offset=278 end=986531 loop_mode=no_loop
+<region> sample=braids-atl-C2-51-UJWS.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=26 hivel=51 offset=197 end=1038572 loop_mode=no_loop
+<region> sample=braids-atl-C2-76-PD4I.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=52 hivel=76 offset=210 end=1086384 loop_mode=no_loop
+<region> sample=braids-atl-C2-102-EKBY.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=77 hivel=102 offset=256 end=1131840 loop_mode=no_loop
+<region> sample=braids-atl-C2-127-BEHJ.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=103 hivel=127 offset=365 end=1150642 loop_mode=no_loop
+<region> sample=braids-atl-C#2-25-JL2F.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=25 offset=163 end=980962 loop_mode=no_loop
+<region> sample=braids-atl-C#2-51-KZDZ.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=26 hivel=51 offset=317 end=1034507 loop_mode=no_loop
+<region> sample=braids-atl-C#2-76-4E5R.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=52 hivel=76 offset=452 end=1084980 loop_mode=no_loop
+<region> sample=braids-atl-C#2-102-P0ZB.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=77 hivel=102 offset=381 end=1124563 loop_mode=no_loop
+<region> sample=braids-atl-C#2-127-KLV4.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=103 hivel=127 offset=211 end=1157451 loop_mode=no_loop
+<region> sample=braids-atl-D2-25-M0KY.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=25 offset=152 loop_mode=no_loop
+<region> sample=braids-atl-D2-51-2T4L.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=26 hivel=51 offset=191 loop_mode=no_loop
+<region> sample=braids-atl-D2-76-1G86.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=52 hivel=76 offset=343 end=1087354 loop_mode=no_loop
+<region> sample=braids-atl-D2-102-XOOI.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=77 hivel=102 offset=236 end=1095682 loop_mode=no_loop
+<region> sample=braids-atl-D2-127-LFK0.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=103 hivel=127 offset=316 loop_mode=no_loop
+<region> sample=braids-atl-D#2-25-H3G4.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=25 offset=205 end=980479 loop_mode=no_loop
+<region> sample=braids-atl-D#2-51-6VDJ.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=26 hivel=51 offset=397 end=1062629 loop_mode=no_loop
+<region> sample=braids-atl-D#2-76-FYLE.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=52 hivel=76 offset=313 end=1067723 loop_mode=no_loop
+<region> sample=braids-atl-D#2-102-35X0.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=77 hivel=102 offset=305 loop_mode=no_loop
+<region> sample=braids-atl-D#2-127-04ZO.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=103 hivel=127 offset=307 end=1192075 loop_mode=no_loop
+<region> sample=braids-atl-E2-25-5JIJ.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=25 offset=279 loop_mode=no_loop
+<region> sample=braids-atl-E2-51-M5QJ.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=26 hivel=51 offset=273 end=1040714 loop_mode=no_loop
+<region> sample=braids-atl-E2-76-RPAG.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=52 hivel=76 offset=412 loop_mode=no_loop
+<region> sample=braids-atl-E2-102-WAWF.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=77 hivel=102 offset=277 end=1146663 loop_mode=no_loop
+<region> sample=braids-atl-E2-127-XVUG.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=103 hivel=127 offset=259 end=1179431 loop_mode=no_loop
+<region> sample=braids-atl-F2-25-WK2G.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=25 offset=137 end=981574 loop_mode=no_loop
+<region> sample=braids-atl-F2-51-Y4WE.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=26 hivel=51 offset=318 end=1034292 loop_mode=no_loop
+<region> sample=braids-atl-F2-76-F8O7.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=52 hivel=76 offset=307 end=1087784 loop_mode=no_loop
+<region> sample=braids-atl-F2-102-WCJL.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=77 hivel=102 offset=217 end=1117128 loop_mode=no_loop
+<region> sample=braids-atl-F2-127-OMCQ.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=103 hivel=127 offset=264 loop_mode=no_loop
+<region> sample=braids-atl-F#2-25-IJYQ.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=25 offset=248 end=990178 loop_mode=no_loop
+<region> sample=braids-atl-F#2-51-AMFO.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=26 hivel=51 offset=463 end=1042402 loop_mode=no_loop
+<region> sample=braids-atl-F#2-76-SQKC.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=52 hivel=76 offset=198 end=1089561 loop_mode=no_loop
+<region> sample=braids-atl-F#2-102-AB5G.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=77 hivel=102 offset=273 loop_mode=no_loop
+<region> sample=braids-atl-F#2-127-VOP0.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=103 hivel=127 offset=206 end=1144952 loop_mode=no_loop
+<region> sample=braids-atl-G2-25-5GZ5.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=25 offset=291 loop_mode=no_loop
+<region> sample=braids-atl-G2-51-CMD7.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=26 hivel=51 offset=460 end=1035507 loop_mode=no_loop
+<region> sample=braids-atl-G2-76-PXZF.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=52 hivel=76 offset=443 end=1082415 loop_mode=no_loop
+<region> sample=braids-atl-G2-102-2OHD.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=77 hivel=102 offset=340 end=1113280 loop_mode=no_loop
+<region> sample=braids-atl-G2-127-EHYD.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=103 hivel=127 offset=194 end=1144453 loop_mode=no_loop
+<region> sample=braids-atl-G#2-25-UWRB.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=25 offset=356 end=998637 loop_mode=no_loop
+<region> sample=braids-atl-G#2-51-08ZP.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=26 hivel=51 offset=302 end=1054062 loop_mode=no_loop
+<region> sample=braids-atl-G#2-76-5UDO.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=52 hivel=76 offset=242 end=1085920 loop_mode=no_loop
+<region> sample=braids-atl-G#2-102-FMAL.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=77 hivel=102 offset=265 end=1100776 loop_mode=no_loop
+<region> sample=braids-atl-G#2-127-Q90Z.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=103 hivel=127 offset=392 end=1175458 loop_mode=no_loop
+<region> sample=braids-atl-A2-25-Z210.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=25 offset=46 end=994899 loop_mode=no_loop
+<region> sample=braids-atl-A2-51-HUWT.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=26 hivel=51 offset=369 end=1042397 loop_mode=no_loop
+<region> sample=braids-atl-A2-76-WVE8.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=52 hivel=76 offset=441 end=1063967 loop_mode=no_loop
+<region> sample=braids-atl-A2-102-XY6N.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=77 hivel=102 offset=219 end=1112517 loop_mode=no_loop
+<region> sample=braids-atl-A2-127-ZGF9.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=103 hivel=127 offset=232 loop_mode=no_loop
+<region> sample=braids-atl-A#2-25-PHE7.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=25 offset=330 loop_mode=no_loop
+<region> sample=braids-atl-A#2-51-8FPF.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=26 hivel=51 offset=380 end=1034177 loop_mode=no_loop
+<region> sample=braids-atl-A#2-76-LCJR.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=52 hivel=76 offset=371 end=1094582 loop_mode=no_loop
+<region> sample=braids-atl-A#2-102-P4GJ.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=77 hivel=102 offset=271 end=1134300 loop_mode=no_loop
+<region> sample=braids-atl-A#2-127-1X9R.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=103 hivel=127 offset=244 end=1181052 loop_mode=no_loop
+<region> sample=braids-atl-B2-25-Q1DD.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=25 offset=181 end=996429 loop_mode=no_loop
+<region> sample=braids-atl-B2-51-5JCG.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=26 hivel=51 offset=301 end=1069904 loop_mode=no_loop
+<region> sample=braids-atl-B2-76-42JR.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=52 hivel=76 offset=357 end=1090648 loop_mode=no_loop
+<region> sample=braids-atl-B2-102-YE1C.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=77 hivel=102 offset=508 end=1126439 loop_mode=no_loop
+<region> sample=braids-atl-B2-127-CCWS.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=103 hivel=127 offset=294 loop_mode=no_loop
+<region> sample=braids-atl-C3-25-73Q7.aif key=60 lokey=60 hikey=106 amp_veltrack=20 lovel=1 hivel=25 offset=381 end=989272 loop_mode=no_loop
+<region> sample=braids-atl-C3-51-50U7.aif key=60 lokey=60 hikey=106 amp_veltrack=20 lovel=26 hivel=51 offset=294 end=1066584 loop_mode=no_loop
+<region> sample=braids-atl-C3-76-4VDQ.aif key=60 lokey=60 hikey=106 amp_veltrack=20 lovel=52 hivel=76 offset=189 end=1104774 loop_mode=no_loop
+<region> sample=braids-atl-C3-102-ZKGK.aif key=60 lokey=60 hikey=106 amp_veltrack=20 lovel=77 hivel=102 offset=450 end=1131359 loop_mode=no_loop
+<region> sample=braids-atl-C3-127-MWRN.aif key=60 lokey=60 hikey=106 amp_veltrack=20 lovel=103 hivel=127 offset=390 end=1166720 loop_mode=no_loop

@@ -1,0 +1,46 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - short wibble_-01.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/short wibble_-01-SAMPLES/
+
+<group> volume=-3        // Single group
+<region> sample=20091113160527_c17f0000.wav key=36 lokey=0 hikey=36 end=47124 loop_mode=no_loop
+<region> sample=20091113160540_c#17f0000.wav key=37 lokey=37 hikey=37 end=45425 loop_mode=no_loop
+<region> sample=20091113160553_d17f0000.wav key=38 lokey=38 hikey=38 end=47127 loop_mode=no_loop
+<region> sample=20091113160607_d#17f0000.wav key=39 lokey=39 hikey=39 end=44100 loop_mode=no_loop
+<region> sample=20091113160620_e17f0000.wav key=40 lokey=40 hikey=40 end=45883 loop_mode=no_loop
+<region> sample=20091113160634_f17f0000.wav key=41 lokey=41 hikey=41 end=45906 loop_mode=no_loop
+<region> sample=20091113160647_f#17f0000.wav key=42 lokey=42 hikey=42 end=45389 loop_mode=no_loop
+<region> sample=20091113160701_g17f0000.wav key=43 lokey=43 hikey=43 end=44734 loop_mode=no_loop
+<region> sample=20091113160714_g#17f0000.wav key=44 lokey=44 hikey=44 end=46317 loop_mode=no_loop
+<region> sample=20091113160728_a17f0000.wav key=45 lokey=45 hikey=45 end=44369 loop_mode=no_loop
+<region> sample=20091113160741_a#17f0000.wav key=46 lokey=46 hikey=46 end=43840 loop_mode=no_loop
+<region> sample=20091113160754_b17f0000.wav key=47 lokey=47 hikey=47 end=47075 loop_mode=no_loop
+<region> sample=20091113160808_c27f0000.wav key=48 lokey=48 hikey=48 end=44656 loop_mode=no_loop
+<region> sample=20091113160821_c#27f0000.wav key=49 lokey=49 hikey=49 end=45674 loop_mode=no_loop
+<region> sample=20091113160835_d27f0000.wav key=50 lokey=50 hikey=50 end=45194 loop_mode=no_loop
+<region> sample=20091113160848_d#27f0000.wav key=51 lokey=51 hikey=51 end=44410 loop_mode=no_loop
+<region> sample=20091113160902_e27f0000.wav key=52 lokey=52 hikey=52 end=46633 loop_mode=no_loop
+<region> sample=20091113160915_f27f0000.wav key=53 lokey=53 hikey=53 end=46403 loop_mode=no_loop
+<region> sample=20091113160929_f#27f0000.wav key=54 lokey=54 hikey=54 end=44686 loop_mode=no_loop
+<region> sample=20091113160942_g27f0000.wav key=55 lokey=55 hikey=55 end=44237 loop_mode=no_loop
+<region> sample=20091113160955_g#27f0000.wav key=56 lokey=56 hikey=56 end=47452 loop_mode=no_loop
+<region> sample=20091113161009_a27f0000.wav key=57 lokey=57 hikey=57 end=46756 loop_mode=no_loop
+<region> sample=20091113161022_a#27f0000.wav key=58 lokey=58 hikey=59 end=44645 loop_mode=no_loop
+<region> sample=20091113161232_c#37f0000.wav key=61 lokey=60 hikey=61 end=57198 loop_mode=no_loop
+<region> sample=20091113161245_d37f0000.wav key=62 lokey=62 hikey=62 end=61695 loop_mode=no_loop
+<region> sample=20091113161259_d#37f0000.wav key=63 lokey=63 hikey=63 end=64375 loop_mode=no_loop
+<region> sample=20091113161338_e37f0000.wav key=64 lokey=64 hikey=64 end=57370 loop_mode=no_loop
+<region> sample=20091113161351_f37f0000.wav key=65 lokey=65 hikey=65 end=57872 loop_mode=no_loop
+<region> sample=20091113161405_f#37f0000.wav key=66 lokey=66 hikey=66 end=54694 loop_mode=no_loop
+<region> sample=20091113161418_g37f0000.wav key=67 lokey=67 hikey=67 end=54117 loop_mode=no_loop
+<region> sample=20091113161432_g#37f0000.wav key=68 lokey=68 hikey=68 end=51464 loop_mode=no_loop
+<region> sample=20091113161445_a37f0000.wav key=69 lokey=69 hikey=69 end=54468 loop_mode=no_loop
+<region> sample=20091113161458_a#37f0000.wav key=70 lokey=70 hikey=70 end=55486 loop_mode=no_loop
+<region> sample=20091113161512_b37f0000.wav key=71 lokey=71 hikey=71 end=64738 loop_mode=no_loop
+<region> sample=20091113161525_c47f0000.wav key=72 lokey=72 hikey=72 end=62674 loop_mode=no_loop
+<region> sample=20091113161539_c#47f0000.wav key=73 lokey=73 hikey=73 end=56372 loop_mode=no_loop
+<region> sample=20091113161552_d47f0000.wav key=74 lokey=74 hikey=74 end=56660 loop_mode=no_loop
+<region> sample=20091113161606_d#47f0000.wav key=75 lokey=75 hikey=75 end=59642 loop_mode=no_loop
+<region> sample=20091113161619_e47f0000.wav key=76 lokey=76 hikey=127 end=52156 loop_mode=no_loop

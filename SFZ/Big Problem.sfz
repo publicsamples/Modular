@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Big Problem.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Big Problem-SAMPLES/
+
+<group> volume=-6        // 04 Big Problem
+<region> sample=04 Big Problem-36-127.wav key=36 lokey=36 hikey=36 offset=310 end=1069119 loop_mode=no_loop
+<region> sample=04 Big Problem-37-127.wav key=37 lokey=37 hikey=37 offset=309 end=1074111 loop_mode=no_loop
+<region> sample=04 Big Problem-38-127.wav key=38 lokey=38 hikey=38 offset=314 end=1075647 loop_mode=no_loop
+<region> sample=04 Big Problem-39-127.wav key=39 lokey=39 hikey=39 offset=379 end=1075711 loop_mode=no_loop
+<region> sample=04 Big Problem-40-127.wav key=40 lokey=40 hikey=40 offset=337 end=1075519 loop_mode=no_loop
+<region> sample=04 Big Problem-41-127.wav key=41 lokey=41 hikey=41 offset=311 end=1076671 loop_mode=no_loop
+<region> sample=04 Big Problem-42-127.wav key=42 lokey=42 hikey=42 offset=324 end=1075519 loop_mode=no_loop
+<region> sample=04 Big Problem-43-127.wav key=43 lokey=43 hikey=43 offset=331 end=1079231 loop_mode=no_loop
+<region> sample=04 Big Problem-44-127.wav key=44 lokey=44 hikey=44 offset=326 end=1087167 loop_mode=no_loop
+<region> sample=04 Big Problem-45-127.wav key=45 lokey=45 hikey=45 offset=301 end=1080639 loop_mode=no_loop
+<region> sample=04 Big Problem-46-127.wav key=46 lokey=46 hikey=46 offset=329 end=1076159 loop_mode=no_loop
+<region> sample=04 Big Problem-47-127.wav key=47 lokey=47 hikey=47 offset=274 end=1073471 loop_mode=no_loop
+<region> sample=04 Big Problem-48-127.wav key=48 lokey=48 hikey=48 offset=325 end=1077823 loop_mode=no_loop
+<region> sample=04 Big Problem-49-127.wav key=49 lokey=49 hikey=49 offset=344 end=1074623 loop_mode=no_loop
+<region> sample=04 Big Problem-50-127.wav key=50 lokey=50 hikey=50 offset=362 end=1076031 loop_mode=no_loop
+<region> sample=04 Big Problem-51-127.wav key=51 lokey=51 hikey=51 offset=381 end=1071807 loop_mode=no_loop
+<region> sample=04 Big Problem-52-127.wav key=52 lokey=52 hikey=52 offset=306 end=1073279 loop_mode=no_loop
+<region> sample=04 Big Problem-53-127.wav key=53 lokey=53 hikey=53 offset=309 end=1070271 loop_mode=no_loop
+<region> sample=04 Big Problem-54-127.wav key=54 lokey=54 hikey=54 offset=302 end=1070271 loop_mode=no_loop
+<region> sample=04 Big Problem-55-127.wav key=55 lokey=55 hikey=55 offset=316 end=1068735 loop_mode=no_loop
+<region> sample=04 Big Problem-56-127.wav key=56 lokey=56 hikey=56 offset=299 end=1065919 loop_mode=no_loop
+<region> sample=04 Big Problem-57-127.wav key=57 lokey=57 hikey=57 offset=321 end=1068927 loop_mode=no_loop
+<region> sample=04 Big Problem-58-127.wav key=58 lokey=58 hikey=58 offset=259 end=1069823 loop_mode=no_loop
+<region> sample=04 Big Problem-59-127.wav key=59 lokey=59 hikey=59 offset=260 end=1068095 loop_mode=no_loop
+<region> sample=04 Big Problem-60-127.wav key=60 lokey=60 hikey=60 offset=338 end=1069759 loop_mode=no_loop
+<region> sample=04 Big Problem-61-127.wav key=61 lokey=61 hikey=61 offset=334 end=1073599 loop_mode=no_loop
+<region> sample=04 Big Problem-62-127.wav key=62 lokey=62 hikey=62 offset=328 end=1074367 loop_mode=no_loop
+<region> sample=04 Big Problem-63-127.wav key=63 lokey=63 hikey=63 offset=330 end=1072575 loop_mode=no_loop
+<region> sample=04 Big Problem-64-127.wav key=64 lokey=64 hikey=64 offset=325 end=1074751 loop_mode=no_loop
+<region> sample=04 Big Problem-65-127.wav key=65 lokey=65 hikey=65 offset=333 end=1072639 loop_mode=no_loop
+<region> sample=04 Big Problem-66-127.wav key=66 lokey=66 hikey=66 offset=329 end=1075135 loop_mode=no_loop
+<region> sample=04 Big Problem-67-127.wav key=67 lokey=67 hikey=67 offset=334 end=1074943 loop_mode=no_loop
+<region> sample=04 Big Problem-68-127.wav key=68 lokey=68 hikey=68 offset=390 end=1072831 loop_mode=no_loop
+<region> sample=04 Big Problem-69-127.wav key=69 lokey=69 hikey=69 offset=358 end=1075775 loop_mode=no_loop
+<region> sample=04 Big Problem-70-127.wav key=70 lokey=70 hikey=70 offset=341 end=1070463 loop_mode=no_loop
+<region> sample=04 Big Problem-71-127.wav key=71 lokey=71 hikey=71 offset=343 end=1070847 loop_mode=no_loop
+<region> sample=04 Big Problem-72-127.wav key=72 lokey=72 hikey=72 offset=324 end=1069823 loop_mode=no_loop
+<region> sample=04 Big Problem-73-127.wav key=73 lokey=73 hikey=73 offset=333 end=1069503 loop_mode=no_loop
+<region> sample=04 Big Problem-74-127.wav key=74 lokey=74 hikey=74 offset=349 end=1070719 loop_mode=no_loop
+<region> sample=04 Big Problem-75-127.wav key=75 lokey=75 hikey=75 offset=338 end=1067583 loop_mode=no_loop
+<region> sample=04 Big Problem-76-127.wav key=76 lokey=76 hikey=76 offset=271 end=1065983 loop_mode=no_loop
+<region> sample=04 Big Problem-77-127.wav key=77 lokey=77 hikey=77 offset=348 end=1068735 loop_mode=no_loop
+<region> sample=04 Big Problem-78-127.wav key=78 lokey=78 hikey=78 offset=340 end=1068095 loop_mode=no_loop
+<region> sample=04 Big Problem-79-127.wav key=79 lokey=79 hikey=79 offset=342 end=1067903 loop_mode=no_loop
+<region> sample=04 Big Problem-80-127.wav key=80 lokey=80 hikey=80 offset=285 end=1071423 loop_mode=no_loop
+<region> sample=04 Big Problem-81-127.wav key=81 lokey=81 hikey=81 offset=273 end=1072703 loop_mode=no_loop
+<region> sample=04 Big Problem-82-127.wav key=82 lokey=82 hikey=82 offset=334 end=1071999 loop_mode=no_loop
+<region> sample=04 Big Problem-83-127.wav key=83 lokey=83 hikey=83 offset=262 end=1072255 loop_mode=no_loop
+<region> sample=04 Big Problem-84-127.wav key=84 lokey=84 hikey=84 offset=342 end=1076543 loop_mode=no_loop
+<region> sample=04 Big Problem-85-127.wav key=85 lokey=85 hikey=85 offset=281 end=1076543 loop_mode=no_loop
+<region> sample=04 Big Problem-86-127.wav key=86 lokey=86 hikey=86 offset=351 end=1081791 loop_mode=no_loop
+<region> sample=04 Big Problem-87-127.wav key=87 lokey=87 hikey=87 offset=337 end=1077247 loop_mode=no_loop
+<region> sample=04 Big Problem-88-127.wav key=88 lokey=88 hikey=88 offset=332 end=1077567 loop_mode=no_loop
+<region> sample=04 Big Problem-89-127.wav key=89 lokey=89 hikey=89 offset=341 end=1077055 loop_mode=no_loop
+<region> sample=04 Big Problem-90-127.wav key=90 lokey=90 hikey=90 offset=273 end=1078655 loop_mode=no_loop
+<region> sample=04 Big Problem-91-127.wav key=91 lokey=91 hikey=91 offset=284 end=1076543 loop_mode=no_loop
+<region> sample=04 Big Problem-92-127.wav key=92 lokey=92 hikey=92 offset=342 end=1072255 loop_mode=no_loop
+<region> sample=04 Big Problem-93-127.wav key=93 lokey=93 hikey=93 offset=414 end=1077055 loop_mode=no_loop
+<region> sample=04 Big Problem-94-127.wav key=94 lokey=94 hikey=94 offset=344 end=1073279 loop_mode=no_loop
+<region> sample=04 Big Problem-95-127.wav key=95 lokey=95 hikey=95 offset=339 end=1071231 loop_mode=no_loop
+<region> sample=04 Big Problem-96-127.wav key=96 lokey=96 hikey=96 offset=299 end=1070847 loop_mode=no_loop

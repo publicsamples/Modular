@@ -1,0 +1,120 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Funky Band 110.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+
+
+<control>
+default_path=../Audio/Madness-SAMPLES/
+
+<group> volume=-6        // Funky Band 110
+<region> sample=Funky Band 110-48-127-MTZB.wav key=48 lokey=48 hikey=48 end=668604 loop_mode=loop_continuous loop_start=264916 loop_end=359551
+
+
+<region> sample=Funky Band 110-49-127-1P91.wav key=49 lokey=49 hikey=49 end=668782 loop_mode=loop_continuous loop_start=320659 loop_end=416891
+
+
+<region> sample=Funky Band 110-50-127-1OLX.wav key=50 lokey=50 hikey=50 end=670550 loop_mode=loop_continuous loop_start=338022 loop_end=435841
+
+
+<region> sample=Funky Band 110-51-127-W25P.wav key=51 lokey=51 hikey=51 end=669018 loop_mode=loop_continuous loop_start=334566 loop_end=429196
+
+
+<region> sample=Funky Band 110-52-127-JGP5.wav key=52 lokey=52 hikey=52 end=667776 loop_mode=loop_continuous loop_start=298458 loop_end=394588
+
+
+<region> sample=Funky Band 110-53-127-N883.wav key=53 lokey=53 hikey=53 end=667446 loop_mode=loop_continuous loop_start=314139 loop_end=409973
+
+
+<region> sample=Funky Band 110-54-127-ATVD.wav key=54 lokey=54 hikey=54 end=670069 loop_mode=loop_continuous loop_start=340608 loop_end=435500
+
+
+<region> sample=Funky Band 110-55-127-MUMW.wav key=55 lokey=55 hikey=55 end=669197 loop_mode=loop_continuous loop_start=318449 loop_end=414569
+
+
+<region> sample=Funky Band 110-56-127-O6I7.wav key=56 lokey=56 hikey=56 end=671991 loop_mode=loop_continuous loop_start=321777 loop_end=417946
+
+
+<region> sample=Funky Band 110-57-127-2FEL.wav key=57 lokey=57 hikey=57 end=669400 loop_mode=loop_continuous loop_start=330870 loop_end=427369
+
+
+<region> sample=Funky Band 110-58-127-QNSZ.wav key=58 lokey=58 hikey=58 end=668762 loop_mode=loop_continuous loop_start=312748 loop_end=409469
+
+
+<region> sample=Funky Band 110-59-127-TAIT.wav key=59 lokey=59 hikey=59 end=676316 loop_mode=loop_continuous loop_start=319375 loop_end=415360
+
+
+<region> sample=Funky Band 110-60-127-XT7K.wav key=60 lokey=60 hikey=60 end=671306 loop_mode=loop_continuous loop_start=12016 loop_end=108328
+
+
+<region> sample=Funky Band 110-61-127-HZT3.wav key=61 lokey=61 hikey=61 end=670257 loop_mode=loop_continuous loop_start=333772 loop_end=429201
+
+
+<region> sample=Funky Band 110-62-127-7ZG0.wav key=62 lokey=62 hikey=62 end=671254 loop_mode=loop_continuous loop_start=290918 loop_end=386204
+
+
+<region> sample=Funky Band 110-63-127-V1M6.wav key=63 lokey=63 hikey=63 end=669451 loop_mode=loop_continuous loop_start=89873 loop_end=186309
+
+
+<region> sample=Funky Band 110-64-127-40C7.wav key=64 lokey=64 hikey=64 end=669715 loop_mode=loop_continuous loop_start=329865 loop_end=425912
+
+
+<region> sample=Funky Band 110-65-127-OY62.wav key=65 lokey=65 hikey=65 end=669620 loop_mode=loop_continuous loop_start=259007 loop_end=355219
+
+
+<region> sample=Funky Band 110-66-127-TPXE.wav key=66 lokey=66 hikey=66 end=668857 loop_mode=loop_continuous loop_start=167892 loop_end=263790
+
+
+<region> sample=Funky Band 110-67-127-G2G7.wav key=67 lokey=67 hikey=67 end=669369 loop_mode=loop_continuous loop_start=318122 loop_end=414545
+
+
+<region> sample=Funky Band 110-68-127-5G2H.wav key=68 lokey=68 hikey=68 end=669628 loop_mode=loop_continuous loop_start=213782 loop_end=309899
+
+
+<region> sample=Funky Band 110-69-127-WDBM.wav key=69 lokey=69 hikey=69 end=670389 loop_mode=loop_continuous loop_start=224070 loop_end=320516
+
+
+<region> sample=Funky Band 110-70-127-Z3WK.wav key=70 lokey=70 hikey=70 end=672575 loop_mode=loop_continuous loop_start=249851 loop_end=346096
+
+
+<region> sample=Funky Band 110-71-127-6LSW.wav key=71 lokey=71 hikey=71 end=670238 loop_mode=loop_continuous loop_start=327598 loop_end=423700
+
+
+<region> sample=Funky Band 110-72-127-YYNG.wav key=72 lokey=72 hikey=72 end=669827 loop_mode=loop_continuous loop_start=278083 loop_end=422251
+
+
+<region> sample=Funky Band 110-73-127-N9YU.wav key=73 lokey=73 hikey=73 end=670151 loop_mode=loop_continuous loop_start=295607 loop_end=392176
+
+
+<region> sample=Funky Band 110-74-127-61G3.wav key=74 lokey=74 hikey=74 end=669930 loop_mode=loop_continuous loop_start=318300 loop_end=414686
+
+
+<region> sample=Funky Band 110-75-127-52TR.wav key=75 lokey=75 hikey=75 end=670541 loop_mode=loop_continuous loop_start=323066 loop_end=419793
+
+
+<region> sample=Funky Band 110-76-127-U55N.wav key=76 lokey=76 hikey=76 end=829116 loop_mode=loop_continuous loop_start=316538 loop_end=412739
+
+
+<region> sample=Funky Band 110-77-127-8T1E.wav key=77 lokey=77 hikey=77 end=671432 loop_mode=loop_continuous loop_start=339248 loop_end=435488
+
+
+<region> sample=Funky Band 110-78-127-MB1F.wav key=78 lokey=78 hikey=78 end=669054 loop_mode=loop_continuous loop_start=297358 loop_end=393513
+
+
+<region> sample=Funky Band 110-79-127-8AZQ.wav key=79 lokey=79 hikey=79 end=669619 loop_mode=loop_continuous loop_start=184922 loop_end=281545
+
+
+<region> sample=Funky Band 110-80-127-NEQ3.wav key=80 lokey=80 hikey=80 end=669897 loop_mode=loop_continuous loop_start=126935 loop_end=223143
+
+
+<region> sample=Funky Band 110-81-127-1QCL.wav key=81 lokey=81 hikey=81 end=670024 loop_mode=loop_continuous loop_start=220135 loop_end=316363
+
+
+<region> sample=Funky Band 110-82-127-EQT6.wav key=82 lokey=82 hikey=82 end=670368 loop_mode=loop_continuous loop_start=250778 loop_end=347065
+
+
+<region> sample=Funky Band 110-83-127-LQMB.wav key=83 lokey=83 hikey=83 end=669842 loop_mode=loop_continuous loop_start=293863 loop_end=390102
+
+
+<region> sample=Funky Band 110-84-127-T2AR.wav key=84 lokey=84 hikey=84 end=669080 loop_mode=loop_continuous loop_start=329816 loop_end=425046
+
+

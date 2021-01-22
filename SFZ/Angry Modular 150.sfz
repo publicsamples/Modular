@@ -1,0 +1,126 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Angry Modular 150.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+
+
+<control>
+default_path=../Audio/Angry Modular 150-SAMPLES/
+
+<group> volume=-6        // Angry Modular 150
+<region> sample=Angry Modular 150-48-127.wav key=48 lokey=48 hikey=48 offset=684 end=509439 loop_mode=loop_continuous loop_start=239559 loop_end=281230
+
+
+<region> sample=Angry Modular 150-49-127.wav key=49 lokey=49 hikey=49 offset=691 end=498175 loop_mode=loop_continuous loop_start=230429 loop_end=250121
+
+
+<region> sample=Angry Modular 150-50-127.wav key=50 lokey=50 hikey=50 offset=953 end=503807 loop_mode=loop_continuous loop_start=227562 loop_end=266510
+
+
+<region> sample=Angry Modular 150-51-127.wav key=51 lokey=51 hikey=51 offset=699 end=499711 loop_mode=loop_continuous loop_start=223430 loop_end=305800
+
+
+<region> sample=Angry Modular 150-52-127.wav key=52 lokey=52 hikey=52 offset=698 end=500223 loop_mode=loop_continuous loop_start=237592 loop_end=275693
+
+
+<region> sample=Angry Modular 150-53-127.wav key=53 lokey=53 hikey=53 offset=697 end=496639 loop_mode=loop_continuous loop_start=246373 loop_end=265610
+
+
+<region> sample=Angry Modular 150-54-127.wav key=54 lokey=54 hikey=54 offset=701 end=505855 loop_mode=loop_continuous loop_start=226065 loop_end=254079
+
+
+<region> sample=Angry Modular 150-55-127.wav key=55 lokey=55 hikey=55 offset=699 end=500735 loop_mode=loop_continuous loop_start=239351 loop_end=266200
+
+
+<region> sample=Angry Modular 150-56-127.wav key=56 lokey=56 hikey=56 offset=690 end=496127 loop_mode=loop_continuous loop_start=220781 loop_end=297349
+
+
+<region> sample=Angry Modular 150-57-127.wav key=57 lokey=57 hikey=57 offset=699 end=508415 loop_mode=loop_continuous loop_start=238236 loop_end=257676
+
+
+<region> sample=Angry Modular 150-58-127.wav key=58 lokey=58 hikey=58 offset=959 end=498175 loop_mode=loop_continuous loop_start=234193 loop_end=270410
+
+
+<region> sample=Angry Modular 150-59-127.wav key=59 lokey=59 hikey=59 offset=695 end=500223 loop_mode=loop_continuous loop_start=229043 loop_end=256650
+
+
+<region> sample=Angry Modular 150-60-127.wav key=60 lokey=60 hikey=60 offset=702 end=505855 loop_mode=loop_continuous loop_start=235872 loop_end=279897
+
+
+<region> sample=Angry Modular 150-61-127.wav key=61 lokey=61 hikey=61 offset=693 end=500223 loop_mode=loop_continuous loop_start=249887 loop_end=305915
+
+
+<region> sample=Angry Modular 150-62-127.wav key=62 lokey=62 hikey=62 offset=696 end=507391 loop_mode=loop_continuous loop_start=237476 loop_end=292904
+
+
+<region> sample=Angry Modular 150-63-127.wav key=63 lokey=63 hikey=63 offset=445 end=504831 loop_mode=loop_continuous loop_start=272892 loop_end=293668
+
+
+<region> sample=Angry Modular 150-64-127.wav key=64 lokey=64 hikey=64 offset=928 end=507903 loop_mode=loop_continuous loop_start=252297 loop_end=304402
+
+
+<region> sample=Angry Modular 150-65-127.wav key=65 lokey=65 hikey=65 offset=695 end=504831 loop_mode=loop_continuous loop_start=252288 loop_end=290307
+
+
+<region> sample=Angry Modular 150-66-127.wav key=66 lokey=66 hikey=66 offset=958 end=503295 loop_mode=loop_continuous loop_start=254335 loop_end=303406
+
+
+<region> sample=Angry Modular 150-67-127.wav key=67 lokey=67 hikey=67 offset=953 end=503807 loop_mode=loop_continuous loop_start=231754 loop_end=302720
+
+
+<region> sample=Angry Modular 150-68-127.wav key=68 lokey=68 hikey=68 offset=957 end=507391 loop_mode=loop_continuous loop_start=232993 loop_end=294806
+
+
+<region> sample=Angry Modular 150-69-127.wav key=69 lokey=69 hikey=69 offset=672 end=511487 loop_mode=loop_continuous loop_start=259773 loop_end=300626
+
+
+<region> sample=Angry Modular 150-70-127.wav key=70 lokey=70 hikey=70 offset=669 end=505343 loop_mode=loop_continuous loop_start=283645 loop_end=303092
+
+
+<region> sample=Angry Modular 150-71-127.wav key=71 lokey=71 hikey=71 offset=418 end=505343 loop_mode=loop_continuous loop_start=260022 loop_end=287402
+
+
+<region> sample=Angry Modular 150-72-127.wav key=72 lokey=72 hikey=72 offset=673 end=504831 loop_mode=loop_continuous loop_start=267965 loop_end=296514
+
+
+<region> sample=Angry Modular 150-73-127.wav key=73 lokey=73 hikey=73 offset=930 end=502271 loop_mode=loop_continuous loop_start=260935 loop_end=290701
+
+
+<region> sample=Angry Modular 150-74-127.wav key=74 lokey=74 hikey=74 offset=934 end=500223 loop_mode=loop_continuous loop_start=257037 loop_end=301716
+
+
+<region> sample=Angry Modular 150-75-127.wav key=75 lokey=75 hikey=75 offset=653 end=497663 loop_mode=loop_continuous loop_start=220154 loop_end=302431
+
+
+<region> sample=Angry Modular 150-76-127.wav key=76 lokey=76 hikey=76 offset=676 end=501247 loop_mode=loop_continuous loop_start=235788 loop_end=302236
+
+
+<region> sample=Angry Modular 150-77-127.wav key=77 lokey=77 hikey=77 offset=675 end=513535 loop_mode=loop_continuous loop_start=231859 loop_end=303653
+
+
+<region> sample=Angry Modular 150-78-127.wav key=78 lokey=78 hikey=78 offset=675 end=495615 loop_mode=loop_continuous loop_start=243839 loop_end=300268
+
+
+<region> sample=Angry Modular 150-79-127.wav key=79 lokey=79 hikey=79 offset=668 end=505343 loop_mode=loop_continuous loop_start=258316 loop_end=303045
+
+
+<region> sample=Angry Modular 150-80-127.wav key=80 lokey=80 hikey=80 offset=931 end=517119 loop_mode=loop_continuous loop_start=251338 loop_end=278480
+
+
+<region> sample=Angry Modular 150-81-127.wav key=81 lokey=81 hikey=81 offset=673 end=522239 loop_mode=loop_continuous loop_start=241987 loop_end=261124
+
+
+<region> sample=Angry Modular 150-82-127.wav key=82 lokey=82 hikey=82 offset=933 end=509951 loop_mode=loop_continuous loop_start=278446 loop_end=302886
+
+
+<region> sample=Angry Modular 150-83-127.wav key=83 lokey=83 hikey=83 offset=671 end=510463 loop_mode=loop_continuous loop_start=265214 loop_end=288240
+
+
+<region> sample=Angry Modular 150-84-127.wav key=84 lokey=84 hikey=84 offset=675 end=516095 loop_mode=loop_continuous loop_start=250660 loop_end=302276
+
+
+<region> sample=Angry Modular 150-85-127.wav key=85 lokey=85 hikey=85 offset=927 end=542207 loop_mode=loop_continuous loop_start=268550 loop_end=297439
+
+
+<region> sample=Angry Modular 150-86-127.wav key=86 lokey=86 hikey=86 offset=652 end=662015 loop_mode=loop_continuous loop_start=230284 loop_end=260239
+
+

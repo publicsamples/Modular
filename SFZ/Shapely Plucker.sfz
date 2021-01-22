@@ -1,0 +1,303 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Shapely Plucker.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Shapely Plucker/
+
+<group>        // Shapely Plucker
+<region> sample=sto-atl-C1-16-HG2M.aif key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=1 hivel=16 offset=291 loop_mode=no_loop
+<region> sample=sto-atl-C1-32-ONEE.aif key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=17 hivel=32 offset=454 end=46789 loop_mode=no_loop
+<region> sample=sto-atl-C1-48-8VF8.aif key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=33 hivel=48 offset=258 end=47706 loop_mode=no_loop
+<region> sample=sto-atl-C1-64-69Z1.aif key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=49 hivel=64 offset=443 end=48299 loop_mode=no_loop
+<region> sample=sto-atl-C1-79-XX8L.aif key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=65 hivel=79 offset=482 end=49805 loop_mode=no_loop
+<region> sample=sto-atl-C1-95-K9YR.aif key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=80 hivel=95 offset=243 end=51973 loop_mode=no_loop
+<region> sample=sto-atl-C1-111-OGNS.aif key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=96 hivel=111 offset=459 end=51156 loop_mode=no_loop
+<region> sample=sto-atl-C1-127-8VB5.aif key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=112 hivel=127 offset=280 loop_mode=no_loop
+<region> sample=sto-atl-C#1-16-6P52.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=16 offset=262 end=24047 loop_mode=no_loop
+<region> sample=sto-atl-C#1-32-UHMO.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=17 hivel=32 offset=454 end=45932 loop_mode=no_loop
+<region> sample=sto-atl-C#1-48-YXE2.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=33 hivel=48 offset=448 end=46640 loop_mode=no_loop
+<region> sample=sto-atl-C#1-64-1JNJ.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=49 hivel=64 offset=235 end=49261 loop_mode=no_loop
+<region> sample=sto-atl-C#1-79-SFFF.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=65 hivel=79 offset=338 end=50290 loop_mode=no_loop
+<region> sample=sto-atl-C#1-95-0DC6.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=80 hivel=95 offset=272 loop_mode=no_loop
+<region> sample=sto-atl-C#1-111-6NO8.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=96 hivel=111 offset=499 end=50742 loop_mode=no_loop
+<region> sample=sto-atl-C#1-127-OXUM.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=112 hivel=127 offset=433 end=52059 loop_mode=no_loop
+<region> sample=sto-atl-D1-16-PU1V.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=16 offset=265 end=24575 loop_mode=no_loop
+<region> sample=sto-atl-D1-32-4CJR.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=17 hivel=32 offset=406 end=46548 loop_mode=no_loop
+<region> sample=sto-atl-D1-48-STN6.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=33 hivel=48 offset=324 end=47338 loop_mode=no_loop
+<region> sample=sto-atl-D1-64-JLVY.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=49 hivel=64 offset=355 end=48613 loop_mode=no_loop
+<region> sample=sto-atl-D1-79-FDE4.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=65 hivel=79 offset=408 end=50187 loop_mode=no_loop
+<region> sample=sto-atl-D1-95-IUOL.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=80 hivel=95 offset=207 end=48937 loop_mode=no_loop
+<region> sample=sto-atl-D1-111-XIG4.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=96 hivel=111 offset=346 end=50453 loop_mode=no_loop
+<region> sample=sto-atl-D1-127-KSN4.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=112 hivel=127 offset=441 loop_mode=no_loop
+<region> sample=sto-atl-D#1-16-V52J.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=16 offset=321 end=25404 loop_mode=no_loop
+<region> sample=sto-atl-D#1-32-8ET9.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=17 hivel=32 offset=279 end=45084 loop_mode=no_loop
+<region> sample=sto-atl-D#1-48-NRS6.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=33 hivel=48 offset=310 loop_mode=no_loop
+<region> sample=sto-atl-D#1-64-BZO1.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=49 hivel=64 offset=199 end=58402 loop_mode=no_loop
+<region> sample=sto-atl-D#1-79-B6QC.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=65 hivel=79 offset=383 end=49823 loop_mode=no_loop
+<region> sample=sto-atl-D#1-95-7JM9.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=80 hivel=95 offset=413 end=49000 loop_mode=no_loop
+<region> sample=sto-atl-D#1-111-VJ5B.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=96 hivel=111 offset=495 end=49546 loop_mode=no_loop
+<region> sample=sto-atl-D#1-127-53F2.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=112 hivel=127 offset=408 end=50421 loop_mode=no_loop
+<region> sample=sto-atl-E1-16-RBT8.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=16 offset=293 end=25525 loop_mode=no_loop
+<region> sample=sto-atl-E1-32-JUSI.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=17 hivel=32 offset=302 end=46166 loop_mode=no_loop
+<region> sample=sto-atl-E1-48-2ZE7.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=33 hivel=48 offset=320 end=46383 loop_mode=no_loop
+<region> sample=sto-atl-E1-64-I2EW.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=49 hivel=64 offset=272 end=47834 loop_mode=no_loop
+<region> sample=sto-atl-E1-79-MO29.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=65 hivel=79 offset=206 end=48577 loop_mode=no_loop
+<region> sample=sto-atl-E1-95-8R6P.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=80 hivel=95 offset=347 end=49456 loop_mode=no_loop
+<region> sample=sto-atl-E1-111-PA9L.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=96 hivel=111 offset=479 loop_mode=no_loop
+<region> sample=sto-atl-E1-127-XYLR.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=112 hivel=127 offset=424 end=50902 loop_mode=no_loop
+<region> sample=sto-atl-F1-16-3Y8V.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=16 offset=305 end=24293 loop_mode=no_loop
+<region> sample=sto-atl-F1-32-SG2Y.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=17 hivel=32 offset=418 end=45741 loop_mode=no_loop
+<region> sample=sto-atl-F1-48-HON0.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=33 hivel=48 offset=497 end=46120 loop_mode=no_loop
+<region> sample=sto-atl-F1-64-0W81.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=49 hivel=64 offset=276 end=48187 loop_mode=no_loop
+<region> sample=sto-atl-F1-79-MT17.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=65 hivel=79 offset=306 loop_mode=no_loop
+<region> sample=sto-atl-F1-95-FK4D.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=80 hivel=95 offset=375 end=48810 loop_mode=no_loop
+<region> sample=sto-atl-F1-111-MJYI.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=96 hivel=111 offset=328 end=49412 loop_mode=no_loop
+<region> sample=sto-atl-F1-127-G5W6.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=112 hivel=127 offset=304 end=44899 loop_mode=no_loop
+<region> sample=sto-atl-F#1-16-TCKM.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=16 offset=475 end=25456 loop_mode=no_loop
+<region> sample=sto-atl-F#1-32-99V7.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=17 hivel=32 offset=413 end=45869 loop_mode=no_loop
+<region> sample=sto-atl-F#1-48-XRUK.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=33 hivel=48 offset=371 end=46458 loop_mode=no_loop
+<region> sample=sto-atl-F#1-64-0IG4.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=49 hivel=64 offset=224 end=46797 loop_mode=no_loop
+<region> sample=sto-atl-F#1-79-M1VX.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=65 hivel=79 offset=358 end=48877 loop_mode=no_loop
+<region> sample=sto-atl-F#1-95-I5QQ.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=80 hivel=95 offset=211 end=49267 loop_mode=no_loop
+<region> sample=sto-atl-F#1-111-EQTM.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=96 hivel=111 offset=224 end=48498 loop_mode=no_loop
+<region> sample=sto-atl-F#1-127-B0ZQ.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=112 hivel=127 offset=342 loop_mode=no_loop
+<region> sample=sto-atl-G1-16-UJTF.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=16 offset=286 end=24985 loop_mode=no_loop
+<region> sample=sto-atl-G1-32-V26A.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=17 hivel=32 offset=199 end=45569 loop_mode=no_loop
+<region> sample=sto-atl-G1-48-6Z0T.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=33 hivel=48 offset=337 end=45003 loop_mode=no_loop
+<region> sample=sto-atl-G1-64-OJOQ.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=49 hivel=64 offset=312 end=47796 loop_mode=no_loop
+<region> sample=sto-atl-G1-79-WKYB.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=65 hivel=79 offset=252 loop_mode=no_loop
+<region> sample=sto-atl-G1-95-W1FL.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=80 hivel=95 offset=464 end=49279 loop_mode=no_loop
+<region> sample=sto-atl-G1-111-ZZJ0.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=96 hivel=111 offset=371 end=49063 loop_mode=no_loop
+<region> sample=sto-atl-G1-127-O0ZN.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=112 hivel=127 offset=480 loop_mode=no_loop
+<region> sample=sto-atl-G#1-16-4BEW.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=16 offset=327 end=25527 loop_mode=no_loop
+<region> sample=sto-atl-G#1-32-C9DB.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=17 hivel=32 offset=522 end=45720 loop_mode=no_loop
+<region> sample=sto-atl-G#1-48-UN7M.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=33 hivel=48 offset=417 end=45571 loop_mode=no_loop
+<region> sample=sto-atl-G#1-64-6INC.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=49 hivel=64 offset=466 end=47879 loop_mode=no_loop
+<region> sample=sto-atl-G#1-79-GAFK.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=65 hivel=79 offset=296 end=47371 loop_mode=no_loop
+<region> sample=sto-atl-G#1-95-LPPD.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=80 hivel=95 offset=464 end=48268 loop_mode=no_loop
+<region> sample=sto-atl-G#1-111-BJ0P.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=96 hivel=111 offset=210 end=47854 loop_mode=no_loop
+<region> sample=sto-atl-G#1-127-O03E.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=112 hivel=127 offset=368 end=49335 loop_mode=no_loop
+<region> sample=sto-atl-A1-16-N9KE.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=16 offset=281 end=25139 loop_mode=no_loop
+<region> sample=sto-atl-A1-32-1DGS.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=17 hivel=32 offset=510 end=46679 loop_mode=no_loop
+<region> sample=sto-atl-A1-48-ZE3Z.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=33 hivel=48 offset=471 end=46069 loop_mode=no_loop
+<region> sample=sto-atl-A1-64-NOH5.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=49 hivel=64 offset=217 loop_mode=no_loop
+<region> sample=sto-atl-A1-79-1PO8.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=65 hivel=79 offset=281 end=47541 loop_mode=no_loop
+<region> sample=sto-atl-A1-95-XRJW.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=80 hivel=95 offset=273 end=46847 loop_mode=no_loop
+<region> sample=sto-atl-A1-111-94WT.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=96 hivel=111 offset=382 end=48469 loop_mode=no_loop
+<region> sample=sto-atl-A1-127-A07W.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=112 hivel=127 offset=196 end=49215 loop_mode=no_loop
+<region> sample=sto-atl-A#1-16-0KYB.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=16 offset=332 end=25168 loop_mode=no_loop
+<region> sample=sto-atl-A#1-32-MF6T.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=17 hivel=32 offset=319 loop_mode=no_loop
+<region> sample=sto-atl-A#1-48-3WT5.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=33 hivel=48 offset=490 end=45549 loop_mode=no_loop
+<region> sample=sto-atl-A#1-64-GDGT.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=49 hivel=64 offset=205 loop_mode=no_loop
+<region> sample=sto-atl-A#1-79-W6ZB.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=65 hivel=79 offset=526 end=47792 loop_mode=no_loop
+<region> sample=sto-atl-A#1-95-K0FY.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=80 hivel=95 offset=375 loop_mode=no_loop
+<region> sample=sto-atl-A#1-111-GFZ0.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=96 hivel=111 offset=480 end=47943 loop_mode=no_loop
+<region> sample=sto-atl-A#1-127-A8KT.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=112 hivel=127 offset=299 end=48133 loop_mode=no_loop
+<region> sample=sto-atl-B1-16-LZSS.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=16 offset=201 end=24264 loop_mode=no_loop
+<region> sample=sto-atl-B1-32-QAYI.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=17 hivel=32 offset=440 end=46297 loop_mode=no_loop
+<region> sample=sto-atl-B1-48-B51N.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=33 hivel=48 offset=444 loop_mode=no_loop
+<region> sample=sto-atl-B1-64-LL8F.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=49 hivel=64 offset=286 loop_mode=no_loop
+<region> sample=sto-atl-B1-79-K50R.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=65 hivel=79 offset=261 end=46632 loop_mode=no_loop
+<region> sample=sto-atl-B1-95-9HTV.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=80 hivel=95 offset=365 end=47589 loop_mode=no_loop
+<region> sample=sto-atl-B1-111-RBUO.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=96 hivel=111 offset=288 end=48045 loop_mode=no_loop
+<region> sample=sto-atl-B1-127-NH2Z.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=112 hivel=127 offset=282 loop_mode=no_loop
+<region> sample=sto-atl-C2-16-DSL4.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=16 offset=447 end=24020 loop_mode=no_loop
+<region> sample=sto-atl-C2-32-G4EV.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=17 hivel=32 offset=401 loop_mode=no_loop
+<region> sample=sto-atl-C2-48-SW5K.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=33 hivel=48 offset=245 end=44968 loop_mode=no_loop
+<region> sample=sto-atl-C2-64-XVIJ.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=49 hivel=64 offset=259 end=46208 loop_mode=no_loop
+<region> sample=sto-atl-C2-79-4BS7.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=65 hivel=79 offset=422 end=46508 loop_mode=no_loop
+<region> sample=sto-atl-C2-95-N2UU.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=80 hivel=95 offset=352 loop_mode=no_loop
+<region> sample=sto-atl-C2-111-QT7Z.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=96 hivel=111 offset=388 loop_mode=no_loop
+<region> sample=sto-atl-C2-127-KQSH.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=112 hivel=127 offset=441 end=49239 loop_mode=no_loop
+<region> sample=sto-atl-C#2-16-2AZ9.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=16 offset=363 loop_mode=no_loop
+<region> sample=sto-atl-C#2-32-QN9Q.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=17 hivel=32 offset=284 end=44665 loop_mode=no_loop
+<region> sample=sto-atl-C#2-48-SREZ.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=33 hivel=48 offset=252 loop_mode=no_loop
+<region> sample=sto-atl-C#2-64-6GTZ.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=49 hivel=64 offset=262 end=45651 loop_mode=no_loop
+<region> sample=sto-atl-C#2-79-6MKY.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=65 hivel=79 offset=452 end=45999 loop_mode=no_loop
+<region> sample=sto-atl-C#2-95-WJJZ.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=80 hivel=95 offset=321 end=46292 loop_mode=no_loop
+<region> sample=sto-atl-C#2-111-GXCS.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=96 hivel=111 offset=443 loop_mode=no_loop
+<region> sample=sto-atl-C#2-127-5EC8.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=112 hivel=127 offset=401 loop_mode=no_loop
+<region> sample=sto-atl-D2-16-2A4H.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=16 offset=228 end=24141 loop_mode=no_loop
+<region> sample=sto-atl-D2-32-GR5I.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=17 hivel=32 offset=257 end=44876 loop_mode=no_loop
+<region> sample=sto-atl-D2-48-95LI.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=33 hivel=48 offset=311 end=45361 loop_mode=no_loop
+<region> sample=sto-atl-D2-64-XJF0.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=49 hivel=64 offset=378 end=45683 loop_mode=no_loop
+<region> sample=sto-atl-D2-79-HJWU.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=65 hivel=79 offset=294 end=45833 loop_mode=no_loop
+<region> sample=sto-atl-D2-95-6CUY.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=80 hivel=95 offset=286 end=46662 loop_mode=no_loop
+<region> sample=sto-atl-D2-111-P0UR.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=96 hivel=111 offset=519 end=47157 loop_mode=no_loop
+<region> sample=sto-atl-D2-127-CGWH.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=112 hivel=127 offset=204 end=47234 loop_mode=no_loop
+<region> sample=sto-atl-D#2-16-PSSH.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=16 offset=433 end=23916 loop_mode=no_loop
+<region> sample=sto-atl-D#2-32-32JF.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=17 hivel=32 offset=355 end=44276 loop_mode=no_loop
+<region> sample=sto-atl-D#2-48-KTAK.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=33 hivel=48 offset=448 loop_mode=no_loop
+<region> sample=sto-atl-D#2-64-IBWM.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=49 hivel=64 offset=403 end=45460 loop_mode=no_loop
+<region> sample=sto-atl-D#2-79-SSEW.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=65 hivel=79 offset=477 loop_mode=no_loop
+<region> sample=sto-atl-D#2-95-ZGTW.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=80 hivel=95 offset=379 end=45907 loop_mode=no_loop
+<region> sample=sto-atl-D#2-111-SNZO.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=96 hivel=111 offset=310 end=46812 loop_mode=no_loop
+<region> sample=sto-atl-D#2-127-LBWE.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=112 hivel=127 offset=404 end=47512 loop_mode=no_loop
+<region> sample=sto-atl-E2-16-IR52.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=16 offset=243 end=23871 loop_mode=no_loop
+<region> sample=sto-atl-E2-32-9QDQ.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=17 hivel=32 offset=416 end=44771 loop_mode=no_loop
+<region> sample=sto-atl-E2-48-W1LU.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=33 hivel=48 offset=267 end=45384 loop_mode=no_loop
+<region> sample=sto-atl-E2-64-6IEN.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=49 hivel=64 offset=268 end=45319 loop_mode=no_loop
+<region> sample=sto-atl-E2-79-DCWB.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=65 hivel=79 offset=194 end=45674 loop_mode=no_loop
+<region> sample=sto-atl-E2-95-9WIC.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=80 hivel=95 offset=255 end=46251 loop_mode=no_loop
+<region> sample=sto-atl-E2-111-BJ6N.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=96 hivel=111 offset=436 end=46239 loop_mode=no_loop
+<region> sample=sto-atl-E2-127-K24W.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=112 hivel=127 offset=285 loop_mode=no_loop
+<region> sample=sto-atl-F2-16-KXO1.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=16 offset=494 loop_mode=no_loop
+<region> sample=sto-atl-F2-32-VU56.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=17 hivel=32 offset=303 loop_mode=no_loop
+<region> sample=sto-atl-F2-48-CJZ5.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=33 hivel=48 offset=310 loop_mode=no_loop
+<region> sample=sto-atl-F2-64-OOV7.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=49 hivel=64 offset=296 loop_mode=no_loop
+<region> sample=sto-atl-F2-79-QT3E.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=65 hivel=79 offset=460 end=46695 loop_mode=no_loop
+<region> sample=sto-atl-F2-95-ZC67.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=80 hivel=95 offset=434 end=46371 loop_mode=no_loop
+<region> sample=sto-atl-F2-111-Y0U4.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=96 hivel=111 offset=221 end=47428 loop_mode=no_loop
+<region> sample=sto-atl-F2-127-63UF.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=112 hivel=127 offset=302 end=46263 loop_mode=no_loop
+<region> sample=sto-atl-F#2-16-KBRT.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=16 offset=501 loop_mode=no_loop
+<region> sample=sto-atl-F#2-32-FNGH.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=17 hivel=32 offset=437 end=44370 loop_mode=no_loop
+<region> sample=sto-atl-F#2-48-9RVF.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=33 hivel=48 offset=395 end=44685 loop_mode=no_loop
+<region> sample=sto-atl-F#2-64-TP4Y.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=49 hivel=64 offset=468 end=45292 loop_mode=no_loop
+<region> sample=sto-atl-F#2-79-3ETY.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=65 hivel=79 offset=402 end=45588 loop_mode=no_loop
+<region> sample=sto-atl-F#2-95-KMPS.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=80 hivel=95 offset=411 end=45374 loop_mode=no_loop
+<region> sample=sto-atl-F#2-111-J4BQ.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=96 hivel=111 offset=410 end=46362 loop_mode=no_loop
+<region> sample=sto-atl-F#2-127-2BSU.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=112 hivel=127 offset=484 end=46759 loop_mode=no_loop
+<region> sample=sto-atl-G2-16-3V1E.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=16 offset=312 end=24142 loop_mode=no_loop
+<region> sample=sto-atl-G2-32-GPK3.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=17 hivel=32 offset=349 end=44070 loop_mode=no_loop
+<region> sample=sto-atl-G2-48-73UM.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=33 hivel=48 offset=409 end=44152 loop_mode=no_loop
+<region> sample=sto-atl-G2-64-XIMT.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=49 hivel=64 offset=467 loop_mode=no_loop
+<region> sample=sto-atl-G2-79-VPM0.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=65 hivel=79 offset=461 end=45162 loop_mode=no_loop
+<region> sample=sto-atl-G2-95-3UGM.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=80 hivel=95 offset=458 loop_mode=no_loop
+<region> sample=sto-atl-G2-111-EYE4.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=96 hivel=111 offset=650 end=46695 loop_mode=no_loop
+<region> sample=sto-atl-G2-127-A455.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=112 hivel=127 offset=255 end=46087 loop_mode=no_loop
+<region> sample=sto-atl-G#2-16-1XDF.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=16 offset=337 end=24089 loop_mode=no_loop
+<region> sample=sto-atl-G#2-32-3S5M.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=17 hivel=32 offset=484 end=44010 loop_mode=no_loop
+<region> sample=sto-atl-G#2-48-3387.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=33 hivel=48 offset=578 end=44647 loop_mode=no_loop
+<region> sample=sto-atl-G#2-64-STUS.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=49 hivel=64 offset=198 end=44168 loop_mode=no_loop
+<region> sample=sto-atl-G#2-79-7ZXB.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=65 hivel=79 offset=414 end=45250 loop_mode=no_loop
+<region> sample=sto-atl-G#2-95-4OLE.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=80 hivel=95 offset=322 end=44936 loop_mode=no_loop
+<region> sample=sto-atl-G#2-111-PQ6P.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=96 hivel=111 offset=418 loop_mode=no_loop
+<region> sample=sto-atl-G#2-127-MA3N.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=112 hivel=127 offset=438 end=46008 loop_mode=no_loop
+<region> sample=sto-atl-A2-16-LOCY.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=16 offset=266 end=23770 loop_mode=no_loop
+<region> sample=sto-atl-A2-32-ZYFP.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=17 hivel=32 offset=373 end=44676 loop_mode=no_loop
+<region> sample=sto-atl-A2-48-Q2C5.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=33 hivel=48 offset=455 end=44856 loop_mode=no_loop
+<region> sample=sto-atl-A2-64-Y22M.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=49 hivel=64 offset=194 end=44736 loop_mode=no_loop
+<region> sample=sto-atl-A2-79-X81B.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=65 hivel=79 offset=310 end=45227 loop_mode=no_loop
+<region> sample=sto-atl-A2-95-HW1V.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=80 hivel=95 offset=322 loop_mode=no_loop
+<region> sample=sto-atl-A2-111-5FO7.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=96 hivel=111 offset=413 end=45467 loop_mode=no_loop
+<region> sample=sto-atl-A2-127-AYDI.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=112 hivel=127 offset=289 end=45940 loop_mode=no_loop
+<region> sample=sto-atl-A#2-16-GLSS.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=16 offset=429 loop_mode=no_loop
+<region> sample=sto-atl-A#2-32-5T8S.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=17 hivel=32 offset=244 end=43396 loop_mode=no_loop
+<region> sample=sto-atl-A#2-48-LUJX.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=33 hivel=48 offset=351 end=44171 loop_mode=no_loop
+<region> sample=sto-atl-A#2-64-SRHD.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=49 hivel=64 offset=417 end=44454 loop_mode=no_loop
+<region> sample=sto-atl-A#2-79-20AG.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=65 hivel=79 offset=234 end=44492 loop_mode=no_loop
+<region> sample=sto-atl-A#2-95-YOEN.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=80 hivel=95 offset=438 end=45819 loop_mode=no_loop
+<region> sample=sto-atl-A#2-111-WZAR.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=96 hivel=111 offset=259 loop_mode=no_loop
+<region> sample=sto-atl-A#2-127-7Q58.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=112 hivel=127 offset=369 end=45422 loop_mode=no_loop
+<region> sample=sto-atl-B2-16-TSW4.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=16 offset=431 end=24023 loop_mode=no_loop
+<region> sample=sto-atl-B2-32-XLWD.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=17 hivel=32 offset=435 end=44825 loop_mode=no_loop
+<region> sample=sto-atl-B2-48-Q5W4.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=33 hivel=48 offset=285 end=43493 loop_mode=no_loop
+<region> sample=sto-atl-B2-64-2FKA.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=49 hivel=64 offset=295 end=44298 loop_mode=no_loop
+<region> sample=sto-atl-B2-79-A7LP.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=65 hivel=79 offset=206 end=44338 loop_mode=no_loop
+<region> sample=sto-atl-B2-95-RTA6.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=80 hivel=95 offset=280 loop_mode=no_loop
+<region> sample=sto-atl-B2-111-L8SG.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=96 hivel=111 offset=352 end=45559 loop_mode=no_loop
+<region> sample=sto-atl-B2-127-AJH5.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=112 hivel=127 offset=317 loop_mode=no_loop
+<region> sample=sto-atl-C3-16-0YEC.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=1 hivel=16 offset=447 end=23450 loop_mode=no_loop
+<region> sample=sto-atl-C3-32-X0UC.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=17 hivel=32 offset=260 end=44060 loop_mode=no_loop
+<region> sample=sto-atl-C3-48-M7WZ.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=33 hivel=48 offset=304 end=44700 loop_mode=no_loop
+<region> sample=sto-atl-C3-64-K6ME.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=49 hivel=64 offset=271 end=44015 loop_mode=no_loop
+<region> sample=sto-atl-C3-79-0DHP.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=65 hivel=79 offset=456 end=44088 loop_mode=no_loop
+<region> sample=sto-atl-C3-95-WVHE.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=80 hivel=95 offset=247 end=44240 loop_mode=no_loop
+<region> sample=sto-atl-C3-111-8P3P.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=96 hivel=111 offset=462 end=44975 loop_mode=no_loop
+<region> sample=sto-atl-C3-127-0ADR.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=112 hivel=127 offset=440 end=44978 loop_mode=no_loop
+<region> sample=sto-atl-C#3-16-NBUM.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=1 hivel=16 offset=287 end=23761 loop_mode=no_loop
+<region> sample=sto-atl-C#3-32-EV7H.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=17 hivel=32 offset=452 end=44216 loop_mode=no_loop
+<region> sample=sto-atl-C#3-48-EN2D.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=33 hivel=48 offset=254 end=44443 loop_mode=no_loop
+<region> sample=sto-atl-C#3-64-7JJQ.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=49 hivel=64 offset=257 end=44873 loop_mode=no_loop
+<region> sample=sto-atl-C#3-79-OGEN.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=65 hivel=79 offset=407 end=43989 loop_mode=no_loop
+<region> sample=sto-atl-C#3-95-CL57.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=80 hivel=95 offset=456 end=44513 loop_mode=no_loop
+<region> sample=sto-atl-C#3-111-50AN.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=96 hivel=111 offset=420 end=44445 loop_mode=no_loop
+<region> sample=sto-atl-C#3-127-K5L6.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=112 hivel=127 offset=234 end=45487 loop_mode=no_loop
+<region> sample=sto-atl-D3-16-N48T.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=1 hivel=16 offset=443 end=23507 loop_mode=no_loop
+<region> sample=sto-atl-D3-32-HL3E.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=17 hivel=32 offset=423 loop_mode=no_loop
+<region> sample=sto-atl-D3-48-4BND.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=33 hivel=48 offset=337 end=44226 loop_mode=no_loop
+<region> sample=sto-atl-D3-64-Y76P.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=49 hivel=64 offset=405 end=44042 loop_mode=no_loop
+<region> sample=sto-atl-D3-79-X026.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=65 hivel=79 offset=400 end=44119 loop_mode=no_loop
+<region> sample=sto-atl-D3-95-VTPO.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=80 hivel=95 offset=498 loop_mode=no_loop
+<region> sample=sto-atl-D3-111-5N00.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=96 hivel=111 offset=327 end=44428 loop_mode=no_loop
+<region> sample=sto-atl-D3-127-A32B.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=112 hivel=127 offset=342 end=45072 loop_mode=no_loop
+<region> sample=sto-atl-D#3-16-VQKX.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=1 hivel=16 offset=254 end=23078 loop_mode=no_loop
+<region> sample=sto-atl-D#3-32-XXCU.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=17 hivel=32 offset=408 end=45378 loop_mode=no_loop
+<region> sample=sto-atl-D#3-48-CGMZ.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=33 hivel=48 offset=467 loop_mode=no_loop
+<region> sample=sto-atl-D#3-64-H9T2.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=49 hivel=64 offset=322 end=44024 loop_mode=no_loop
+<region> sample=sto-atl-D#3-79-RMSC.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=65 hivel=79 offset=384 end=43916 loop_mode=no_loop
+<region> sample=sto-atl-D#3-95-BAM2.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=80 hivel=95 offset=380 end=43918 loop_mode=no_loop
+<region> sample=sto-atl-D#3-111-WNYA.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=96 hivel=111 offset=277 end=43954 loop_mode=no_loop
+<region> sample=sto-atl-D#3-127-R0NH.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=112 hivel=127 offset=508 end=45943 loop_mode=no_loop
+<region> sample=sto-atl-E3-16-53PU.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=1 hivel=16 offset=233 end=23286 loop_mode=no_loop
+<region> sample=sto-atl-E3-32-S1H6.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=17 hivel=32 offset=236 end=43694 loop_mode=no_loop
+<region> sample=sto-atl-E3-48-5U0I.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=33 hivel=48 offset=367 end=44190 loop_mode=no_loop
+<region> sample=sto-atl-E3-64-FBMI.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=49 hivel=64 offset=278 end=44247 loop_mode=no_loop
+<region> sample=sto-atl-E3-79-DHTL.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=65 hivel=79 offset=252 end=43585 loop_mode=no_loop
+<region> sample=sto-atl-E3-95-SGL0.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=80 hivel=95 offset=422 end=43865 loop_mode=no_loop
+<region> sample=sto-atl-E3-111-STUX.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=96 hivel=111 offset=313 loop_mode=no_loop
+<region> sample=sto-atl-E3-127-SZQK.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=112 hivel=127 offset=402 end=44686 loop_mode=no_loop
+<region> sample=sto-atl-F3-16-GBID.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=1 hivel=16 offset=429 end=23341 loop_mode=no_loop
+<region> sample=sto-atl-F3-32-ZEOG.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=17 hivel=32 offset=371 end=44433 loop_mode=no_loop
+<region> sample=sto-atl-F3-48-1KXP.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=33 hivel=48 offset=447 end=44673 loop_mode=no_loop
+<region> sample=sto-atl-F3-64-9YTI.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=49 hivel=64 offset=400 end=44646 loop_mode=no_loop
+<region> sample=sto-atl-F3-79-KCRQ.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=65 hivel=79 offset=368 end=43197 loop_mode=no_loop
+<region> sample=sto-atl-F3-95-8DPB.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=80 hivel=95 offset=463 end=43726 loop_mode=no_loop
+<region> sample=sto-atl-F3-111-4YR1.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=96 hivel=111 offset=319 end=43597 loop_mode=no_loop
+<region> sample=sto-atl-F3-127-VM2N.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=112 hivel=127 offset=247 end=45462 loop_mode=no_loop
+<region> sample=sto-atl-F#3-16-YGRW.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=1 hivel=16 offset=390 loop_mode=no_loop
+<region> sample=sto-atl-F#3-32-X7M1.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=17 hivel=32 offset=260 end=44055 loop_mode=no_loop
+<region> sample=sto-atl-F#3-48-UAU9.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=33 hivel=48 offset=399 end=44112 loop_mode=no_loop
+<region> sample=sto-atl-F#3-64-JUR2.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=49 hivel=64 offset=398 end=43512 loop_mode=no_loop
+<region> sample=sto-atl-F#3-79-8X3H.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=65 hivel=79 offset=445 end=44055 loop_mode=no_loop
+<region> sample=sto-atl-F#3-95-OX3D.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=80 hivel=95 offset=441 loop_mode=no_loop
+<region> sample=sto-atl-F#3-111-3EHI.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=96 hivel=111 offset=321 loop_mode=no_loop
+<region> sample=sto-atl-F#3-127-O2VJ.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=112 hivel=127 offset=388 end=44837 loop_mode=no_loop
+<region> sample=sto-atl-G3-16-NOTT.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=1 hivel=16 offset=347 end=23259 loop_mode=no_loop
+<region> sample=sto-atl-G3-32-44JS.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=17 hivel=32 offset=395 end=44544 loop_mode=no_loop
+<region> sample=sto-atl-G3-48-KF8C.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=33 hivel=48 offset=300 loop_mode=no_loop
+<region> sample=sto-atl-G3-64-YSRM.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=49 hivel=64 offset=245 end=44760 loop_mode=no_loop
+<region> sample=sto-atl-G3-79-6YAO.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=65 hivel=79 offset=452 end=45122 loop_mode=no_loop
+<region> sample=sto-atl-G3-95-4U8B.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=80 hivel=95 offset=310 end=43566 loop_mode=no_loop
+<region> sample=sto-atl-G3-111-5OE9.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=96 hivel=111 offset=295 end=45728 loop_mode=no_loop
+<region> sample=sto-atl-G3-127-XL5H.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=112 hivel=127 offset=432 end=45864 loop_mode=no_loop
+<region> sample=sto-atl-G#3-16-5MY7.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=1 hivel=16 offset=427 end=23847 loop_mode=no_loop
+<region> sample=sto-atl-G#3-32-ZC6D.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=17 hivel=32 offset=341 end=43514 loop_mode=no_loop
+<region> sample=sto-atl-G#3-48-MXKA.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=33 hivel=48 offset=420 end=43979 loop_mode=no_loop
+<region> sample=sto-atl-G#3-64-B5G1.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=49 hivel=64 offset=410 end=44137 loop_mode=no_loop
+<region> sample=sto-atl-G#3-79-EV8S.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=65 hivel=79 offset=294 loop_mode=no_loop
+<region> sample=sto-atl-G#3-95-S7PV.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=80 hivel=95 offset=353 end=43284 loop_mode=no_loop
+<region> sample=sto-atl-G#3-111-PZEN.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=96 hivel=111 offset=397 end=44947 loop_mode=no_loop
+<region> sample=sto-atl-G#3-127-CR2C.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=112 hivel=127 offset=476 end=44489 loop_mode=no_loop
+<region> sample=sto-atl-A3-16-PNRW.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=1 hivel=16 offset=412 loop_mode=no_loop
+<region> sample=sto-atl-A3-32-3A3K.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=17 hivel=32 offset=431 loop_mode=no_loop
+<region> sample=sto-atl-A3-48-T7ZE.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=33 hivel=48 offset=333 loop_mode=no_loop
+<region> sample=sto-atl-A3-64-FZAE.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=49 hivel=64 offset=437 end=43638 loop_mode=no_loop
+<region> sample=sto-atl-A3-79-2X05.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=65 hivel=79 offset=390 loop_mode=no_loop
+<region> sample=sto-atl-A3-95-QUQZ.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=80 hivel=95 offset=264 end=42998 loop_mode=no_loop
+<region> sample=sto-atl-A3-111-NLYG.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=96 hivel=111 offset=298 end=43991 loop_mode=no_loop
+<region> sample=sto-atl-A3-127-92CE.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=112 hivel=127 offset=485 end=44423 loop_mode=no_loop
+<region> sample=sto-atl-A#3-16-6X22.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=1 hivel=16 offset=437 end=23145 loop_mode=no_loop
+<region> sample=sto-atl-A#3-32-O4NW.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=17 hivel=32 offset=396 end=43548 loop_mode=no_loop
+<region> sample=sto-atl-A#3-48-86IA.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=33 hivel=48 offset=239 loop_mode=no_loop
+<region> sample=sto-atl-A#3-64-SRYV.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=49 hivel=64 offset=281 end=43568 loop_mode=no_loop
+<region> sample=sto-atl-A#3-79-5V37.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=65 hivel=79 offset=387 end=43405 loop_mode=no_loop
+<region> sample=sto-atl-A#3-95-XHXV.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=80 hivel=95 offset=386 loop_mode=no_loop
+<region> sample=sto-atl-A#3-111-64Q9.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=96 hivel=111 offset=296 end=44171 loop_mode=no_loop
+<region> sample=sto-atl-A#3-127-VU7M.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=112 hivel=127 offset=440 end=45314 loop_mode=no_loop
+<region> sample=sto-atl-B3-16-HVG2.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=1 hivel=16 offset=352 end=23115 loop_mode=no_loop
+<region> sample=sto-atl-B3-32-4XLX.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=17 hivel=32 offset=290 end=43276 loop_mode=no_loop
+<region> sample=sto-atl-B3-48-G5H4.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=33 hivel=48 offset=274 end=43709 loop_mode=no_loop
+<region> sample=sto-atl-B3-64-KIUS.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=49 hivel=64 offset=423 end=43821 loop_mode=no_loop
+<region> sample=sto-atl-B3-79-27V6.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=65 hivel=79 offset=453 end=44289 loop_mode=no_loop
+<region> sample=sto-atl-B3-95-2Q6N.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=80 hivel=95 offset=334 end=43611 loop_mode=no_loop
+<region> sample=sto-atl-B3-111-6970.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=96 hivel=111 offset=329 end=44329 loop_mode=no_loop
+<region> sample=sto-atl-B3-127-YW0W.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=112 hivel=127 offset=271 end=44523 loop_mode=no_loop
+<region> sample=sto-atl-C4-16-IFRV.aif key=72 lokey=72 hikey=115 amp_veltrack=20 lovel=1 hivel=16 offset=433 end=24116 loop_mode=no_loop
+<region> sample=sto-atl-C4-32-Z9D4.aif key=72 lokey=72 hikey=115 amp_veltrack=20 lovel=17 hivel=32 offset=293 end=43455 loop_mode=no_loop
+<region> sample=sto-atl-C4-48-HVJD.aif key=72 lokey=72 hikey=115 amp_veltrack=20 lovel=33 hivel=48 offset=420 end=44595 loop_mode=no_loop
+<region> sample=sto-atl-C4-64-DHSB.aif key=72 lokey=72 hikey=115 amp_veltrack=20 lovel=49 hivel=64 offset=266 end=43672 loop_mode=no_loop
+<region> sample=sto-atl-C4-79-C0H9.aif key=72 lokey=72 hikey=115 amp_veltrack=20 lovel=65 hivel=79 offset=444 loop_mode=no_loop
+<region> sample=sto-atl-C4-95-ZP58.aif key=72 lokey=72 hikey=115 amp_veltrack=20 lovel=80 hivel=95 offset=487 loop_mode=no_loop
+<region> sample=sto-atl-C4-111-UG3B.aif key=72 lokey=72 hikey=115 amp_veltrack=20 lovel=96 hivel=111 offset=422 end=43880 loop_mode=no_loop
+<region> sample=sto-atl-C4-127-45CC.aif key=72 lokey=72 hikey=115 amp_veltrack=20 lovel=112 hivel=127 offset=394 loop_mode=no_loop

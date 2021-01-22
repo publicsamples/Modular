@@ -1,0 +1,135 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Soft Saw.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+
+
+<control>
+default_path=../Audio/Soft Saw-SAMPLES/
+
+<group>        // Hard Saw
+<region> sample=Hard Saw-45-127_0002 1.wav key=45 lokey=45 hikey=45 tune=12 transpose=12 offset=966 end=234495 loop_mode=loop_continuous loop_start=112864 loop_end=124104
+
+
+<region> sample=Hard Saw-46-127_0002 1.wav key=46 lokey=46 hikey=46 tune=12 transpose=12 offset=708 end=235519 loop_mode=loop_continuous loop_start=110668 loop_end=119757
+
+
+<region> sample=Hard Saw-47-127_0002 1.wav key=47 lokey=47 hikey=47 tune=12 transpose=12 offset=963 end=237055 loop_mode=loop_continuous loop_start=134518 loop_end=148813
+
+
+<region> sample=Hard Saw-48-127 1.wav key=48 lokey=48 hikey=48 tune=12 transpose=12 offset=711 end=237055 loop_mode=loop_continuous loop_start=138377 loop_end=150538
+
+
+<region> sample=Hard Saw-49-127 1.wav key=49 lokey=49 hikey=49 tune=12 transpose=12 offset=966 end=236543 loop_mode=loop_continuous loop_start=112181 loop_end=122397
+
+
+<region> sample=Hard Saw-50-127 1.wav key=50 lokey=50 hikey=50 tune=12 transpose=12 offset=969 end=237567 loop_mode=loop_continuous loop_start=113185 loop_end=126417
+
+
+<region> sample=Hard Saw-51-127 1.wav key=51 lokey=51 hikey=51 tune=12 transpose=12 offset=439 end=235519 loop_mode=loop_continuous loop_start=109736 loop_end=119965
+
+
+<region> sample=Hard Saw-52-127 1.wav key=52 lokey=52 hikey=52 tune=12 transpose=12 offset=950 end=234495 loop_mode=loop_continuous loop_start=116361 loop_end=137772
+
+
+<region> sample=Hard Saw-53-127 1.wav key=53 lokey=53 hikey=53 tune=12 transpose=12 offset=706 end=234495 loop_mode=loop_continuous loop_start=137698 loop_end=146803
+
+
+<region> sample=Hard Saw-54-127 1.wav key=54 lokey=54 hikey=54 tune=12 transpose=12 offset=965 end=237055 loop_mode=loop_continuous loop_start=114207 loop_end=126638
+
+
+<region> sample=Hard Saw-55-127 1.wav key=55 lokey=55 hikey=55 tune=12 transpose=12 offset=714 end=237055 loop_mode=loop_continuous loop_start=113130 loop_end=127539
+
+
+<region> sample=Hard Saw-56-127 1.wav key=56 lokey=56 hikey=56 tune=12 transpose=12 offset=709 end=236543 loop_mode=loop_continuous loop_start=113410 loop_end=123625
+
+
+<region> sample=Hard Saw-57-127 1.wav key=57 lokey=57 hikey=57 tune=12 transpose=12 offset=707 end=235007 loop_mode=loop_continuous loop_start=111269 loop_end=122532
+
+
+<region> sample=Hard Saw-58-127 1.wav key=58 lokey=58 hikey=58 tune=12 transpose=12 offset=455 end=235519 loop_mode=loop_continuous loop_start=112195 loop_end=121287
+
+
+<region> sample=Hard Saw-59-127 1.wav key=59 lokey=59 hikey=59 tune=12 transpose=12 offset=936 end=238079 loop_mode=loop_continuous loop_start=115749 loop_end=125058
+
+
+<region> sample=Hard Saw-60-127 1.wav key=60 lokey=60 hikey=60 tune=12 transpose=12 offset=683 end=235519 loop_mode=loop_continuous loop_start=110599 loop_end=120714
+
+
+<region> sample=Hard Saw-61-127 1.wav key=61 lokey=61 hikey=61 tune=12 transpose=12 offset=965 end=235007 loop_mode=loop_continuous loop_start=110769 loop_end=119691
+
+
+<region> sample=Hard Saw-62-127 1.wav key=62 lokey=62 hikey=62 tune=12 transpose=12 offset=922 end=236543 loop_mode=loop_continuous loop_start=110378 loop_end=120618
+
+
+<region> sample=Hard Saw-63-127 1.wav key=63 lokey=63 hikey=63 tune=12 transpose=12 offset=706 end=235007 loop_mode=loop_continuous loop_start=112107 loop_end=121778
+
+
+<region> sample=Hard Saw-64-127 1.wav key=64 lokey=64 hikey=64 tune=12 transpose=12 offset=961 end=237567 loop_mode=loop_continuous loop_start=110346 loop_end=119462
+
+
+<region> sample=Hard Saw-65-127 1.wav key=65 lokey=65 hikey=65 tune=12 transpose=12 offset=706 end=237055 loop_mode=loop_continuous loop_start=113365 loop_end=122456
+
+
+<region> sample=Hard Saw-66-127 1.wav key=66 lokey=66 hikey=66 tune=12 transpose=12 offset=707 end=233983 loop_mode=loop_continuous loop_start=110285 loop_end=119355
+
+
+<region> sample=Hard Saw-67-127 1.wav key=67 lokey=67 hikey=67 tune=12 transpose=12 offset=453 end=234495 loop_mode=loop_continuous loop_start=111812 loop_end=121285
+
+
+<region> sample=Hard Saw-68-127 1.wav key=68 lokey=68 hikey=68 tune=12 transpose=12 offset=698 end=234495 loop_mode=loop_continuous loop_start=110219 loop_end=119567
+
+
+<region> sample=Hard Saw-69-127 1.wav key=69 lokey=69 hikey=69 tune=12 transpose=12 offset=708 end=237055 loop_mode=loop_continuous loop_start=112019 loop_end=121255
+
+
+<region> sample=Hard Saw-70-127 1.wav key=70 lokey=70 hikey=70 tune=12 transpose=12 offset=707 end=236543 loop_mode=loop_continuous loop_start=111321 loop_end=120398
+
+
+<region> sample=Hard Saw-71-127 1.wav key=71 lokey=71 hikey=71 tune=12 transpose=12 offset=716 end=234495 loop_mode=loop_continuous loop_start=110116 loop_end=119411
+
+
+<region> sample=Hard Saw-72-127 1.wav key=72 lokey=72 hikey=72 tune=12 transpose=12 offset=701 end=236031 loop_mode=loop_continuous loop_start=110084 loop_end=119172
+
+
+<region> sample=Hard Saw-73-127 1.wav key=73 lokey=73 hikey=73 tune=12 transpose=12 offset=709 end=237055 loop_mode=loop_continuous loop_start=110689 loop_end=119280
+
+
+<region> sample=Hard Saw-74-127 1.wav key=74 lokey=74 hikey=74 tune=12 transpose=12 offset=974 end=238079 loop_mode=loop_continuous loop_start=110235 loop_end=119557
+
+
+<region> sample=Hard Saw-75-127 1.wav key=75 lokey=75 hikey=75 tune=12 transpose=12 offset=703 end=236031 loop_mode=loop_continuous loop_start=110044 loop_end=119421
+
+
+<region> sample=Hard Saw-76-127 1.wav key=76 lokey=76 hikey=76 tune=12 transpose=12 offset=703 end=235007 loop_mode=loop_continuous loop_start=112415 loop_end=121248
+
+
+<region> sample=Hard Saw-77-127 1.wav key=77 lokey=77 hikey=77 tune=12 transpose=12 offset=951 end=236031 loop_mode=loop_continuous loop_start=115489 loop_end=124598
+
+
+<region> sample=Hard Saw-78-127 1.wav key=78 lokey=78 hikey=78 tune=12 transpose=12 offset=704 end=236543 loop_mode=loop_continuous loop_start=111132 loop_end=120219
+
+
+<region> sample=Hard Saw-79-127 1.wav key=79 lokey=79 hikey=79 tune=12 transpose=12 offset=714 end=235519 loop_mode=loop_continuous loop_start=110155 loop_end=119197
+
+
+<region> sample=Hard Saw-80-127 1.wav key=80 lokey=80 hikey=80 tune=12 transpose=12 offset=705 end=236031 loop_mode=loop_continuous loop_start=110034 loop_end=119189
+
+
+<region> sample=Hard Saw-81-127 1.wav key=81 lokey=81 hikey=81 tune=12 transpose=12 offset=713 end=237567 loop_mode=loop_continuous loop_start=109981 loop_end=119235
+
+
+<region> sample=Hard Saw-82-127 1.wav key=82 lokey=82 hikey=82 tune=12 transpose=12 offset=701 end=234495 loop_mode=loop_continuous loop_start=111336 loop_end=120272
+
+
+<region> sample=Hard Saw-83-127 1.wav key=83 lokey=83 hikey=83 tune=12 transpose=12 offset=695 end=237055 loop_mode=loop_continuous loop_start=110041 loop_end=119176
+
+
+<region> sample=Hard Saw-84-127 1.wav key=84 lokey=84 hikey=84 tune=12 transpose=12 offset=706 end=236031 loop_mode=loop_continuous loop_start=109996 loop_end=119307
+
+
+<region> sample=Hard Saw-85-127 1.wav key=85 lokey=85 hikey=85 tune=12 transpose=12 offset=698 end=235519 loop_mode=loop_continuous loop_start=109993 loop_end=119275
+
+
+<region> sample=Hard Saw-86-127 1.wav key=86 lokey=86 hikey=86 tune=12 transpose=12 offset=706 end=236543 loop_mode=loop_continuous loop_start=110025 loop_end=119464
+
+

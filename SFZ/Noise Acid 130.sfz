@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Noise Acid 130.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/../Audio/Noise Acid 130-SAMPLES/
+
+<group>        // Noise Acid
+<region> sample=Noise Acid-36-127.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=1 hivel=127 offset=284 end=732038 loop_mode=loop_continuous loop_start=179496 loop_end=301425
+<region> sample=Noise Acid-37-127.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=127 offset=357 end=737050 loop_mode=loop_continuous loop_start=231968 loop_end=384232
+<region> sample=Noise Acid-38-127.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=127 offset=351 end=732094 loop_mode=loop_continuous loop_start=279625 loop_end=453476
+<region> sample=Noise Acid-39-127.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=127 offset=356 end=727066 loop_mode=loop_continuous loop_start=940 loop_end=500026
+<region> sample=Noise Acid-40-127.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=127 offset=323 end=729088 loop_mode=loop_continuous loop_start=695 loop_end=493427
+<region> sample=Noise Acid-41-127.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=127 offset=360 end=733872 loop_mode=loop_continuous loop_start=47892 loop_end=550389
+<region> sample=Noise Acid-42-127.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=127 offset=297 end=726031 loop_mode=loop_continuous loop_start=75475 loop_end=202313
+<region> sample=Noise Acid-43-127.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=127 offset=357 end=736646 loop_mode=loop_continuous loop_start=133408 loop_end=321734
+<region> sample=Noise Acid-44-127.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=127 offset=364 end=727815 loop_mode=loop_continuous loop_start=239687 loop_end=387280
+<region> sample=Noise Acid-45-127.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=127 offset=299 end=728071 loop_mode=loop_continuous loop_start=288237 loop_end=466772
+<region> sample=Noise Acid-46-127.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=127 offset=360 end=731162 loop_mode=loop_continuous loop_start=4250 loop_end=497715
+<region> sample=Noise Acid-47-127.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=127 offset=307 end=736377 loop_mode=loop_continuous loop_start=49198 loop_end=544019
+<region> sample=Noise Acid-48-127.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=364 end=733093 loop_mode=loop_continuous loop_start=46119 loop_end=549933
+<region> sample=Noise Acid-49-127.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=361 end=727477 loop_mode=loop_continuous loop_start=74748 loop_end=548041
+<region> sample=Noise Acid-50-127.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=222 end=738055 loop_mode=loop_continuous loop_start=117328 loop_end=302050
+<region> sample=Noise Acid-51-127.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=359 end=732951 loop_mode=loop_continuous loop_start=221137 loop_end=332831
+<region> sample=Noise Acid-52-127.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=292 end=730399 loop_mode=loop_continuous loop_start=272011 loop_end=450209
+<region> sample=Noise Acid-53-127.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=359 end=735807 loop_mode=loop_continuous loop_start=389528 loop_end=511769
+<region> sample=Noise Acid-54-127.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=297 end=731931 loop_mode=loop_continuous loop_start=51221 loop_end=544374
+<region> sample=Noise Acid-55-127.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=295 end=733884 loop_mode=loop_continuous loop_start=36775 loop_end=530916
+<region> sample=Noise Acid-56-127.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=360 end=728885 loop_mode=loop_continuous loop_start=51079 loop_end=544651
+<region> sample=Noise Acid-57-127.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=292 end=719630 loop_mode=loop_continuous loop_start=76767 loop_end=239547
+<region> sample=Noise Acid-58-127.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=226 end=730246 loop_mode=loop_continuous loop_start=206155 loop_end=394470
+<region> sample=Noise Acid-59-127.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=294 end=735883 loop_mode=loop_continuous loop_start=234825 loop_end=418241
+<region> sample=Noise Acid-60-127.aif key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=1 hivel=127 offset=276 end=734890 loop_mode=loop_continuous loop_start=92439 loop_end=550262
+<region> sample=Noise Acid-61-127.aif key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=1 hivel=127 offset=360 end=732928 loop_mode=loop_continuous loop_start=372595 loop_end=540540
+<region> sample=Noise Acid-62-127.aif key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=1 hivel=127 offset=363 end=732420 loop_mode=loop_continuous loop_start=55896 loop_end=544881
+<region> sample=Noise Acid-63-127.aif key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=1 hivel=127 offset=364 end=725926 loop_mode=loop_continuous loop_start=64535 loop_end=548143
+<region> sample=Noise Acid-64-127.aif key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=1 hivel=127 offset=298 end=726016 loop_mode=loop_continuous loop_start=74276 loop_end=231753
+<region> sample=Noise Acid-65-127.aif key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=1 hivel=127 offset=300 end=735495 loop_mode=loop_continuous loop_start=223056 loop_end=354909
+<region> sample=Noise Acid-66-127.aif key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=1 hivel=127 offset=297 end=740246 loop_mode=loop_continuous loop_start=312638 loop_end=445366
+<region> sample=Noise Acid-67-127.aif key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=1 hivel=127 offset=358 end=735934 loop_mode=loop_continuous loop_start=376266 loop_end=528908
+<region> sample=Noise Acid-68-127.aif key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=1 hivel=127 offset=361 end=730368 loop_mode=loop_continuous loop_start=889 loop_end=479197
+<region> sample=Noise Acid-69-127.aif key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=1 hivel=127 offset=357 end=733063 loop_mode=loop_continuous loop_start=34662 loop_end=538415
+<region> sample=Noise Acid-70-127.aif key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=1 hivel=127 offset=301 end=725940 loop_mode=loop_continuous loop_start=63731 loop_end=220648
+<region> sample=Noise Acid-71-127.aif key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=1 hivel=127 offset=363 end=736529 loop_mode=loop_continuous loop_start=181638 loop_end=313350
+<region> sample=Noise Acid-72-127.aif key=72 lokey=72 hikey=72 amp_veltrack=20 lovel=1 hivel=127 offset=300 end=732298 loop_mode=loop_continuous loop_start=268656 loop_end=386208
+<region> sample=Noise Acid-73-127.aif key=73 lokey=73 hikey=73 amp_veltrack=20 lovel=1 hivel=127 offset=365 end=731521 loop_mode=loop_continuous loop_start=327970 loop_end=475209
+<region> sample=Noise Acid-74-127.aif key=74 lokey=74 hikey=74 amp_veltrack=20 lovel=1 hivel=127 offset=363 end=738179 loop_mode=loop_continuous loop_start=1100 loop_end=478667
+<region> sample=Noise Acid-75-127.aif key=75 lokey=75 hikey=75 amp_veltrack=20 lovel=1 hivel=127 offset=306 end=732298 loop_mode=loop_continuous loop_start=74653 loop_end=548694
+<region> sample=Noise Acid-76-127.aif key=76 lokey=76 hikey=76 amp_veltrack=20 lovel=1 hivel=127 offset=303 end=722062 loop_mode=loop_continuous loop_start=121936 loop_end=279102
+<region> sample=Noise Acid-77-127.aif key=77 lokey=77 hikey=77 amp_veltrack=20 lovel=1 hivel=127 offset=275 end=729900 loop_mode=loop_continuous loop_start=201817 loop_end=365343
+<region> sample=Noise Acid-78-127.aif key=78 lokey=78 hikey=78 amp_veltrack=20 lovel=1 hivel=127 offset=358 end=731649 loop_mode=loop_continuous loop_start=294051 loop_end=451713
+<region> sample=Noise Acid-79-127.aif key=79 lokey=79 hikey=79 amp_veltrack=20 lovel=1 hivel=127 offset=299 end=734863 loop_mode=loop_continuous loop_start=361068 loop_end=519432
+<region> sample=Noise Acid-80-127.aif key=80 lokey=80 hikey=80 amp_veltrack=20 lovel=1 hivel=127 offset=302 end=735753 loop_mode=loop_continuous loop_start=709 loop_end=510334
+<region> sample=Noise Acid-81-127.aif key=81 lokey=81 hikey=81 amp_veltrack=20 lovel=1 hivel=127 offset=356 end=727336 loop_mode=loop_continuous loop_start=40811 loop_end=524038
+<region> sample=Noise Acid-82-127.aif key=82 lokey=82 hikey=82 amp_veltrack=20 lovel=1 hivel=127 offset=358 end=724226 loop_mode=loop_continuous loop_start=99438 loop_end=252075
+<region> sample=Noise Acid-83-127.aif key=83 lokey=83 hikey=83 amp_veltrack=20 lovel=1 hivel=127 offset=369 end=731657 loop_mode=loop_continuous loop_start=214001 loop_end=381741
+<region> sample=Noise Acid-84-127.aif key=84 lokey=84 hikey=84 amp_veltrack=20 lovel=1 hivel=127 offset=353 end=735005 loop_mode=loop_continuous loop_start=10203 loop_end=504470
+<region> sample=Noise Acid-85-127.aif key=85 lokey=85 hikey=85 amp_veltrack=20 lovel=1 hivel=127 offset=365 end=731523 loop_mode=loop_continuous loop_start=2429 loop_end=485764
+<region> sample=Noise Acid-86-127.aif key=86 lokey=86 hikey=86 amp_veltrack=20 lovel=1 hivel=127 offset=282 end=730627 loop_mode=loop_continuous loop_start=27259 loop_end=531116
+<region> sample=Noise Acid-87-127.aif key=87 lokey=87 hikey=87 amp_veltrack=20 lovel=1 hivel=127 offset=335 end=727232 loop_mode=loop_continuous loop_start=102293 loop_end=244976
+<region> sample=Noise Acid-88-127.aif key=88 lokey=88 hikey=88 amp_veltrack=20 lovel=1 hivel=127 offset=302 end=732444 loop_mode=loop_continuous loop_start=59021 loop_end=374413
+<region> sample=Noise Acid-89-127.aif key=89 lokey=89 hikey=89 amp_veltrack=20 lovel=1 hivel=127 offset=299 end=731010 loop_mode=loop_continuous loop_start=203129 loop_end=365863
+<region> sample=Noise Acid-90-127.aif key=90 lokey=90 hikey=90 amp_veltrack=20 lovel=1 hivel=127 offset=292 end=738561 loop_mode=loop_continuous loop_start=333053 loop_end=521418
+<region> sample=Noise Acid-91-127.aif key=91 lokey=91 hikey=91 amp_veltrack=20 lovel=1 hivel=127 offset=312 end=739247 loop_mode=loop_continuous loop_start=377833 loop_end=520177
+<region> sample=Noise Acid-92-127.aif key=92 lokey=92 hikey=92 amp_veltrack=20 lovel=1 hivel=127 offset=303 end=729238 loop_mode=loop_continuous loop_start=1183 loop_end=494016
+<region> sample=Noise Acid-93-127.aif key=93 lokey=93 hikey=93 amp_veltrack=20 lovel=1 hivel=127 offset=303 end=729742 loop_mode=loop_continuous loop_start=48159 loop_end=546265
+<region> sample=Noise Acid-94-127.aif key=94 lokey=94 hikey=94 amp_veltrack=20 lovel=1 hivel=127 offset=353 end=731661 loop_mode=loop_continuous loop_start=107624 loop_end=265335
+<region> sample=Noise Acid-95-127.aif key=95 lokey=95 hikey=95 amp_veltrack=20 lovel=1 hivel=127 offset=172 end=730537 loop_mode=loop_continuous loop_start=186795 loop_end=349384
+<region> sample=Noise Acid-96-127.aif key=96 lokey=96 hikey=96 amp_veltrack=20 lovel=1 hivel=127 offset=364 end=730543 loop_mode=loop_continuous loop_start=306171 loop_end=473896

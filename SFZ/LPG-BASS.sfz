@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - LPG-BASS.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/../Audio/LPG-BASS/
+
+<group>        // LPG-BASS
+<region> sample=kitzC0-127-5N2I.aif key=24 lokey=2 hikey=24 amp_veltrack=20 lovel=1 hivel=127 offset=420 end=68480 loop_mode=no_loop
+<region> sample=kitzC#0-127-0SM6.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=1 hivel=127 offset=414 end=67094 loop_mode=no_loop
+<region> sample=kitzD0-127-PRNT.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=1 hivel=127 offset=477 end=68241 loop_mode=no_loop
+<region> sample=kitzD#0-127-WXP5.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=1 hivel=127 offset=287 end=66432 loop_mode=no_loop
+<region> sample=kitzE0-127-OS39.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=1 hivel=127 offset=413 end=67324 loop_mode=no_loop
+<region> sample=kitzF0-127-XFRX.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=1 hivel=127 offset=417 end=66816 loop_mode=no_loop
+<region> sample=kitzF#0-127-SRJP.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=1 hivel=127 offset=476 end=67584 loop_mode=no_loop
+<region> sample=kitzG0-127-06WZ.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=1 hivel=127 offset=411 loop_mode=no_loop
+<region> sample=kitzG#0-127-P0PQ.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=1 hivel=127 offset=233 end=66537 loop_mode=no_loop
+<region> sample=kitzA0-127-TZ7Y.aif key=33 lokey=33 hikey=33 amp_veltrack=20 lovel=1 hivel=127 offset=292 end=61824 loop_mode=no_loop
+<region> sample=kitzA#0-127-559A.aif key=34 lokey=34 hikey=34 amp_veltrack=20 lovel=1 hivel=127 offset=284 end=64128 loop_mode=no_loop
+<region> sample=kitzB0-127-J3RP.aif key=35 lokey=35 hikey=35 amp_veltrack=20 lovel=1 hivel=127 offset=412 end=61314 loop_mode=no_loop
+<region> sample=kitzC1-127-NCUG.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=1 hivel=127 offset=414 end=61321 loop_mode=no_loop
+<region> sample=kitzC#1-127-2DAX.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=127 offset=350 end=60767 loop_mode=no_loop
+<region> sample=kitzD1-127-606W.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=127 offset=416 end=61696 loop_mode=no_loop
+<region> sample=kitzD#1-127-UMBM.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=127 offset=412 end=61696 loop_mode=no_loop
+<region> sample=kitzE1-127-0TOI.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=127 offset=231 end=56615 loop_mode=no_loop
+<region> sample=kitzF1-127-GJOV.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=127 offset=476 end=58831 loop_mode=no_loop
+<region> sample=kitzF#1-127-D5TK.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=127 offset=350 end=58591 loop_mode=no_loop
+<region> sample=kitzG1-127-7YLV.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=127 offset=285 end=54784 loop_mode=no_loop
+<region> sample=kitzG#1-127-G85V.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=127 offset=285 end=58383 loop_mode=no_loop
+<region> sample=kitzA1-127-QWAG.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=127 offset=479 end=57046 loop_mode=no_loop
+<region> sample=kitzA#1-127-EWFC.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=127 offset=412 end=55112 loop_mode=no_loop
+<region> sample=kitzB1-127-ERW7.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=127 offset=239 loop_mode=no_loop
+<region> sample=kitzC2-127-LF17.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=286 loop_mode=no_loop
+<region> sample=kitzC#2-127-I4UF.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=415 end=54454 loop_mode=no_loop
+<region> sample=kitzD2-127-KFFB.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=285 end=55499 loop_mode=no_loop
+<region> sample=kitzD#2-127-2GSV.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=291 end=51452 loop_mode=no_loop
+<region> sample=kitzE2-127-4FC9.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=476 end=50033 loop_mode=no_loop
+<region> sample=kitzF2-127-6X3V.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=288 end=50607 loop_mode=no_loop
+<region> sample=kitzF#2-127-5ZBN.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=215 end=50143 loop_mode=no_loop
+<region> sample=kitzG2-127-5Y3J.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=477 end=50833 loop_mode=no_loop
+<region> sample=kitzG#2-127-K3SB.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=413 loop_mode=no_loop
+<region> sample=kitzA2-127-UZZE.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=476 end=47304 loop_mode=no_loop
+<region> sample=kitzA#2-127-Q53X.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=284 end=45583 loop_mode=no_loop
+<region> sample=kitzB2-127-2S4T.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=348 end=44636 loop_mode=no_loop
+<region> sample=kitzC3-127-RG2D.aif key=60 lokey=60 hikey=127 amp_veltrack=20 lovel=1 hivel=127 offset=477 end=44214 loop_mode=no_loop

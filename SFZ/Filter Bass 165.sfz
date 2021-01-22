@@ -1,0 +1,52 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Filter Bass 165.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/../Audio/Filter Bass 165-SAMPLES/
+
+<group> volume=-6        // Group #4
+<region> sample=Filter Bass 165-21-127.wav key=36 lokey=36 hikey=36 pan=5 end=472575 loop_mode=no_loop
+<region> sample=Filter Bass 165-22-127.wav key=37 lokey=37 hikey=37 pan=5 end=469503 loop_mode=no_loop
+<region> sample=Filter Bass 165-23-127.wav key=38 lokey=38 hikey=38 pan=5 end=476159 loop_mode=no_loop
+<region> sample=Filter Bass 165-24-127.wav key=39 lokey=39 hikey=39 pan=5 end=472063 loop_mode=no_loop
+<region> sample=Filter Bass 165-25-127.wav key=40 lokey=40 hikey=40 pan=5 end=476159 loop_mode=no_loop
+<region> sample=Filter Bass 165-26-127.wav key=41 lokey=41 hikey=41 pan=5 end=474111 loop_mode=no_loop
+<region> sample=Filter Bass 165-27-127.wav key=42 lokey=42 hikey=42 pan=5 end=477439 loop_mode=no_loop
+<region> sample=Filter Bass 165-28-127.wav key=43 lokey=43 hikey=43 pan=5 end=475135 loop_mode=no_loop
+<region> sample=Filter Bass 165-48-127.wav key=44 lokey=44 hikey=44 pan=5 end=471039 loop_mode=no_loop
+<region> sample=Filter Bass 165-49-127.wav key=45 lokey=45 hikey=45 pan=5 end=471295 loop_mode=no_loop
+<region> sample=Filter Bass 165-50-127.wav key=46 lokey=46 hikey=46 pan=5 end=469247 loop_mode=no_loop
+<region> sample=Filter Bass 165-51-127.wav key=47 lokey=47 hikey=47 pan=5 end=468223 loop_mode=no_loop
+<region> sample=Filter Bass 165-52-127.wav key=48 lokey=48 hikey=48 pan=5 end=466175 loop_mode=no_loop
+<region> sample=Filter Bass 165-53-127.wav key=49 lokey=49 hikey=49 pan=5 end=470527 loop_mode=no_loop
+<region> sample=Filter Bass 165-54-127.wav key=50 lokey=50 hikey=50 pan=5 end=473087 loop_mode=no_loop
+<region> sample=Filter Bass 165-55-127.wav key=51 lokey=51 hikey=51 pan=5 end=472831 loop_mode=no_loop
+<region> sample=Filter Bass 165-56-127.wav key=52 lokey=52 hikey=52 pan=5 end=466431 loop_mode=no_loop
+<region> sample=Filter Bass 165-57-127.wav key=53 lokey=53 hikey=53 pan=5 end=464383 loop_mode=no_loop
+<region> sample=Filter Bass 165-58-127.wav key=54 lokey=54 hikey=54 pan=5 end=475647 loop_mode=no_loop
+<region> sample=Filter Bass 165-59-127.wav key=55 lokey=55 hikey=55 pan=5 end=467199 loop_mode=no_loop
+<region> sample=Filter Bass 165-60-127.wav key=56 lokey=56 hikey=56 pan=5 end=472575 loop_mode=no_loop
+<region> sample=Filter Bass 165-61-127.wav key=57 lokey=57 hikey=57 pan=5 end=471039 loop_mode=no_loop
+<region> sample=Filter Bass 165-62-127.wav key=58 lokey=58 hikey=58 pan=5 end=473599 loop_mode=no_loop
+<region> sample=Filter Bass 165-63-127.wav key=59 lokey=59 hikey=59 pan=5 end=469759 loop_mode=no_loop
+<region> sample=Filter Bass 165-64-127.wav key=60 lokey=60 hikey=60 pan=5 end=474367 loop_mode=no_loop
+<region> sample=Filter Bass 165-65-127.wav key=61 lokey=61 hikey=61 pan=5 end=472319 loop_mode=no_loop
+<region> sample=Filter Bass 165-66-127.wav key=62 lokey=62 hikey=62 pan=5 end=474111 loop_mode=no_loop
+<region> sample=Filter Bass 165-67-127.wav key=63 lokey=63 hikey=63 pan=5 end=467711 loop_mode=no_loop
+<region> sample=Filter Bass 165-68-127.wav key=64 lokey=64 hikey=64 pan=5 end=464127 loop_mode=no_loop
+<region> sample=Filter Bass 165-69-127.wav key=65 lokey=65 hikey=65 pan=5 end=472831 loop_mode=no_loop
+<region> sample=Filter Bass 165-70-127.wav key=66 lokey=66 hikey=66 pan=5 end=472319 loop_mode=no_loop
+<region> sample=Filter Bass 165-71-127.wav key=67 lokey=67 hikey=67 pan=5 end=478207 loop_mode=no_loop
+<region> sample=Filter Bass 165-72-127.wav key=68 lokey=68 hikey=68 pan=5 end=465663 loop_mode=no_loop
+<region> sample=Filter Bass 165-73-127.wav key=69 lokey=69 hikey=69 pan=5 end=469759 loop_mode=no_loop
+<region> sample=Filter Bass 165-74-127.wav key=70 lokey=70 hikey=70 pan=5 end=457983 loop_mode=no_loop
+<region> sample=Filter Bass 165-75-127.wav key=71 lokey=71 hikey=71 pan=5 end=481791 loop_mode=no_loop
+<region> sample=Filter Bass 165-76-127.wav key=72 lokey=72 hikey=72 pan=5 end=470271 loop_mode=no_loop
+<region> sample=Filter Bass 165-77-127.wav key=73 lokey=73 hikey=73 pan=5 end=467455 loop_mode=no_loop
+<region> sample=Filter Bass 165-78-127.wav key=74 lokey=74 hikey=74 pan=5 end=479743 loop_mode=no_loop
+<region> sample=Filter Bass 165-79-127.wav key=75 lokey=75 hikey=75 pan=5 end=471039 loop_mode=no_loop
+<region> sample=Filter Bass 165-80-127.wav key=76 lokey=76 hikey=76 pan=5 end=471295 loop_mode=no_loop
+<region> sample=Filter Bass 165-81-127.wav key=77 lokey=77 hikey=77 pan=5 end=470015 loop_mode=no_loop
+<region> sample=Filter Bass 165-82-127.wav key=78 lokey=78 hikey=78 pan=5 end=470271 loop_mode=no_loop
+<region> sample=Filter Bass 165-83-127.wav key=79 lokey=79 hikey=79 pan=5 end=470015 loop_mode=no_loop
+<region> sample=Filter Bass 165-84-127.wav key=80 lokey=80 hikey=80 pan=5 end=1051647 loop_mode=no_loop

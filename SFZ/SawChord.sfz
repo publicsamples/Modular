@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SawChord.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/SawChord/
+
+<group>        // SawChord
+<region> sample=modhols201611273636-8W5I.aif key=36 lokey=2 hikey=36 amp_veltrack=20 lovel=1 hivel=127 offset=895 loop_mode=no_loop
+<region> sample=modhols201611273737-2HB7.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=127 offset=511 loop_mode=no_loop
+<region> sample=modhols201611273838-NIK6.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=127 offset=740 loop_mode=no_loop
+<region> sample=modhols201611273939-TAPE.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=127 offset=639 loop_mode=no_loop
+<region> sample=modhols201611274040-I5P1.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=127 offset=511 end=593779 loop_mode=no_loop
+<region> sample=modhols201611274141-GFA0.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=127 offset=621 end=595041 loop_mode=no_loop
+<region> sample=modhols201611274242-WY22.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=127 offset=706 loop_mode=no_loop
+<region> sample=modhols201611274343-G59W.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=127 offset=511 end=592256 loop_mode=no_loop
+<region> sample=modhols201611274444-1LC2.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=127 offset=869 loop_mode=no_loop
+<region> sample=modhols201611274545-IVEQ.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=127 offset=720 end=591866 loop_mode=no_loop
+<region> sample=modhols201611274646-H9SN.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=127 offset=841 loop_mode=no_loop
+<region> sample=modhols201611274747-5QXN.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=127 offset=893 loop_mode=no_loop
+<region> sample=modhols201611274848-IZFA.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=895 end=587392 loop_mode=no_loop
+<region> sample=modhols201611274949-FR98.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=767 end=588514 loop_mode=no_loop
+<region> sample=modhols201611275050-B2EF.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=767 loop_mode=no_loop
+<region> sample=modhols201611275151-DTM9.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=489 end=588265 loop_mode=no_loop
+<region> sample=modhols201611275252-5SXR.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=758 end=587362 loop_mode=no_loop
+<region> sample=modhols201611275353-LF93.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=639 loop_mode=no_loop
+<region> sample=modhols201611275454-9CLW.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=702 end=588210 loop_mode=no_loop
+<region> sample=modhols201611275555-NFMR.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=751 end=584666 loop_mode=no_loop
+<region> sample=modhols201611275656-UTRI.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=767 loop_mode=no_loop
+<region> sample=modhols201611275757-BE4Z.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=639 loop_mode=no_loop
+<region> sample=modhols201611275858-ZTJ7.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=639 end=579625 loop_mode=no_loop
+<region> sample=modhols201611275959-I2OI.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=619 end=579592 loop_mode=no_loop
+<region> sample=modhols201611276060-MDMT.aif key=60 lokey=60 hikey=92 amp_veltrack=20 lovel=1 hivel=127 offset=639 end=577418 loop_mode=no_loop

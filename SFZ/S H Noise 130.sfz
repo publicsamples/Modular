@@ -1,0 +1,192 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - S H Noise 130.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+
+
+<control>
+default_path=../Audio/S H Noise 130-SAMPLES/
+
+<group> volume=4        // S/H Noise 130
+<region> sample=S H Noise 130-36-127.wav key=36 lokey=36 hikey=36 offset=305 end=697599 loop_mode=loop_continuous loop_start=257749 loop_end=495119
+
+
+<region> sample=S H Noise 130-37-127.wav key=37 lokey=37 hikey=37 offset=375 end=695487 loop_mode=loop_continuous loop_start=57881 loop_end=192860
+
+
+<region> sample=S H Noise 130-38-127.wav key=38 lokey=38 hikey=38 offset=372 end=695103 loop_mode=loop_continuous loop_start=159245 loop_end=278162
+
+
+<region> sample=S H Noise 130-39-127.wav key=39 lokey=39 hikey=39 offset=279 end=697663 loop_mode=loop_continuous loop_start=218299 loop_end=548050
+
+
+<region> sample=S H Noise 130-40-127.wav key=40 lokey=40 hikey=40 offset=309 end=694911 loop_mode=loop_continuous loop_start=343880 loop_end=490879
+
+
+<region> sample=S H Noise 130-41-127.wav key=41 lokey=41 hikey=41 offset=309 end=696895 loop_mode=loop_continuous loop_start=274065 loop_end=422567
+
+
+<region> sample=S H Noise 130-42-127.wav key=42 lokey=42 hikey=42 offset=288 end=697151 loop_mode=loop_continuous loop_start=94761 loop_end=375150
+
+
+<region> sample=S H Noise 130-43-127.wav key=43 lokey=43 hikey=43 offset=309 end=695807 loop_mode=loop_continuous loop_start=121078 loop_end=357509
+
+
+<region> sample=S H Noise 130-44-127.wav key=44 lokey=44 hikey=44 offset=364 end=695807 loop_mode=loop_continuous loop_start=83071 loop_end=203012
+
+
+<region> sample=S H Noise 130-45-127.wav key=45 lokey=45 hikey=45 offset=382 end=697087 loop_mode=loop_continuous loop_start=236921 loop_end=349951
+
+
+<region> sample=S H Noise 130-46-127.wav key=46 lokey=46 hikey=46 offset=370 end=696063 loop_mode=loop_continuous loop_start=190812 loop_end=530579
+
+
+<region> sample=S H Noise 130-47-127.wav key=47 lokey=47 hikey=47 offset=366 end=695807 loop_mode=loop_continuous loop_start=180110 loop_end=409114
+
+
+<region> sample=S H Noise 130-48-127.wav key=48 lokey=48 hikey=48 offset=353 end=697791 loop_mode=loop_continuous loop_start=6905 loop_end=157617
+
+
+<region> sample=S H Noise 130-49-127.wav key=49 lokey=49 hikey=49 offset=362 end=697535 loop_mode=loop_continuous loop_start=141787 loop_end=534209
+
+
+<region> sample=S H Noise 130-50-127.wav key=50 lokey=50 hikey=50 offset=369 end=696895 loop_mode=loop_continuous loop_start=179232 loop_end=291687
+
+
+<region> sample=S H Noise 130-51-127.wav key=51 lokey=51 hikey=51 offset=294 end=699135 loop_mode=loop_continuous loop_start=332065 loop_end=444556
+
+
+<region> sample=S H Noise 130-52-127.wav key=52 lokey=52 hikey=52 offset=371 end=696255 loop_mode=loop_continuous loop_start=222321 loop_end=487786
+
+
+<region> sample=S H Noise 130-53-127.wav key=53 lokey=53 hikey=53 offset=359 end=696639 loop_mode=loop_continuous loop_start=260509 loop_end=376285
+
+
+<region> sample=S H Noise 130-54-127.wav key=54 lokey=54 hikey=54 offset=359 end=698623 loop_mode=loop_continuous loop_start=295450 loop_end=541138
+
+
+<region> sample=S H Noise 130-55-127.wav key=55 lokey=55 hikey=55 offset=369 end=697023 loop_mode=loop_continuous loop_start=109725 loop_end=302183
+
+
+<region> sample=S H Noise 130-56-127.wav key=56 lokey=56 hikey=56 offset=288 end=696895 loop_mode=loop_continuous loop_start=112541 loop_end=249445
+
+
+<region> sample=S H Noise 130-57-127.wav key=57 lokey=57 hikey=57 offset=362 end=697727 loop_mode=loop_continuous loop_start=386609 loop_end=499746
+
+
+<region> sample=S H Noise 130-58-127.wav key=58 lokey=58 hikey=58 offset=305 end=697151 loop_mode=loop_continuous loop_start=65814 loop_end=371713
+
+
+<region> sample=S H Noise 130-59-127.wav key=59 lokey=59 hikey=59 offset=360 end=696255 loop_mode=loop_continuous loop_start=212844 loop_end=346469
+
+
+<region> sample=S H Noise 130-60-127.wav key=60 lokey=60 hikey=60 offset=360 end=697087 loop_mode=loop_continuous loop_start=156403 loop_end=406117
+
+
+<region> sample=S H Noise 130-61-127.wav key=61 lokey=61 hikey=61 offset=370 end=696767 loop_mode=loop_continuous loop_start=250442 loop_end=402410
+
+
+<region> sample=S H Noise 130-62-127.wav key=62 lokey=62 hikey=62 offset=305 end=697535 loop_mode=loop_continuous loop_start=166235 loop_end=378983
+
+
+<region> sample=S H Noise 130-63-127.wav key=63 lokey=63 hikey=63 offset=355 end=702655 loop_mode=loop_continuous loop_start=330912 loop_end=498450
+
+
+<region> sample=S H Noise 130-64-127.wav key=64 lokey=64 hikey=64 offset=307 end=696319 loop_mode=loop_continuous loop_start=53792 loop_end=313006
+
+
+<region> sample=S H Noise 130-65-127.wav key=65 lokey=65 hikey=65 offset=292 end=698815 loop_mode=loop_continuous loop_start=26511 loop_end=199999
+
+
+<region> sample=S H Noise 130-66-127.wav key=66 lokey=66 hikey=66 offset=361 end=696767 loop_mode=loop_continuous loop_start=213102 loop_end=476529
+
+
+<region> sample=S H Noise 130-67-127.wav key=67 lokey=67 hikey=67 offset=313 end=697919 loop_mode=loop_continuous loop_start=340083 loop_end=457519
+
+
+<region> sample=S H Noise 130-68-127.wav key=68 lokey=68 hikey=68 offset=363 end=697471 loop_mode=loop_continuous loop_start=261499 loop_end=383638
+
+
+<region> sample=S H Noise 130-69-127.wav key=69 lokey=69 hikey=69 offset=307 end=697151 loop_mode=loop_continuous loop_start=74353 loop_end=507070
+
+
+<region> sample=S H Noise 130-70-127.wav key=70 lokey=70 hikey=70 offset=377 end=696895 loop_mode=loop_continuous loop_start=282319 loop_end=537420
+
+
+<region> sample=S H Noise 130-71-127.wav key=71 lokey=71 hikey=71 offset=375 end=697087 loop_mode=loop_continuous loop_start=55834 loop_end=209653
+
+
+<region> sample=S H Noise 130-72-127.wav key=72 lokey=72 hikey=72 offset=306 end=696767 loop_mode=loop_continuous loop_start=40234 loop_end=542164
+
+
+<region> sample=S H Noise 130-73-127.wav key=73 lokey=73 hikey=73 offset=368 end=698495 loop_mode=loop_continuous loop_start=42048 loop_end=540084
+
+
+<region> sample=S H Noise 130-74-127.wav key=74 lokey=74 hikey=74 offset=313 end=697471 loop_mode=loop_continuous loop_start=308437 loop_end=547231
+
+
+<region> sample=S H Noise 130-75-127.wav key=75 lokey=75 hikey=75 offset=299 end=697215 loop_mode=loop_continuous loop_start=18994 loop_end=512439
+
+
+<region> sample=S H Noise 130-76-127.wav key=76 lokey=76 hikey=76 offset=360 end=698559 loop_mode=loop_continuous loop_start=360085 loop_end=549545
+
+
+<region> sample=S H Noise 130-77-127.wav key=77 lokey=77 hikey=77 offset=281 end=697279 loop_mode=loop_continuous loop_start=32676 loop_end=547594
+
+
+<region> sample=S H Noise 130-78-127.wav key=78 lokey=78 hikey=78 offset=303 end=695999 loop_mode=loop_continuous loop_start=62145 loop_end=540278
+
+
+<region> sample=S H Noise 130-79-127.wav key=79 lokey=79 hikey=79 offset=308 end=697983 loop_mode=loop_continuous loop_start=167288 loop_end=334167
+
+
+<region> sample=S H Noise 130-80-127.wav key=80 lokey=80 hikey=80 offset=304 end=697151 loop_mode=loop_continuous loop_start=190378 loop_end=535120
+
+
+<region> sample=S H Noise 130-81-127.wav key=81 lokey=81 hikey=81 offset=311 end=696959 loop_mode=loop_continuous loop_start=25308 loop_end=550785
+
+
+<region> sample=S H Noise 130-82-127.wav key=82 lokey=82 hikey=82 offset=299 end=698367 loop_mode=loop_continuous loop_start=329873 loop_end=537924
+
+
+<region> sample=S H Noise 130-83-127.wav key=83 lokey=83 hikey=83 offset=369 end=696703 loop_mode=loop_continuous loop_start=211481 loop_end=353320
+
+
+<region> sample=S H Noise 130-84-127.wav key=84 lokey=84 hikey=84 offset=359 end=705727 loop_mode=loop_continuous loop_start=263630 loop_end=441952
+
+
+<region> sample=S H Noise 130-85-127.wav key=85 lokey=85 hikey=85 offset=368 end=697983 loop_mode=loop_continuous loop_start=155893 loop_end=266372
+
+
+<region> sample=S H Noise 130-86-127.wav key=86 lokey=86 hikey=86 offset=350 end=697535 loop_mode=loop_continuous loop_start=232547 loop_end=498952
+
+
+<region> sample=S H Noise 130-87-127.wav key=87 lokey=87 hikey=87 offset=297 end=697151 loop_mode=loop_continuous loop_start=407432 loop_end=544375
+
+
+<region> sample=S H Noise 130-88-127.wav key=88 lokey=88 hikey=88 offset=296 end=697151 loop_mode=loop_continuous loop_start=194901 loop_end=323748
+
+
+<region> sample=S H Noise 130-89-127.wav key=89 lokey=89 hikey=89 offset=373 end=696767 loop_mode=loop_continuous loop_start=387817 loop_end=510899
+
+
+<region> sample=S H Noise 130-90-127.wav key=90 lokey=90 hikey=90 offset=306 end=698367 loop_mode=loop_continuous loop_start=253851 loop_end=382227
+
+
+<region> sample=S H Noise 130-91-127.wav key=91 lokey=91 hikey=91 offset=366 end=703551 loop_mode=loop_continuous loop_start=52554 loop_end=172612
+
+
+<region> sample=S H Noise 130-92-127.wav key=92 lokey=92 hikey=92 offset=363 end=697471 loop_mode=loop_continuous loop_start=159951 loop_end=546842
+
+
+<region> sample=S H Noise 130-93-127.wav key=93 lokey=93 hikey=93 offset=361 end=697663 loop_mode=loop_continuous loop_start=237808 loop_end=360128
+
+
+<region> sample=S H Noise 130-94-127.wav key=94 lokey=94 hikey=94 offset=358 end=698239 loop_mode=loop_continuous loop_start=113691 loop_end=311809
+
+
+<region> sample=S H Noise 130-95-127.wav key=95 lokey=95 hikey=95 offset=304 end=702271 loop_mode=loop_continuous loop_start=228701 loop_end=339601
+
+
+<region> sample=S H Noise 130-96-127.wav key=96 lokey=96 hikey=96 offset=300 end=697663 loop_mode=loop_continuous loop_start=350131 loop_end=461207
+
+

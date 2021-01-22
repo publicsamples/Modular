@@ -1,0 +1,48 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Cheap Shot.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+
+
+<control>
+default_path=../Audio/Cheap Shot-SAMPLES/
+
+<group> volume=3        // Cheap Shot
+<region> sample=Cheap Shot-36-127.wav key=36 lokey=36 hikey=36 offset=1847 end=248319 loop_mode=loop_continuous loop_start=169617 loop_end=199356
+
+
+<region> sample=Cheap Shot-39-127.wav key=39 lokey=37 hikey=39 offset=1994 end=249343 loop_mode=loop_continuous loop_start=177719 loop_end=198168
+
+
+<region> sample=Cheap Shot-42-127.wav key=42 lokey=40 hikey=42 offset=2135 end=242687 loop_mode=loop_continuous loop_start=181257 loop_end=200353
+
+
+<region> sample=Cheap Shot-45-127.wav key=45 lokey=43 hikey=45 offset=1842 end=240639 loop_mode=loop_continuous loop_start=174477 loop_end=195348
+
+
+<region> sample=Cheap Shot-48-127.wav key=48 lokey=46 hikey=48 offset=2210 end=249855 loop_mode=loop_continuous loop_start=180438 loop_end=200691
+
+
+<region> sample=Cheap Shot-51-127.wav key=51 lokey=49 hikey=51 offset=1840 end=240639 loop_mode=loop_continuous loop_start=177206 loop_end=200479
+
+
+<region> sample=Cheap Shot-54-127.wav key=54 lokey=52 hikey=54 offset=1845 end=246271 loop_mode=loop_continuous loop_start=181629 loop_end=199288
+
+
+<region> sample=Cheap Shot-57-127.wav key=57 lokey=55 hikey=57 offset=2354 end=240639 loop_mode=loop_continuous loop_start=111626 loop_end=130486
+
+
+<region> sample=Cheap Shot-60-127.wav key=60 lokey=58 hikey=60 offset=2129 end=251903 loop_mode=loop_continuous loop_start=126703 loop_end=147621
+
+
+<region> sample=Cheap Shot-63-127.wav key=63 lokey=61 hikey=63 offset=1866 end=240639 loop_mode=loop_continuous loop_start=167752 loop_end=188740
+
+
+<region> sample=Cheap Shot-66-127.wav key=66 lokey=64 hikey=66 offset=2129 end=239615 loop_mode=loop_continuous loop_start=113230 loop_end=129922
+
+
+<region> sample=Cheap Shot-69-127.wav key=69 lokey=67 hikey=69 offset=2262 end=246271 loop_mode=loop_continuous loop_start=176782 loop_end=200242
+
+
+<region> sample=Cheap Shot-72-127.wav key=72 lokey=70 hikey=72 offset=1926 end=236031 loop_mode=loop_continuous loop_start=167234 loop_end=187471
+
+

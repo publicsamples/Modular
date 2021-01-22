@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Loaded Bass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Loaded Bass-SAMPLES/
+
+<group> volume=-6        // 03 Loaded Bass
+<region> sample=03 Loaded Bass-36-127.wav key=36 lokey=36 hikey=36 offset=328 end=89471 loop_mode=no_loop
+<region> sample=03 Loaded Bass-37-127.wav key=37 lokey=37 hikey=37 offset=241 end=85503 loop_mode=no_loop
+<region> sample=03 Loaded Bass-38-127.wav key=38 lokey=38 hikey=38 offset=337 end=86527 loop_mode=no_loop
+<region> sample=03 Loaded Bass-39-127.wav key=39 lokey=39 hikey=39 offset=333 end=86847 loop_mode=no_loop
+<region> sample=03 Loaded Bass-40-127.wav key=40 lokey=40 hikey=40 offset=293 end=84287 loop_mode=no_loop
+<region> sample=03 Loaded Bass-41-127.wav key=41 lokey=41 hikey=41 offset=332 end=88255 loop_mode=no_loop
+<region> sample=03 Loaded Bass-42-127.wav key=42 lokey=42 hikey=42 offset=337 end=86143 loop_mode=no_loop
+<region> sample=03 Loaded Bass-43-127.wav key=43 lokey=43 hikey=43 offset=329 end=84927 loop_mode=no_loop
+<region> sample=03 Loaded Bass-44-127.wav key=44 lokey=44 hikey=44 offset=303 end=83263 loop_mode=no_loop
+<region> sample=03 Loaded Bass-45-127.wav key=45 lokey=45 hikey=45 offset=335 end=85695 loop_mode=no_loop
+<region> sample=03 Loaded Bass-46-127.wav key=46 lokey=46 hikey=46 offset=364 end=85503 loop_mode=no_loop
+<region> sample=03 Loaded Bass-47-127.wav key=47 lokey=47 hikey=47 offset=271 end=85695 loop_mode=no_loop
+<region> sample=03 Loaded Bass-48-127.wav key=48 lokey=48 hikey=48 offset=364 end=83903 loop_mode=no_loop
+<region> sample=03 Loaded Bass-49-127.wav key=49 lokey=49 hikey=49 offset=319 end=85055 loop_mode=no_loop
+<region> sample=03 Loaded Bass-50-127.wav key=50 lokey=50 hikey=50 offset=331 end=84287 loop_mode=no_loop
+<region> sample=03 Loaded Bass-51-127.wav key=51 lokey=51 hikey=51 offset=340 end=84927 loop_mode=no_loop
+<region> sample=03 Loaded Bass-52-127.wav key=52 lokey=52 hikey=52 offset=283 end=84415 loop_mode=no_loop
+<region> sample=03 Loaded Bass-53-127.wav key=53 lokey=53 hikey=53 offset=296 end=86335 loop_mode=no_loop
+<region> sample=03 Loaded Bass-54-127.wav key=54 lokey=54 hikey=54 offset=301 end=84223 loop_mode=no_loop
+<region> sample=03 Loaded Bass-55-127.wav key=55 lokey=55 hikey=55 offset=338 end=84799 loop_mode=no_loop
+<region> sample=03 Loaded Bass-56-127.wav key=56 lokey=56 hikey=56 offset=357 end=85055 loop_mode=no_loop
+<region> sample=03 Loaded Bass-57-127.wav key=57 lokey=57 hikey=57 offset=338 end=86207 loop_mode=no_loop
+<region> sample=03 Loaded Bass-58-127.wav key=58 lokey=58 hikey=58 offset=303 end=87935 loop_mode=no_loop
+<region> sample=03 Loaded Bass-59-127.wav key=59 lokey=59 hikey=59 offset=313 end=81983 loop_mode=no_loop
+<region> sample=03 Loaded Bass-60-127.wav key=60 lokey=60 hikey=60 offset=311 end=84543 loop_mode=no_loop
+<region> sample=03 Loaded Bass-61-127.wav key=61 lokey=61 hikey=61 offset=329 end=85503 loop_mode=no_loop
+<region> sample=03 Loaded Bass-62-127.wav key=62 lokey=62 hikey=62 offset=309 end=88319 loop_mode=no_loop
+<region> sample=03 Loaded Bass-63-127.wav key=63 lokey=63 hikey=63 offset=340 end=84415 loop_mode=no_loop
+<region> sample=03 Loaded Bass-64-127.wav key=64 lokey=64 hikey=64 offset=302 end=87551 loop_mode=no_loop
+<region> sample=03 Loaded Bass-65-127.wav key=65 lokey=65 hikey=65 offset=278 end=87295 loop_mode=no_loop
+<region> sample=03 Loaded Bass-66-127.wav key=66 lokey=66 hikey=66 offset=314 end=87231 loop_mode=no_loop
+<region> sample=03 Loaded Bass-67-127.wav key=67 lokey=67 hikey=67 offset=315 end=83327 loop_mode=no_loop
+<region> sample=03 Loaded Bass-68-127.wav key=68 lokey=68 hikey=68 offset=306 end=82815 loop_mode=no_loop
+<region> sample=03 Loaded Bass-69-127.wav key=69 lokey=69 hikey=69 offset=324 end=85567 loop_mode=no_loop
+<region> sample=03 Loaded Bass-70-127.wav key=70 lokey=70 hikey=70 offset=315 end=84159 loop_mode=no_loop
+<region> sample=03 Loaded Bass-71-127.wav key=71 lokey=71 hikey=71 offset=307 end=84799 loop_mode=no_loop
+<region> sample=03 Loaded Bass-72-127.wav key=72 lokey=72 hikey=72 offset=322 end=84479 loop_mode=no_loop
+<region> sample=03 Loaded Bass-73-127.wav key=73 lokey=73 hikey=73 offset=315 end=82687 loop_mode=no_loop
+<region> sample=03 Loaded Bass-74-127.wav key=74 lokey=74 hikey=74 offset=334 end=88127 loop_mode=no_loop
+<region> sample=03 Loaded Bass-75-127.wav key=75 lokey=75 hikey=75 offset=331 end=83135 loop_mode=no_loop
+<region> sample=03 Loaded Bass-76-127.wav key=76 lokey=76 hikey=76 offset=400 end=84159 loop_mode=no_loop
+<region> sample=03 Loaded Bass-77-127.wav key=77 lokey=77 hikey=77 offset=307 end=84927 loop_mode=no_loop
+<region> sample=03 Loaded Bass-78-127.wav key=78 lokey=78 hikey=78 offset=296 end=84479 loop_mode=no_loop
+<region> sample=03 Loaded Bass-79-127.wav key=79 lokey=79 hikey=79 offset=396 end=86335 loop_mode=no_loop
+<region> sample=03 Loaded Bass-80-127.wav key=80 lokey=80 hikey=80 offset=294 end=85247 loop_mode=no_loop
+<region> sample=03 Loaded Bass-81-127.wav key=81 lokey=81 hikey=81 offset=321 end=84159 loop_mode=no_loop
+<region> sample=03 Loaded Bass-82-127.wav key=82 lokey=82 hikey=82 offset=307 end=84479 loop_mode=no_loop
+<region> sample=03 Loaded Bass-83-127.wav key=83 lokey=83 hikey=83 offset=301 end=84415 loop_mode=no_loop
+<region> sample=03 Loaded Bass-84-127.wav key=84 lokey=84 hikey=84 offset=330 end=82687 loop_mode=no_loop
+<region> sample=03 Loaded Bass-85-127.wav key=85 lokey=85 hikey=85 offset=317 end=84351 loop_mode=no_loop
+<region> sample=03 Loaded Bass-86-127.wav key=86 lokey=86 hikey=86 offset=251 end=83455 loop_mode=no_loop
+<region> sample=03 Loaded Bass-87-127.wav key=87 lokey=87 hikey=87 offset=329 end=85183 loop_mode=no_loop
+<region> sample=03 Loaded Bass-88-127.wav key=88 lokey=88 hikey=88 offset=263 end=84031 loop_mode=no_loop
+<region> sample=03 Loaded Bass-89-127.wav key=89 lokey=89 hikey=89 offset=298 end=84415 loop_mode=no_loop
+<region> sample=03 Loaded Bass-90-127.wav key=90 lokey=90 hikey=90 offset=319 end=83263 loop_mode=no_loop
+<region> sample=03 Loaded Bass-91-127.wav key=91 lokey=91 hikey=91 offset=307 end=84287 loop_mode=no_loop
+<region> sample=03 Loaded Bass-92-127.wav key=92 lokey=92 hikey=92 offset=320 end=83263 loop_mode=no_loop
+<region> sample=03 Loaded Bass-93-127.wav key=93 lokey=93 hikey=93 offset=308 end=83455 loop_mode=no_loop
+<region> sample=03 Loaded Bass-94-127.wav key=94 lokey=94 hikey=94 offset=317 end=84543 loop_mode=no_loop
+<region> sample=03 Loaded Bass-95-127.wav key=95 lokey=95 hikey=95 offset=322 end=83519 loop_mode=no_loop
+<region> sample=03 Loaded Bass-96-127.wav key=96 lokey=96 hikey=96 offset=307 end=226687 loop_mode=no_loop

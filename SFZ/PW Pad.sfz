@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - PW Pad.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/PW Pad/
+
+<group>        // PW Pad
+<region> sample=PW Pad-48-127.wav key=48 lokey=0 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=581 end=284039 loop_mode=no_loop
+<region> sample=PW Pad-49-127.wav key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=625 loop_mode=no_loop
+<region> sample=PW Pad-50-127.wav key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=445 end=283357 loop_mode=no_loop
+<region> sample=PW Pad-51-127.wav key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=667 loop_mode=no_loop
+<region> sample=PW Pad-52-127.wav key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=612 end=283105 loop_mode=no_loop
+<region> sample=PW Pad-53-127.wav key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=450 end=282308 loop_mode=no_loop
+<region> sample=PW Pad-54-127.wav key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=704 end=282247 loop_mode=no_loop
+<region> sample=PW Pad-55-127.wav key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=537 end=282531 loop_mode=no_loop
+<region> sample=PW Pad-56-127.wav key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=497 end=282005 loop_mode=no_loop
+<region> sample=PW Pad-57-127.wav key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=649 end=281733 loop_mode=no_loop
+<region> sample=PW Pad-58-127.wav key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=629 loop_mode=no_loop
+<region> sample=PW Pad-59-127.wav key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=523 end=282852 loop_mode=no_loop
+<region> sample=PW Pad-60-127.wav key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=1 hivel=127 offset=496 loop_mode=no_loop
+<region> sample=PW Pad-61-127.wav key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=1 hivel=127 offset=732 loop_mode=no_loop
+<region> sample=PW Pad-62-127.wav key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=1 hivel=127 offset=515 end=282291 loop_mode=no_loop
+<region> sample=PW Pad-63-127.wav key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=1 hivel=127 offset=366 end=283032 loop_mode=no_loop
+<region> sample=PW Pad-64-127.wav key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=1 hivel=127 offset=564 end=281790 loop_mode=no_loop
+<region> sample=PW Pad-65-127.wav key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=1 hivel=127 offset=724 end=282374 loop_mode=no_loop
+<region> sample=PW Pad-66-127.wav key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=1 hivel=127 offset=537 loop_mode=no_loop
+<region> sample=PW Pad-67-127.wav key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=1 hivel=127 offset=509 loop_mode=no_loop
+<region> sample=PW Pad-68-127.wav key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=1 hivel=127 offset=518 end=281561 loop_mode=no_loop
+<region> sample=PW Pad-69-127.wav key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=1 hivel=127 offset=652 end=282561 loop_mode=no_loop
+<region> sample=PW Pad-70-127.wav key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=1 hivel=127 offset=472 end=281448 loop_mode=no_loop
+<region> sample=PW Pad-71-127.wav key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=1 hivel=127 offset=639 end=282295 loop_mode=no_loop
+<region> sample=PW Pad-72-127.wav key=72 lokey=72 hikey=72 amp_veltrack=20 lovel=1 hivel=127 offset=851 end=280958 loop_mode=no_loop
+<region> sample=PW Pad-73-127.wav key=73 lokey=73 hikey=73 amp_veltrack=20 lovel=1 hivel=127 offset=621 loop_mode=no_loop
+<region> sample=PW Pad-74-127.wav key=74 lokey=74 hikey=74 amp_veltrack=20 lovel=1 hivel=127 offset=598 end=281334 loop_mode=no_loop
+<region> sample=PW Pad-75-127.wav key=75 lokey=75 hikey=75 amp_veltrack=20 lovel=1 hivel=127 offset=512 end=281219 loop_mode=no_loop
+<region> sample=PW Pad-76-127.wav key=76 lokey=76 hikey=76 amp_veltrack=20 lovel=1 hivel=127 offset=663 end=280995 loop_mode=no_loop
+<region> sample=PW Pad-77-127.wav key=77 lokey=77 hikey=77 amp_veltrack=20 lovel=1 hivel=127 offset=595 end=280361 loop_mode=no_loop
+<region> sample=PW Pad-78-127.wav key=78 lokey=78 hikey=78 amp_veltrack=20 lovel=1 hivel=127 offset=613 end=280704 loop_mode=no_loop
+<region> sample=PW Pad-79-127.wav key=79 lokey=79 hikey=79 amp_veltrack=20 lovel=1 hivel=127 offset=378 end=281371 loop_mode=no_loop
+<region> sample=PW Pad-80-127.wav key=80 lokey=80 hikey=80 amp_veltrack=20 lovel=1 hivel=127 offset=505 end=282417 loop_mode=no_loop
+<region> sample=PW Pad-81-127.wav key=81 lokey=81 hikey=81 amp_veltrack=20 lovel=1 hivel=127 offset=560 end=281583 loop_mode=no_loop
+<region> sample=PW Pad-82-127.wav key=82 lokey=82 hikey=82 amp_veltrack=20 lovel=1 hivel=127 offset=485 loop_mode=no_loop
+<region> sample=PW Pad-83-127.wav key=83 lokey=83 hikey=83 amp_veltrack=20 lovel=1 hivel=127 offset=515 loop_mode=no_loop
+<region> sample=PW Pad-84-127.wav key=84 lokey=84 hikey=84 amp_veltrack=20 lovel=1 hivel=127 offset=557 end=281745 loop_mode=no_loop
+<region> sample=PW Pad-85-127.wav key=85 lokey=85 hikey=85 amp_veltrack=20 lovel=1 hivel=127 offset=811 end=280762 loop_mode=no_loop
+<region> sample=PW Pad-86-127.wav key=86 lokey=86 hikey=86 amp_veltrack=20 lovel=1 hivel=127 offset=664 end=280433 loop_mode=no_loop
+<region> sample=PW Pad-87-127.wav key=87 lokey=87 hikey=87 amp_veltrack=20 lovel=1 hivel=127 offset=565 end=280879 loop_mode=no_loop
+<region> sample=PW Pad-88-127.wav key=88 lokey=88 hikey=88 amp_veltrack=20 lovel=1 hivel=127 offset=552 end=280847 loop_mode=no_loop
+<region> sample=PW Pad-89-127.wav key=89 lokey=89 hikey=89 amp_veltrack=20 lovel=1 hivel=127 offset=496 end=280001 loop_mode=no_loop
+<region> sample=PW Pad-90-127.wav key=90 lokey=90 hikey=90 amp_veltrack=20 lovel=1 hivel=127 offset=522 end=279691 loop_mode=no_loop
+<region> sample=PW Pad-91-127.wav key=91 lokey=91 hikey=91 amp_veltrack=20 lovel=1 hivel=127 offset=671 end=280678 loop_mode=no_loop
+<region> sample=PW Pad-92-127.wav key=92 lokey=92 hikey=92 amp_veltrack=20 lovel=1 hivel=127 offset=578 end=279430 loop_mode=no_loop
+<region> sample=PW Pad-93-127.wav key=93 lokey=93 hikey=93 amp_veltrack=20 lovel=1 hivel=127 offset=688 end=278888 loop_mode=no_loop
+<region> sample=PW Pad-94-127.wav key=94 lokey=94 hikey=94 amp_veltrack=20 lovel=1 hivel=127 offset=547 end=278794 loop_mode=no_loop
+<region> sample=PW Pad-95-127.wav key=95 lokey=95 hikey=95 amp_veltrack=20 lovel=1 hivel=127 offset=478 end=278130 loop_mode=no_loop
+<region> sample=PW Pad-96-127.wav key=96 lokey=96 hikey=127 amp_veltrack=20 lovel=1 hivel=127 offset=613 end=279849 loop_mode=no_loop

@@ -1,0 +1,47 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - ThinFatty.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/ThinFatty/
+
+<group>
+<region> sample=mod--C0-32-7GNA.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--C0-64-ZVJJ.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--C0-95-GVD0.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--C0-127-HR73.aif key=24 lokey=0 hikey=24 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--C#0-32-SC63.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--C#0-64-DLRG.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--C#0-95-GE9F.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--C#0-127-9HQG.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--D0-32-HWL3.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--D0-64-0WBX.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--D0-95-LBMF.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--D0-127-MQK0.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--D#0-32-06FX.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--D#0-64-6SIA.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--D#0-95-Y0UZ.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--D#0-127-ULO5.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--E0-32-NP4A.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--E0-64-QUT6.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--E0-95-U8KG.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--E0-127-C8E1.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--F0-32-RPTS.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--F0-64-RGQJ.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--F0-95-FHUW.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--F0-127-DPVM.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--F#0-32-1PRE.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--F#0-64-3QB0.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--F#0-95-8KU7.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--F#0-127-F14R.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--G0-32-CNUE.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--G0-64-3FCD.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--G0-95-03IZ.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--G0-127-K45S.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--G#0-32-3RYM.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--G#0-64-1UDT.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--G#0-95-7O9K.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--G#0-127-CG7E.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop
+<region> sample=mod--A0-32-G8JP.aif key=33 lokey=33 hikey=124 amp_veltrack=20 lovel=0 hivel=32 loop_mode=no_loop
+<region> sample=mod--A0-64-N9OG.aif key=33 lokey=33 hikey=124 amp_veltrack=20 lovel=33 hivel=64 loop_mode=no_loop
+<region> sample=mod--A0-95-KW6S.aif key=33 lokey=33 hikey=124 amp_veltrack=20 lovel=65 hivel=95 loop_mode=no_loop
+<region> sample=mod--A0-127-H8LK.aif key=33 lokey=33 hikey=124 amp_veltrack=20 lovel=96 hivel=127 loop_mode=no_loop

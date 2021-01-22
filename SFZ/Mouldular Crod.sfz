@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Mouldular Crod.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Mouldular Crod/
+
+<group>
+<region> sample=Mouldular Crod Sample 0001_0001.wav key=36 lokey=1 hikey=36 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EB2.wav key=37 lokey=37 hikey=37 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EB3.wav key=38 lokey=38 hikey=38 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EB4.wav key=39 lokey=39 hikey=39 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EB5.wav key=40 lokey=40 hikey=40 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EB6.wav key=41 lokey=41 hikey=41 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EB7.wav key=42 lokey=42 hikey=42 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EB8.wav key=43 lokey=43 hikey=43 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EB9.wav key=44 lokey=44 hikey=44 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EBA.wav key=45 lokey=45 hikey=45 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EBB.wav key=46 lokey=46 hikey=46 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EBC.wav key=47 lokey=47 hikey=47 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EBD.wav key=48 lokey=48 hikey=48 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EBE.wav key=49 lokey=49 hikey=49 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EBF.wav key=50 lokey=50 hikey=50 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC0.wav key=51 lokey=51 hikey=51 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC1.wav key=52 lokey=52 hikey=52 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC2.wav key=53 lokey=53 hikey=53 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC3.wav key=54 lokey=54 hikey=54 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC4.wav key=55 lokey=55 hikey=55 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC5.wav key=56 lokey=56 hikey=56 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC6.wav key=57 lokey=57 hikey=57 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC7.wav key=58 lokey=58 hikey=58 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample#40EC8.wav key=59 lokey=59 hikey=59 volume=12 loop_mode=no_loop
+<region> sample=Mouldular Crod Sample 0001.wav key=60 lokey=60 hikey=96 volume=12 loop_mode=no_loop

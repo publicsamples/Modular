@@ -1,0 +1,48 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - new moon people_-01.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/new moon people_-01-SAMPLES/
+
+<group> volume=-6        // Single group
+<region> sample=20091113220314_c17f0000.wav key=36 lokey=0 hikey=36 end=464162 loop_mode=no_loop
+<region> sample=20091113220336_c#17f0000.wav key=37 lokey=37 hikey=37 end=462546 loop_mode=no_loop
+<region> sample=20091113220359_d17f0000.wav key=38 lokey=38 hikey=38 end=463266 loop_mode=no_loop
+<region> sample=20091113220421_d#17f0000.wav key=39 lokey=39 hikey=39 end=461486 loop_mode=no_loop
+<region> sample=20091113220443_e17f0000.wav key=40 lokey=40 hikey=40 end=461110 loop_mode=no_loop
+<region> sample=20091113220527_f17f0000.wav key=41 lokey=41 hikey=41 end=464364 loop_mode=no_loop
+<region> sample=20091113220550_f#17f0000.wav key=42 lokey=42 hikey=42 end=464193 loop_mode=no_loop
+<region> sample=20091113220612_g17f0000.wav key=43 lokey=43 hikey=43 end=461924 loop_mode=no_loop
+<region> sample=20091113220634_g#17f0000.wav key=44 lokey=44 hikey=44 end=462117 loop_mode=no_loop
+<region> sample=20091113220656_a17f0000.wav key=45 lokey=45 hikey=45 end=458175 loop_mode=no_loop
+<region> sample=20091113220718_a#17f0000.wav key=46 lokey=46 hikey=46 end=456851 loop_mode=no_loop
+<region> sample=20091113220740_b17f0000.wav key=47 lokey=47 hikey=47 end=462248 loop_mode=no_loop
+<region> sample=20091113220802_c27f0000.wav key=48 lokey=48 hikey=48 end=458658 loop_mode=no_loop
+<region> sample=20091113220824_c#27f0000.wav key=49 lokey=49 hikey=49 end=459505 loop_mode=no_loop
+<region> sample=20091113220846_d27f0000.wav key=50 lokey=50 hikey=50 end=458524 loop_mode=no_loop
+<region> sample=20091113220908_d#27f0000.wav key=51 lokey=51 hikey=51 end=478187 loop_mode=no_loop
+<region> sample=20091113220930_e27f0000.wav key=52 lokey=52 hikey=52 end=474499 loop_mode=no_loop
+<region> sample=20091113220952_f27f0000.wav key=53 lokey=53 hikey=53 end=473681 loop_mode=no_loop
+<region> sample=20091113221014_f#27f0000.wav key=54 lokey=54 hikey=54 end=476504 loop_mode=no_loop
+<region> sample=20091113221036_g27f0000.wav key=55 lokey=55 hikey=55 end=470845 loop_mode=no_loop
+<region> sample=20091113221057_g#27f0000.wav key=56 lokey=56 hikey=56 end=467201 loop_mode=no_loop
+<region> sample=20091113221119_a27f0000.wav key=57 lokey=57 hikey=57 end=469436 loop_mode=no_loop
+<region> sample=20091113221141_a#27f0000.wav key=58 lokey=58 hikey=58 end=467176 loop_mode=no_loop
+<region> sample=20091113221203_b27f0000.wav key=59 lokey=59 hikey=59 end=463417 loop_mode=no_loop
+<region> sample=20091113221225_c37f0000.wav key=60 lokey=60 hikey=60 end=463192 loop_mode=no_loop
+<region> sample=20091113221248_c#37f0000.wav key=61 lokey=61 hikey=61 end=467852 loop_mode=no_loop
+<region> sample=20091113221310_d37f0000.wav key=62 lokey=62 hikey=62 end=458871 loop_mode=no_loop
+<region> sample=20091113221332_d#37f0000.wav key=63 lokey=63 hikey=63 end=456897 loop_mode=no_loop
+<region> sample=20091113221354_e37f0000.wav key=64 lokey=64 hikey=64 end=457524 loop_mode=no_loop
+<region> sample=20091113221417_f37f0000.wav key=65 lokey=65 hikey=65 end=458942 loop_mode=no_loop
+<region> sample=20091113221439_f#37f0000.wav key=66 lokey=66 hikey=66 end=457583 loop_mode=no_loop
+<region> sample=20091113221501_g37f0000.wav key=67 lokey=67 hikey=67 end=455777 loop_mode=no_loop
+<region> sample=20091113221524_g#37f0000.wav key=68 lokey=68 hikey=68 end=456649 loop_mode=no_loop
+<region> sample=20091113221546_a37f0000.wav key=69 lokey=69 hikey=69 end=455201 loop_mode=no_loop
+<region> sample=20091113221608_a#37f0000.wav key=70 lokey=70 hikey=70 end=460436 loop_mode=no_loop
+<region> sample=20091113221631_b37f0000.wav key=71 lokey=71 hikey=71 end=455434 loop_mode=no_loop
+<region> sample=20091113221653_c47f0000.wav key=72 lokey=72 hikey=72 end=456173 loop_mode=no_loop
+<region> sample=20091113221714_c#47f0000.wav key=73 lokey=73 hikey=73 end=455883 loop_mode=no_loop
+<region> sample=20091113221736_d47f0000.wav key=74 lokey=74 hikey=74 end=447103 loop_mode=no_loop
+<region> sample=20091113221758_d#47f0000.wav key=75 lokey=75 hikey=75 end=454543 loop_mode=no_loop
+<region> sample=20091113221820_e47f0000.wav key=76 lokey=76 hikey=127 end=442918 loop_mode=no_loop

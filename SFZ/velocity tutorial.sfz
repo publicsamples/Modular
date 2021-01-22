@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - velocity tutorial.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/velocity tutorial/(2016120 154955)/
+
+<group>        // velocity tutorial
+<region> sample=braids-atl-C2-8-YPXJ.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=1 hivel=8 loop_mode=loop_continuous loop_start=91026 loop_end=383634
+<region> sample=braids-atl-C2-16-KH6Y.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=11468 loop_end=241037
+<region> sample=braids-atl-C2-24-NMPS.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=86641 loop_end=382283
+<region> sample=braids-atl-C2-32-DE4S.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=102820 loop_end=249461
+<region> sample=braids-atl-C2-40-W4NS.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=77545 loop_end=331723
+<region> sample=braids-atl-C2-48-TORX.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=169225 loop_end=378905
+<region> sample=braids-atl-C2-56-N3HG.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=47470 loop_end=260184
+<region> sample=braids-atl-C2-64-RP9E.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=7423 loop_end=90351
+<region> sample=braids-atl-C2-71-AM7Z.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=77878 loop_end=265983
+<region> sample=braids-atl-C2-79-5GT9.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=77204 loop_end=160132
+<region> sample=braids-atl-C2-87-V8A5.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=266922 loop_end=349850
+<region> sample=braids-atl-C2-95-2BIS.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=12802 loop_end=263946
+<region> sample=braids-atl-C2-103-9NJZ.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=91013 loop_end=383621
+<region> sample=braids-atl-C2-111-QGIA.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=229592 loop_end=312520
+<region> sample=braids-atl-C2-119-FM51.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=168914 loop_end=254876
+<region> sample=braids-atl-C2-127-SPBQ.aif key=48 lokey=0 hikey=127 amp_veltrack=20 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=84933 loop_end=377541
