@@ -1,9 +1,13 @@
 # Modular Sample Library
 
-A large Collection of sounds from a modular synthesiser. Featuring a Eurorack system and a small Dotcom.
+A large Collection of sounds from a modular synthesiser.
 
 
 -   **Formats:** EXS24, Kontakt, NN-XT
+<<<<<<< HEAD
+=======
+
+>>>>>>> f5e17c9e9568a8823a15ec8a834a4244f1dd2100
 **This collection requires you to download the audio seperately**
 
 [Download Audio from Dropbox](https://www.dropbox.com/sh/dmqladrqlpn6i1h/AAC9Z34_RwkiEwVETX1HpDs0a?dl=0)
@@ -34,5 +38,9 @@ A large Collection of sounds from a modular synthesiser. Featuring a Eurorack sy
 
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 [
+<<<<<<< HEAD
 ![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
+=======
+![enter image description here](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
+>>>>>>> f5e17c9e9568a8823a15ec8a834a4244f1dd2100
 ](https://gum.co/modularsamples-drives)
