@@ -1,0 +1,75 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - CG + SC loop.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/CG + SC loop-SAMPLES/
+
+<group>        // Group #4
+<region> sample=CG + SC loop-36-127.wav key=36 lokey=36 hikey=36 pan=5 end=564351 loop_mode=no_loop
+<region> sample=CG + SC loop-36-127_0001.wav key=37 lokey=37 hikey=37 pan=5 end=575615 loop_mode=no_loop
+<region> sample=CG + SC loop-37-127.wav key=38 lokey=38 hikey=38 pan=5 end=568767 loop_mode=no_loop
+<region> sample=CG + SC loop-37-127_0001.wav key=39 lokey=39 hikey=39 pan=5 end=575487 loop_mode=no_loop
+<region> sample=CG + SC loop-38-127.wav key=40 lokey=40 hikey=40 pan=5 end=562431 loop_mode=no_loop
+<region> sample=CG + SC loop-38-127_0001.wav key=41 lokey=41 hikey=41 pan=5 end=578367 loop_mode=no_loop
+<region> sample=CG + SC loop-39-127.wav key=42 lokey=42 hikey=42 pan=5 end=564287 loop_mode=no_loop
+<region> sample=CG + SC loop-39-127_0001.wav key=43 lokey=43 hikey=43 pan=5 end=576639 loop_mode=no_loop
+<region> sample=CG + SC loop-40-127.wav key=44 lokey=44 hikey=44 pan=5 end=565119 loop_mode=no_loop
+<region> sample=CG + SC loop-40-127_0001.wav key=45 lokey=45 hikey=45 pan=5 end=579071 loop_mode=no_loop
+<region> sample=CG + SC loop-41-127.wav key=46 lokey=46 hikey=46 pan=5 end=564223 loop_mode=no_loop
+<region> sample=CG + SC loop-41-127_0001.wav key=47 lokey=47 hikey=47 pan=5 end=578431 loop_mode=no_loop
+<region> sample=CG + SC loop-42-127.wav key=48 lokey=48 hikey=48 pan=5 end=568191 loop_mode=no_loop
+<region> sample=CG + SC loop-42-127_0001.wav key=49 lokey=49 hikey=49 pan=5 end=577855 loop_mode=no_loop
+<region> sample=CG + SC loop-43-127.wav key=50 lokey=50 hikey=50 pan=5 end=578239 loop_mode=no_loop
+<region> sample=CG + SC loop-44-127.wav key=51 lokey=51 hikey=51 pan=5 end=577791 loop_mode=no_loop
+<region> sample=CG + SC loop-45-127.wav key=52 lokey=52 hikey=52 pan=5 end=577535 loop_mode=no_loop
+<region> sample=CG + SC loop-46-127.wav key=53 lokey=53 hikey=53 pan=5 end=576831 loop_mode=no_loop
+<region> sample=CG + SC loop-47-127.wav key=54 lokey=54 hikey=54 pan=5 end=579263 loop_mode=no_loop
+<region> sample=CG + SC loop-48-127.wav key=55 lokey=55 hikey=55 pan=5 end=576767 loop_mode=no_loop
+<region> sample=CG + SC loop-49-127.wav key=56 lokey=56 hikey=56 pan=5 end=577471 loop_mode=no_loop
+<region> sample=CG + SC loop-50-127.wav key=57 lokey=57 hikey=57 pan=5 end=577727 loop_mode=no_loop
+<region> sample=CG + SC loop-51-127.wav key=58 lokey=58 hikey=58 pan=5 end=575679 loop_mode=no_loop
+<region> sample=CG + SC loop-52-127.wav key=59 lokey=59 hikey=59 pan=5 end=575999 loop_mode=no_loop
+<region> sample=CG + SC loop-53-127.wav key=60 lokey=60 hikey=60 pan=5 end=577983 loop_mode=no_loop
+<region> sample=CG + SC loop-54-127.wav key=61 lokey=61 hikey=61 pan=5 end=577791 loop_mode=no_loop
+<region> sample=CG + SC loop-55-127.wav key=62 lokey=62 hikey=62 pan=5 end=580031 loop_mode=no_loop
+<region> sample=CG + SC loop-56-127.wav key=63 lokey=63 hikey=63 pan=5 end=576703 loop_mode=no_loop
+<region> sample=CG + SC loop-57-127.wav key=64 lokey=64 hikey=64 pan=5 end=579391 loop_mode=no_loop
+<region> sample=CG + SC loop-58-127.wav key=65 lokey=65 hikey=65 pan=5 end=577087 loop_mode=no_loop
+<region> sample=CG + SC loop-59-127.wav key=66 lokey=66 hikey=66 pan=5 end=577663 loop_mode=no_loop
+<region> sample=CG + SC loop-60-127.wav key=67 lokey=67 hikey=67 pan=5 end=577791 loop_mode=no_loop
+<region> sample=CG + SC loop-61-127.wav key=68 lokey=68 hikey=68 pan=5 end=578367 loop_mode=no_loop
+<region> sample=CG + SC loop-62-127.wav key=69 lokey=69 hikey=69 pan=5 end=577215 loop_mode=no_loop
+<region> sample=CG + SC loop-63-127.wav key=70 lokey=70 hikey=70 pan=5 end=580031 loop_mode=no_loop
+<region> sample=CG + SC loop-64-127.wav key=71 lokey=71 hikey=71 pan=5 end=577407 loop_mode=no_loop
+<region> sample=CG + SC loop-65-127.wav key=72 lokey=72 hikey=72 pan=5 end=578047 loop_mode=no_loop
+<region> sample=CG + SC loop-66-127.wav key=73 lokey=73 hikey=73 pan=5 end=577343 loop_mode=no_loop
+<region> sample=CG + SC loop-67-127.wav key=74 lokey=74 hikey=74 pan=5 end=578111 loop_mode=no_loop
+<region> sample=CG + SC loop-68-127.wav key=75 lokey=75 hikey=75 pan=5 end=579199 loop_mode=no_loop
+<region> sample=CG + SC loop-69-127.wav key=76 lokey=76 hikey=76 pan=5 end=576127 loop_mode=no_loop
+<region> sample=CG + SC loop-70-127.wav key=77 lokey=77 hikey=77 pan=5 end=576703 loop_mode=no_loop
+<region> sample=CG + SC loop-71-127.wav key=78 lokey=78 hikey=78 pan=5 end=575679 loop_mode=no_loop
+<region> sample=CG + SC loop-72-127.wav key=79 lokey=79 hikey=79 pan=5 end=578815 loop_mode=no_loop
+<region> sample=CG + SC loop-73-127.wav key=80 lokey=80 hikey=80 pan=5 end=581055 loop_mode=no_loop
+<region> sample=CG + SC loop-74-127.wav key=81 lokey=81 hikey=81 pan=5 end=578111 loop_mode=no_loop
+<region> sample=CG + SC loop-75-127.wav key=82 lokey=82 hikey=82 pan=5 end=575807 loop_mode=no_loop
+<region> sample=CG + SC loop-76-127.wav key=83 lokey=83 hikey=83 pan=5 end=579775 loop_mode=no_loop
+<region> sample=CG + SC loop-77-127.wav key=84 lokey=84 hikey=84 pan=5 end=578623 loop_mode=no_loop
+<region> sample=CG + SC loop-78-127.wav key=85 lokey=85 hikey=85 pan=5 end=578815 loop_mode=no_loop
+<region> sample=CG + SC loop-79-127.wav key=86 lokey=86 hikey=86 pan=5 end=578047 loop_mode=no_loop
+<region> sample=CG + SC loop-80-127.wav key=87 lokey=87 hikey=87 pan=5 end=587967 loop_mode=no_loop
+<region> sample=CG + SC loop-81-127.wav key=88 lokey=88 hikey=88 pan=5 end=580095 loop_mode=no_loop
+<region> sample=CG + SC loop-82-127.wav key=89 lokey=89 hikey=89 pan=5 end=578943 loop_mode=no_loop
+<region> sample=CG + SC loop-83-127.wav key=90 lokey=90 hikey=90 pan=5 end=580223 loop_mode=no_loop
+<region> sample=CG + SC loop-84-127.wav key=91 lokey=91 hikey=91 pan=5 end=575807 loop_mode=no_loop
+<region> sample=CG + SC loop-85-127.wav key=92 lokey=92 hikey=92 pan=5 end=581695 loop_mode=no_loop
+<region> sample=CG + SC loop-86-127.wav key=93 lokey=93 hikey=93 pan=5 end=577727 loop_mode=no_loop
+<region> sample=CG + SC loop-87-127.wav key=94 lokey=94 hikey=94 pan=5 end=580991 loop_mode=no_loop
+<region> sample=CG + SC loop-88-127.wav key=95 lokey=95 hikey=95 pan=5 end=579199 loop_mode=no_loop
+<region> sample=CG + SC loop-89-127.wav key=96 lokey=96 hikey=96 pan=5 end=579839 loop_mode=no_loop
+<region> sample=CG + SC loop-90-127.wav key=97 lokey=97 hikey=97 pan=5 end=579263 loop_mode=no_loop
+<region> sample=CG + SC loop-91-127.wav key=98 lokey=98 hikey=98 pan=5 end=575423 loop_mode=no_loop
+<region> sample=CG + SC loop-92-127.wav key=99 lokey=99 hikey=99 pan=5 end=576639 loop_mode=no_loop
+<region> sample=CG + SC loop-93-127.wav key=100 lokey=100 hikey=100 pan=5 end=578815 loop_mode=no_loop
+<region> sample=CG + SC loop-94-127.wav key=101 lokey=101 hikey=101 pan=5 end=575743 loop_mode=no_loop
+<region> sample=CG + SC loop-95-127.wav key=102 lokey=102 hikey=102 pan=5 end=576895 loop_mode=no_loop
+<region> sample=CG + SC loop-96-127.wav key=103 lokey=103 hikey=103 pan=5 end=574399 loop_mode=no_loop

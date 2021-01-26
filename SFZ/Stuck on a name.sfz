@@ -1,0 +1,63 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Stuck on a name.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Stuck on a name-SAMPLES/
+
+<group> volume=-1        // Stuck on a name
+<region> sample=Stuck on a name-36-127_0001.wav key=36 lokey=36 hikey=36 offset=13597 end=727103 loop_mode=no_loop
+<region> sample=Stuck on a name-37-127.wav key=37 lokey=37 hikey=37 offset=9609 end=724543 loop_mode=no_loop
+<region> sample=Stuck on a name-38-127.wav key=38 lokey=38 hikey=38 offset=11370 end=723583 loop_mode=no_loop
+<region> sample=Stuck on a name-39-127.wav key=39 lokey=39 hikey=39 offset=10752 end=728639 loop_mode=no_loop
+<region> sample=Stuck on a name-40-127.wav key=40 lokey=40 hikey=40 offset=12024 end=725247 loop_mode=no_loop
+<region> sample=Stuck on a name-41-127.wav key=41 lokey=41 hikey=41 offset=11782 end=730303 loop_mode=no_loop
+<region> sample=Stuck on a name-42-127.wav key=42 lokey=42 hikey=42 offset=10531 end=735871 loop_mode=no_loop
+<region> sample=Stuck on a name-43-127.wav key=43 lokey=43 hikey=43 offset=8634 end=730047 loop_mode=no_loop
+<region> sample=Stuck on a name-44-127.wav key=44 lokey=44 hikey=44 offset=11146 end=727423 loop_mode=no_loop
+<region> sample=Stuck on a name-45-127.wav key=45 lokey=45 hikey=45 offset=9904 end=732351 loop_mode=no_loop
+<region> sample=Stuck on a name-46-127.wav key=46 lokey=46 hikey=46 offset=11154 end=730559 loop_mode=no_loop
+<region> sample=Stuck on a name-47-127.wav key=47 lokey=47 hikey=47 offset=10226 end=735551 loop_mode=no_loop
+<region> sample=Stuck on a name-48-127.wav key=48 lokey=48 hikey=48 offset=10561 end=735743 loop_mode=no_loop
+<region> sample=Stuck on a name-49-127.wav key=49 lokey=49 hikey=49 offset=11884 end=736575 loop_mode=no_loop
+<region> sample=Stuck on a name-50-127.wav key=50 lokey=50 hikey=50 offset=11123 end=733887 loop_mode=no_loop
+<region> sample=Stuck on a name-51-127.wav key=51 lokey=51 hikey=51 offset=11270 end=739903 loop_mode=no_loop
+<region> sample=Stuck on a name-52-127.wav key=52 lokey=52 hikey=52 offset=9522 end=741311 loop_mode=no_loop
+<region> sample=Stuck on a name-53-127.wav key=53 lokey=53 hikey=53 offset=11345 end=740991 loop_mode=no_loop
+<region> sample=Stuck on a name-54-127.wav key=54 lokey=54 hikey=54 offset=10208 end=743231 loop_mode=no_loop
+<region> sample=Stuck on a name-55-127.wav key=55 lokey=55 hikey=55 offset=10873 end=741375 loop_mode=no_loop
+<region> sample=Stuck on a name-56-127.wav key=56 lokey=56 hikey=56 offset=8352 end=754943 loop_mode=no_loop
+<region> sample=Stuck on a name-57-127.wav key=57 lokey=57 hikey=57 offset=9920 end=750911 loop_mode=no_loop
+<region> sample=Stuck on a name-58-127.wav key=58 lokey=58 hikey=58 offset=8807 end=752127 loop_mode=no_loop
+<region> sample=Stuck on a name-59-127.wav key=59 lokey=59 hikey=59 offset=8081 end=757823 loop_mode=no_loop
+<region> sample=Stuck on a name-60-127.wav key=60 lokey=60 hikey=60 offset=8731 end=757631 loop_mode=no_loop
+<region> sample=Stuck on a name-61-127.wav key=61 lokey=61 hikey=61 offset=7553 end=752511 loop_mode=no_loop
+<region> sample=Stuck on a name-62-127.wav key=62 lokey=62 hikey=62 offset=9290 end=750783 loop_mode=no_loop
+<region> sample=Stuck on a name-63-127.wav key=63 lokey=63 hikey=63 offset=8549 end=746175 loop_mode=no_loop
+<region> sample=Stuck on a name-64-127.wav key=64 lokey=64 hikey=64 offset=10541 end=743103 loop_mode=no_loop
+<region> sample=Stuck on a name-65-127.wav key=65 lokey=65 hikey=65 offset=8890 end=739775 loop_mode=no_loop
+<region> sample=Stuck on a name-66-127.wav key=66 lokey=66 hikey=66 offset=9804 end=738367 loop_mode=no_loop
+<region> sample=Stuck on a name-67-127.wav key=67 lokey=67 hikey=67 offset=10200 end=739391 loop_mode=no_loop
+<region> sample=Stuck on a name-68-127.wav key=68 lokey=68 hikey=68 offset=9992 end=732927 loop_mode=no_loop
+<region> sample=Stuck on a name-69-127.wav key=69 lokey=69 hikey=69 offset=9554 end=737663 loop_mode=no_loop
+<region> sample=Stuck on a name-70-127.wav key=70 lokey=70 hikey=70 offset=9990 end=742399 loop_mode=no_loop
+<region> sample=Stuck on a name-71-127.wav key=71 lokey=71 hikey=71 offset=11094 end=742527 loop_mode=no_loop
+<region> sample=Stuck on a name-72-127.wav key=72 lokey=72 hikey=72 offset=10084 end=730943 loop_mode=no_loop
+<region> sample=Stuck on a name-73-127.wav key=73 lokey=73 hikey=73 offset=10819 end=733887 loop_mode=no_loop
+<region> sample=Stuck on a name-74-127.wav key=74 lokey=74 hikey=74 offset=9837 end=737919 loop_mode=no_loop
+<region> sample=Stuck on a name-75-127.wav key=75 lokey=75 hikey=75 offset=11253 end=739839 loop_mode=no_loop
+<region> sample=Stuck on a name-76-127.wav key=76 lokey=76 hikey=76 offset=11102 end=739519 loop_mode=no_loop
+<region> sample=Stuck on a name-77-127.wav key=77 lokey=77 hikey=77 offset=12425 end=738687 loop_mode=no_loop
+<region> sample=Stuck on a name-78-127.wav key=78 lokey=78 hikey=78 offset=12155 end=734015 loop_mode=no_loop
+<region> sample=Stuck on a name-79-127.wav key=79 lokey=79 hikey=79 offset=11687 end=729023 loop_mode=no_loop
+<region> sample=Stuck on a name-80-127.wav key=80 lokey=80 hikey=80 offset=11386 end=725887 loop_mode=no_loop
+<region> sample=Stuck on a name-81-127.wav key=81 lokey=81 hikey=81 offset=11572 end=728191 loop_mode=no_loop
+<region> sample=Stuck on a name-82-127.wav key=82 lokey=82 hikey=82 offset=11056 end=734975 loop_mode=no_loop
+<region> sample=Stuck on a name-83-127.wav key=83 lokey=83 hikey=83 offset=12896 end=740159 loop_mode=no_loop
+<region> sample=Stuck on a name-84-127.wav key=84 lokey=84 hikey=84 offset=12591 end=742591 loop_mode=no_loop
+<region> sample=Stuck on a name-85-127.wav key=85 lokey=85 hikey=85 offset=11583 end=737215 loop_mode=no_loop
+<region> sample=Stuck on a name-86-127.wav key=86 lokey=86 hikey=86 offset=10187 end=732671 loop_mode=no_loop
+<region> sample=Stuck on a name-87-127.wav key=87 lokey=87 hikey=87 offset=9469 end=727231 loop_mode=no_loop
+<region> sample=Stuck on a name-88-127.wav key=88 lokey=88 hikey=88 offset=10165 end=726719 loop_mode=no_loop
+<region> sample=Stuck on a name-89-127.wav key=89 lokey=89 hikey=89 offset=10779 end=722559 loop_mode=no_loop
+<region> sample=Stuck on a name-90-127.wav key=90 lokey=90 hikey=90 offset=12670 end=728767 loop_mode=no_loop
+<region> sample=Stuck on a name-91-127.wav key=91 lokey=91 hikey=91 offset=13329 end=730623 loop_mode=no_loop

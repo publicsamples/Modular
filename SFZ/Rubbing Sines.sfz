@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Rubbing Sines.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/../Audio/Rubbing Sines/
+
+<group>
+<region> sample=modhols201611273636-EQ4P.aif key=36 lokey=3 hikey=36 loop_mode=no_loop
+<region> sample=modhols201611273737-V1QY.aif key=37 lokey=37 hikey=37 loop_mode=no_loop
+<region> sample=modhols201611273838-YE8Y.aif key=38 lokey=38 hikey=38 loop_mode=no_loop
+<region> sample=modhols201611273939-6ICC.aif key=39 lokey=39 hikey=39 loop_mode=no_loop
+<region> sample=modhols201611274040-FYNY.aif key=40 lokey=40 hikey=40 loop_mode=no_loop
+<region> sample=modhols201611274141-KD95.aif key=41 lokey=41 hikey=41 loop_mode=no_loop
+<region> sample=modhols201611274242-VMLE.aif key=42 lokey=42 hikey=42 loop_mode=no_loop
+<region> sample=modhols201611274343-IBHY.aif key=43 lokey=43 hikey=43 loop_mode=no_loop
+<region> sample=modhols201611274444-1XTY.aif key=44 lokey=44 hikey=44 loop_mode=no_loop
+<region> sample=modhols201611274545-DSYP.aif key=45 lokey=45 hikey=45 loop_mode=no_loop
+<region> sample=modhols201611274646-LTUC.aif key=46 lokey=46 hikey=46 loop_mode=no_loop
+<region> sample=modhols201611274747-G9R6.aif key=47 lokey=47 hikey=47 loop_mode=no_loop
+<region> sample=modhols201611274848-3AO1.aif key=48 lokey=48 hikey=48 loop_mode=no_loop
+<region> sample=modhols201611274949-44D4.aif key=49 lokey=49 hikey=49 loop_mode=no_loop
+<region> sample=modhols201611275050-0TUP.aif key=50 lokey=50 hikey=50 loop_mode=no_loop
+<region> sample=modhols201611275151-L0GD.aif key=51 lokey=51 hikey=51 loop_mode=no_loop
+<region> sample=modhols201611275252-WKV1.aif key=52 lokey=52 hikey=52 loop_mode=no_loop
+<region> sample=modhols201611275353-3G60.aif key=53 lokey=53 hikey=53 loop_mode=no_loop
+<region> sample=modhols201611275454-I27B.aif key=54 lokey=54 hikey=54 loop_mode=no_loop
+<region> sample=modhols201611275555-DLRA.aif key=55 lokey=55 hikey=55 loop_mode=no_loop
+<region> sample=modhols201611275656-HIYI.aif key=56 lokey=56 hikey=56 loop_mode=no_loop
+<region> sample=modhols201611275757-0D3J.aif key=57 lokey=57 hikey=57 loop_mode=no_loop
+<region> sample=modhols201611275858-R7BS.aif key=58 lokey=58 hikey=58 loop_mode=no_loop
+<region> sample=modhols201611275959-0ITJ.aif key=59 lokey=59 hikey=59 loop_mode=no_loop
+<region> sample=modhols201611276060-Z9U6.aif key=60 lokey=60 hikey=126 loop_mode=no_loop

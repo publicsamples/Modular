@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - You Lucky Fucks.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/You Lucky Fucks/
+
+<group>        // You Lucky Fucks
+<region> sample=You Lucky Fucks-48-127.wav key=48 lokey=13 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=2256 loop_mode=no_loop
+<region> sample=You Lucky Fucks-49-127.wav key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=63 loop_mode=no_loop
+<region> sample=You Lucky Fucks-50-127.wav key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=395 loop_mode=no_loop
+<region> sample=You Lucky Fucks-51-127.wav key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=273 end=845569 loop_mode=no_loop
+<region> sample=You Lucky Fucks-52-127.wav key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=456 loop_mode=no_loop
+<region> sample=You Lucky Fucks-53-127.wav key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=732 end=827385 loop_mode=no_loop
+<region> sample=You Lucky Fucks-54-127.wav key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=382 loop_mode=no_loop
+<region> sample=You Lucky Fucks-55-127.wav key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=34 end=816518 loop_mode=no_loop
+<region> sample=You Lucky Fucks-56-127.wav key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=361 end=815083 loop_mode=no_loop
+<region> sample=You Lucky Fucks-57-127.wav key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=136 loop_mode=no_loop
+<region> sample=You Lucky Fucks-58-127.wav key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=546 loop_mode=no_loop
+<region> sample=You Lucky Fucks-59-127.wav key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=504 loop_mode=no_loop
+<region> sample=You Lucky Fucks-60-127.wav key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=1 hivel=127 offset=1398 loop_mode=no_loop
+<region> sample=You Lucky Fucks-61-127.wav key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=1 hivel=127 offset=1039 loop_mode=no_loop
+<region> sample=You Lucky Fucks-62-127.wav key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=1 hivel=127 offset=700 end=735965 loop_mode=no_loop
+<region> sample=You Lucky Fucks-63-127.wav key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=1 hivel=127 offset=944 loop_mode=no_loop
+<region> sample=You Lucky Fucks-64-127.wav key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=1 hivel=127 offset=460 loop_mode=no_loop
+<region> sample=You Lucky Fucks-65-127.wav key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=1 hivel=127 offset=366 end=779559 loop_mode=no_loop
+<region> sample=You Lucky Fucks-66-127.wav key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=1 hivel=127 offset=645 end=772961 loop_mode=no_loop
+<region> sample=You Lucky Fucks-67-127.wav key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=1 hivel=127 offset=403 end=773084 loop_mode=no_loop
+<region> sample=You Lucky Fucks-68-127.wav key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=1 hivel=127 offset=424 end=727779 loop_mode=no_loop
+<region> sample=You Lucky Fucks-69-127.wav key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=1 hivel=127 offset=105 end=714339 loop_mode=no_loop
+<region> sample=You Lucky Fucks-70-127.wav key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=1 hivel=127 offset=938 end=707787 loop_mode=no_loop
+<region> sample=You Lucky Fucks-71-127.wav key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=1 hivel=127 offset=1245 end=706886 loop_mode=no_loop
+<region> sample=You Lucky Fucks-72-127.wav key=72 lokey=72 hikey=72 amp_veltrack=20 lovel=1 hivel=127 offset=79 loop_mode=no_loop
+<region> sample=You Lucky Fucks-73-127.wav key=73 lokey=73 hikey=73 amp_veltrack=20 lovel=1 hivel=127 offset=208 loop_mode=no_loop
+<region> sample=You Lucky Fucks-74-127.wav key=74 lokey=74 hikey=74 amp_veltrack=20 lovel=1 hivel=127 offset=183 end=706458 loop_mode=no_loop
+<region> sample=You Lucky Fucks-75-127.wav key=75 lokey=75 hikey=75 amp_veltrack=20 lovel=1 hivel=127 offset=1122 end=688558 loop_mode=no_loop
+<region> sample=You Lucky Fucks-76-127.wav key=76 lokey=76 hikey=76 amp_veltrack=20 lovel=1 hivel=127 offset=49 loop_mode=no_loop
+<region> sample=You Lucky Fucks-77-127.wav key=77 lokey=77 hikey=77 amp_veltrack=20 lovel=1 hivel=127 offset=1245 loop_mode=no_loop
+<region> sample=You Lucky Fucks-78-127.wav key=78 lokey=78 hikey=78 amp_veltrack=20 lovel=1 hivel=127 offset=1319 loop_mode=no_loop
+<region> sample=You Lucky Fucks-79-127.wav key=79 lokey=79 hikey=79 amp_veltrack=20 lovel=1 hivel=127 offset=1164 loop_mode=no_loop
+<region> sample=You Lucky Fucks-80-127.wav key=80 lokey=80 hikey=80 amp_veltrack=20 lovel=1 hivel=127 offset=507 end=667265 loop_mode=no_loop
+<region> sample=You Lucky Fucks-81-127.wav key=81 lokey=81 hikey=81 amp_veltrack=20 lovel=1 hivel=127 offset=725 end=661356 loop_mode=no_loop
+<region> sample=You Lucky Fucks-82-127.wav key=82 lokey=82 hikey=82 amp_veltrack=20 lovel=1 hivel=127 offset=604 loop_mode=no_loop
+<region> sample=You Lucky Fucks-83-127.wav key=83 lokey=83 hikey=83 amp_veltrack=20 lovel=1 hivel=127 offset=1310 end=659781 loop_mode=no_loop
+<region> sample=You Lucky Fucks-84-127.wav key=84 lokey=84 hikey=114 amp_veltrack=20 lovel=1 hivel=127 offset=1237 end=654749 loop_mode=no_loop

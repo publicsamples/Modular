@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Synthesizers.com - dotcom piano pad wobble.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Synthesizers.com - dotcom piano pad wobble-SAMPLES/
+
+<group>        // Single group
+<region> sample=20091015183403_c13f0000.wav key=36 lokey=0 hikey=39 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015183442_f#13f0000.wav key=42 lokey=40 hikey=45 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015183513_c23f0000.wav key=48 lokey=46 hikey=51 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015183545_f#23f0000.wav key=54 lokey=52 hikey=57 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015183837_c33f0000.wav key=60 lokey=58 hikey=63 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015183908_f#33f0000.wav key=66 lokey=64 hikey=69 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015184004_c43f0000.wav key=72 lokey=70 hikey=75 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015184052_f#43f0000.wav key=78 lokey=76 hikey=81 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015184149_c53f0000.wav key=84 lokey=82 hikey=87 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015184302_f#53f0000.wav key=90 lokey=88 hikey=93 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop
+<region> sample=20091015184427_c63f0000.wav key=96 lokey=94 hikey=127 amp_veltrack=20 lovel=0 hivel=63 loop_mode=no_loop

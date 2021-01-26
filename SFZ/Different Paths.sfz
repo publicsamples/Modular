@@ -1,0 +1,49 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Different Paths.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Different Paths-SAMPLES/
+
+<group> volume=2        // Different Paths
+<region> sample=Different Paths-49-127_0005.wav key=49 lokey=1 hikey=49 offset=1714 end=216319 loop_mode=no_loop
+<region> sample=Different Paths-50-127_0003.wav key=50 lokey=50 hikey=50 offset=1650 end=205823 loop_mode=no_loop
+<region> sample=Different Paths-51-127_0002.wav key=51 lokey=51 hikey=51 offset=1702 end=196351 loop_mode=no_loop
+<region> sample=Different Paths-52-127_0002.wav key=52 lokey=52 hikey=52 offset=2107 end=197119 loop_mode=no_loop
+<region> sample=Different Paths-53-127_0002.wav key=53 lokey=53 hikey=53 offset=1630 end=209407 loop_mode=no_loop
+<region> sample=Different Paths-54-127_0002.wav key=54 lokey=54 hikey=54 offset=1414 end=213503 loop_mode=no_loop
+<region> sample=Different Paths-55-127_0002.wav key=55 lokey=55 hikey=55 offset=1769 end=211967 loop_mode=no_loop
+<region> sample=Different Paths-56-127_0001.wav key=56 lokey=56 hikey=56 offset=1584 end=232959 loop_mode=no_loop
+<region> sample=Different Paths-57-127_0001.wav key=57 lokey=57 hikey=57 offset=1537 end=220671 loop_mode=no_loop
+<region> sample=Different Paths-58-127_0001.wav key=58 lokey=58 hikey=58 offset=1741 end=210431 loop_mode=no_loop
+<region> sample=Different Paths-59-127_0001.wav key=59 lokey=59 hikey=59 offset=1409 end=221439 loop_mode=no_loop
+<region> sample=Different Paths-60-127_0001.wav key=60 lokey=60 hikey=60 offset=1520 end=220415 loop_mode=no_loop
+<region> sample=Different Paths-61-127.wav key=61 lokey=61 hikey=61 offset=2232 end=180991 loop_mode=no_loop
+<region> sample=Different Paths-62-127.wav key=62 lokey=62 hikey=62 offset=3551 end=170751 loop_mode=no_loop
+<region> sample=Different Paths-63-127.wav key=63 lokey=63 hikey=63 offset=3195 end=189695 loop_mode=no_loop
+<region> sample=Different Paths-64-127_0001.wav key=64 lokey=64 hikey=64 offset=1992 end=191487 loop_mode=no_loop
+<region> sample=Different Paths-65-127_0001.wav key=65 lokey=65 hikey=65 offset=2294 end=192255 loop_mode=no_loop
+<region> sample=Different Paths-66-127_0001.wav key=66 lokey=66 hikey=66 offset=2011 end=200191 loop_mode=no_loop
+<region> sample=Different Paths-67-127.wav key=67 lokey=67 hikey=67 offset=1477 end=216831 loop_mode=no_loop
+<region> sample=Different Paths-68-127.wav key=68 lokey=68 hikey=68 offset=1573 end=243455 loop_mode=no_loop
+<region> sample=Different Paths-69-127_0001.wav key=69 lokey=69 hikey=69 offset=1295 end=237567 loop_mode=no_loop
+<region> sample=Different Paths-70-127.wav key=70 lokey=70 hikey=70 offset=1864 end=218623 loop_mode=no_loop
+<region> sample=Different Paths-71-127.wav key=71 lokey=71 hikey=71 offset=2234 end=200447 loop_mode=no_loop
+<region> sample=Different Paths-72-127.wav key=72 lokey=72 hikey=72 offset=1997 end=203519 loop_mode=no_loop
+<region> sample=Different Paths-73-127.wav key=73 lokey=73 hikey=73 offset=1555 end=217855 loop_mode=no_loop
+<region> sample=Different Paths-74-127.wav key=74 lokey=74 hikey=74 offset=1464 end=237567 loop_mode=no_loop
+<region> sample=Different Paths-75-127.wav key=75 lokey=75 hikey=75 offset=1458 end=265215 loop_mode=no_loop
+<region> sample=Different Paths-76-127.wav key=76 lokey=76 hikey=76 offset=18 end=268543 loop_mode=no_loop
+<region> sample=Different Paths-77-127.wav key=77 lokey=77 hikey=77 offset=1559 end=227583 loop_mode=no_loop
+<region> sample=Different Paths-78-127.wav key=78 lokey=78 hikey=78 offset=1808 end=200959 loop_mode=no_loop
+<region> sample=Different Paths-79-127.wav key=79 lokey=79 hikey=79 offset=2107 end=193535 loop_mode=no_loop
+<region> sample=Different Paths-80-127.wav key=80 lokey=80 hikey=80 offset=1991 end=192255 loop_mode=no_loop
+<region> sample=Different Paths-81-127.wav key=81 lokey=81 hikey=81 offset=2043 end=184575 loop_mode=no_loop
+<region> sample=Different Paths-82-127.wav key=82 lokey=82 hikey=82 offset=1950 end=193791 loop_mode=no_loop
+<region> sample=Different Paths-83-127.wav key=83 lokey=83 hikey=83 offset=1881 end=191999 loop_mode=no_loop
+<region> sample=Different Paths-84-127.wav key=84 lokey=84 hikey=84 offset=1703 end=204287 loop_mode=no_loop
+<region> sample=Different Paths-85-127.wav key=85 lokey=85 hikey=85 offset=1657 end=217599 loop_mode=no_loop
+<region> sample=Different Paths-86-127.wav key=86 lokey=86 hikey=86 offset=1344 end=223743 loop_mode=no_loop
+<region> sample=Different Paths-87-127.wav key=87 lokey=87 hikey=87 offset=1422 end=248319 loop_mode=no_loop
+<region> sample=Different Paths-88-127.wav key=88 lokey=88 hikey=88 offset=1442 end=248575 loop_mode=no_loop
+<region> sample=Different Paths-89-127.wav key=89 lokey=89 hikey=89 offset=1658 end=211967 loop_mode=no_loop
+<region> sample=Different Paths-90-127.wav key=90 lokey=90 hikey=127 offset=1912 end=199679 loop_mode=no_loop

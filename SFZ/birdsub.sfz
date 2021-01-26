@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - birdsub.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/birdsub/
+
+<group>        // birdsub
+<region> sample=mod--C0-127-KXUA.aif key=24 lokey=24 hikey=24 amp_veltrack=20 lovel=1 hivel=127 offset=415 loop_mode=no_loop
+<region> sample=mod--C#0-127-C1A5.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=1 hivel=127 offset=286 end=31919 loop_mode=no_loop
+<region> sample=mod--D0-127-4NF4.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=1 hivel=127 offset=381 loop_mode=no_loop
+<region> sample=mod--D#0-127-64A9.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=1 hivel=127 offset=382 end=69165 loop_mode=no_loop
+<region> sample=mod--E0-127-OZFR.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=1 hivel=127 offset=224 loop_mode=no_loop
+<region> sample=mod--F0-127-E86E.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=1 hivel=127 offset=350 end=45056 loop_mode=no_loop
+<region> sample=mod--F#0-127-B635.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=1 hivel=127 offset=413 end=44599 loop_mode=no_loop
+<region> sample=mod--G0-127-Q36C.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=1 hivel=127 offset=221 end=70788 loop_mode=no_loop
+<region> sample=mod--G#0-127-ZFHA.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=1 hivel=127 offset=412 end=67822 loop_mode=no_loop
+<region> sample=mod--A0-127-J815.aif key=33 lokey=33 hikey=33 amp_veltrack=20 lovel=1 hivel=127 offset=382 end=68802 loop_mode=no_loop
+<region> sample=mod--A#0-127-N1TC.aif key=34 lokey=34 hikey=34 amp_veltrack=20 lovel=1 hivel=127 offset=383 loop_mode=no_loop
+<region> sample=mod--B0-127-5DFU.aif key=35 lokey=35 hikey=35 amp_veltrack=20 lovel=1 hivel=127 offset=191 end=60458 loop_mode=no_loop
+<region> sample=mod--C1-127-H9GV.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=1 hivel=127 offset=381 end=72850 loop_mode=no_loop
+<region> sample=mod--C#1-127-GZ8T.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=127 offset=286 end=30009 loop_mode=no_loop
+<region> sample=mod--D1-127-792F.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=127 offset=382 loop_mode=no_loop
+<region> sample=mod--D#1-127-B88K.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=127 offset=380 end=54886 loop_mode=no_loop
+<region> sample=mod--E1-127-PEYV.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=127 offset=222 end=63036 loop_mode=no_loop
+<region> sample=mod--F1-127-9HMZ.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=127 offset=253 end=69178 loop_mode=no_loop
+<region> sample=mod--F#1-127-8540.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=127 offset=285 end=47405 loop_mode=no_loop
+<region> sample=mod--G1-127-Q6V4.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=127 offset=287 end=57252 loop_mode=no_loop
+<region> sample=mod--G#1-127-5MGS.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=127 offset=318 loop_mode=no_loop
+<region> sample=mod--A1-127-6O5X.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=127 offset=286 end=55149 loop_mode=no_loop
+<region> sample=mod--A#1-127-K6Y1.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=127 offset=287 end=61834 loop_mode=no_loop
+<region> sample=mod--B1-127-RLGJ.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=127 offset=320 end=66391 loop_mode=no_loop
+<region> sample=mod--C2-127-C4HW.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=414 end=57894 loop_mode=no_loop

@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - CG + phaser short.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/CG + phaser short-SAMPLES/
+
+<group> volume=-6        // CG + phaser/short
+<region> sample=CG + phaser short-36-127.wav key=36 lokey=36 hikey=36 offset=258 end=49663 loop_mode=no_loop
+<region> sample=CG + phaser short-37-127.wav key=37 lokey=37 hikey=37 offset=190 end=59903 loop_mode=no_loop
+<region> sample=CG + phaser short-38-127.wav key=38 lokey=38 hikey=38 offset=252 end=65727 loop_mode=no_loop
+<region> sample=CG + phaser short-39-127.wav key=39 lokey=39 hikey=39 offset=255 end=61759 loop_mode=no_loop
+<region> sample=CG + phaser short-40-127.wav key=40 lokey=40 hikey=40 offset=246 end=77759 loop_mode=no_loop
+<region> sample=CG + phaser short-41-127.wav key=41 lokey=41 hikey=41 offset=194 end=61951 loop_mode=no_loop
+<region> sample=CG + phaser short-42-127.wav key=42 lokey=42 hikey=42 offset=262 end=54719 loop_mode=no_loop
+<region> sample=CG + phaser short-43-127.wav key=43 lokey=43 hikey=43 offset=250 end=49279 loop_mode=no_loop
+<region> sample=CG + phaser short-44-127.wav key=44 lokey=44 hikey=44 offset=253 end=58495 loop_mode=no_loop
+<region> sample=CG + phaser short-45-127.wav key=45 lokey=45 hikey=45 offset=254 end=59135 loop_mode=no_loop
+<region> sample=CG + phaser short-46-127.wav key=46 lokey=46 hikey=46 offset=255 end=50111 loop_mode=no_loop
+<region> sample=CG + phaser short-47-127.wav key=47 lokey=47 hikey=47 offset=233 end=40511 loop_mode=no_loop
+<region> sample=CG + phaser short-48-127.wav key=48 lokey=48 hikey=48 offset=248 end=69311 loop_mode=no_loop
+<region> sample=CG + phaser short-49-127.wav key=49 lokey=49 hikey=49 offset=251 end=49087 loop_mode=no_loop
+<region> sample=CG + phaser short-50-127.wav key=50 lokey=50 hikey=50 offset=248 end=42943 loop_mode=no_loop
+<region> sample=CG + phaser short-51-127.wav key=51 lokey=51 hikey=51 offset=256 end=41407 loop_mode=no_loop
+<region> sample=CG + phaser short-52-127.wav key=52 lokey=52 hikey=52 offset=256 end=71551 loop_mode=no_loop
+<region> sample=CG + phaser short-53-127.wav key=53 lokey=53 hikey=53 offset=250 end=45311 loop_mode=no_loop
+<region> sample=CG + phaser short-54-127.wav key=54 lokey=54 hikey=54 offset=249 end=53887 loop_mode=no_loop
+<region> sample=CG + phaser short-55-127.wav key=55 lokey=55 hikey=55 offset=189 end=41855 loop_mode=no_loop
+<region> sample=CG + phaser short-56-127.wav key=56 lokey=56 hikey=56 offset=257 end=54335 loop_mode=no_loop
+<region> sample=CG + phaser short-57-127.wav key=57 lokey=57 hikey=57 offset=262 end=68223 loop_mode=no_loop
+<region> sample=CG + phaser short-58-127.wav key=58 lokey=58 hikey=58 offset=248 end=53119 loop_mode=no_loop
+<region> sample=CG + phaser short-59-127.wav key=59 lokey=59 hikey=59 offset=263 end=53695 loop_mode=no_loop
+<region> sample=CG + phaser short-60-127.wav key=60 lokey=60 hikey=60 offset=251 end=41407 loop_mode=no_loop
+<region> sample=CG + phaser short-61-127.wav key=61 lokey=61 hikey=61 offset=255 end=70271 loop_mode=no_loop
+<region> sample=CG + phaser short-62-127.wav key=62 lokey=62 hikey=62 offset=252 end=46079 loop_mode=no_loop
+<region> sample=CG + phaser short-63-127.wav key=63 lokey=63 hikey=63 offset=264 end=53695 loop_mode=no_loop
+<region> sample=CG + phaser short-64-127.wav key=64 lokey=64 hikey=64 offset=246 end=47615 loop_mode=no_loop
+<region> sample=CG + phaser short-65-127.wav key=65 lokey=65 hikey=65 offset=252 end=68415 loop_mode=no_loop
+<region> sample=CG + phaser short-66-127.wav key=66 lokey=66 hikey=66 offset=185 end=45567 loop_mode=no_loop
+<region> sample=CG + phaser short-67-127.wav key=67 lokey=67 hikey=67 offset=231 end=41663 loop_mode=no_loop
+<region> sample=CG + phaser short-68-127.wav key=68 lokey=68 hikey=68 offset=251 end=42239 loop_mode=no_loop
+<region> sample=CG + phaser short-69-127.wav key=69 lokey=69 hikey=69 offset=256 end=41599 loop_mode=no_loop
+<region> sample=CG + phaser short-70-127.wav key=70 lokey=70 hikey=70 offset=257 end=70719 loop_mode=no_loop
+<region> sample=CG + phaser short-71-127.wav key=71 lokey=71 hikey=71 offset=250 end=42879 loop_mode=no_loop
+<region> sample=CG + phaser short-72-127.wav key=72 lokey=72 hikey=72 offset=255 end=47999 loop_mode=no_loop
+<region> sample=CG + phaser short-73-127.wav key=73 lokey=73 hikey=73 offset=259 end=49855 loop_mode=no_loop
+<region> sample=CG + phaser short-74-127.wav key=74 lokey=74 hikey=74 offset=218 end=41727 loop_mode=no_loop
+<region> sample=CG + phaser short-75-127.wav key=75 lokey=75 hikey=75 offset=232 end=41727 loop_mode=no_loop
+<region> sample=CG + phaser short-76-127.wav key=76 lokey=76 hikey=76 offset=211 end=68799 loop_mode=no_loop
+<region> sample=CG + phaser short-77-127.wav key=77 lokey=77 hikey=77 offset=220 end=76159 loop_mode=no_loop
+<region> sample=CG + phaser short-78-127.wav key=78 lokey=78 hikey=78 offset=284 end=68095 loop_mode=no_loop
+<region> sample=CG + phaser short-79-127.wav key=79 lokey=79 hikey=79 offset=219 end=79999 loop_mode=no_loop
+<region> sample=CG + phaser short-80-127.wav key=80 lokey=80 hikey=80 offset=226 end=60415 loop_mode=no_loop
+<region> sample=CG + phaser short-81-127.wav key=81 lokey=81 hikey=81 offset=220 end=45759 loop_mode=no_loop
+<region> sample=CG + phaser short-82-127.wav key=82 lokey=82 hikey=82 offset=293 end=66367 loop_mode=no_loop
+<region> sample=CG + phaser short-83-127.wav key=83 lokey=83 hikey=83 offset=236 end=76927 loop_mode=no_loop
+<region> sample=CG + phaser short-84-127.wav key=84 lokey=84 hikey=84 offset=280 end=68031 loop_mode=no_loop
+<region> sample=CG + phaser short-85-127.wav key=85 lokey=85 hikey=85 offset=225 end=60479 loop_mode=no_loop
+<region> sample=CG + phaser short-86-127.wav key=86 lokey=86 hikey=86 offset=215 end=63295 loop_mode=no_loop
+<region> sample=CG + phaser short-87-127.wav key=87 lokey=87 hikey=87 offset=220 end=46271 loop_mode=no_loop
+<region> sample=CG + phaser short-88-127.wav key=88 lokey=88 hikey=88 offset=220 end=64959 loop_mode=no_loop
+<region> sample=CG + phaser short-89-127.wav key=89 lokey=89 hikey=89 offset=284 end=70847 loop_mode=no_loop
+<region> sample=CG + phaser short-90-127.wav key=90 lokey=90 hikey=90 offset=284 end=67327 loop_mode=no_loop
+<region> sample=CG + phaser short-91-127.wav key=91 lokey=91 hikey=91 offset=215 end=56191 loop_mode=no_loop
+<region> sample=CG + phaser short-92-127.wav key=92 lokey=92 hikey=92 offset=219 end=42175 loop_mode=no_loop
+<region> sample=CG + phaser short-93-127.wav key=93 lokey=93 hikey=93 offset=289 end=46399 loop_mode=no_loop
+<region> sample=CG + phaser short-94-127.wav key=94 lokey=94 hikey=94 offset=217 end=41471 loop_mode=no_loop
+<region> sample=CG + phaser short-95-127.wav key=95 lokey=95 hikey=95 offset=221 end=61375 loop_mode=no_loop
+<region> sample=CG + phaser short-96-127.wav key=96 lokey=96 hikey=96 offset=284 end=54271 loop_mode=no_loop

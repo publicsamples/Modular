@@ -1,0 +1,49 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Attention Seeker.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Attention Seeker-SAMPLES/
+
+<group> volume=-6        // Group #5
+<region> sample=Attention Seeker-48-127 1.wav key=36 lokey=36 hikey=36 end=593919 loop_mode=no_loop
+<region> sample=Attention Seeker-49-127 1.wav key=37 lokey=37 hikey=37 end=594047 loop_mode=no_loop
+<region> sample=Attention Seeker-50-127 1.wav key=38 lokey=38 hikey=38 end=591999 loop_mode=no_loop
+<region> sample=Attention Seeker-51-127 1.wav key=39 lokey=39 hikey=39 end=594047 loop_mode=no_loop
+<region> sample=Attention Seeker-52-127 1.wav key=40 lokey=40 hikey=40 end=593919 loop_mode=no_loop
+<region> sample=Attention Seeker-53-127 1.wav key=41 lokey=41 hikey=41 end=593599 loop_mode=no_loop
+<region> sample=Attention Seeker-54-127 1.wav key=42 lokey=42 hikey=42 end=594431 loop_mode=no_loop
+<region> sample=Attention Seeker-55-127 1.wav key=43 lokey=43 hikey=43 end=591871 loop_mode=no_loop
+<region> sample=Attention Seeker-56-127 1.wav key=44 lokey=44 hikey=44 end=592319 loop_mode=no_loop
+<region> sample=Attention Seeker-57-127 1.wav key=45 lokey=45 hikey=45 end=593343 loop_mode=no_loop
+<region> sample=Attention Seeker-58-127 1.wav key=46 lokey=46 hikey=46 end=592959 loop_mode=no_loop
+<region> sample=Attention Seeker-59-127 1.wav key=47 lokey=47 hikey=47 end=593151 loop_mode=no_loop
+<region> sample=Attention Seeker-60-127 1.wav key=48 lokey=48 hikey=48 end=593087 loop_mode=no_loop
+<region> sample=Attention Seeker-61-127 1.wav key=49 lokey=49 hikey=49 end=592703 loop_mode=no_loop
+<region> sample=Attention Seeker-62-127 1.wav key=50 lokey=50 hikey=50 end=593407 loop_mode=no_loop
+<region> sample=Attention Seeker-63-127 1.wav key=51 lokey=51 hikey=51 end=591743 loop_mode=no_loop
+<region> sample=Attention Seeker-64-127 1.wav key=52 lokey=52 hikey=52 end=593727 loop_mode=no_loop
+<region> sample=Attention Seeker-65-127 1.wav key=53 lokey=53 hikey=53 end=593791 loop_mode=no_loop
+<region> sample=Attention Seeker-66-127 1.wav key=54 lokey=54 hikey=54 end=592831 loop_mode=no_loop
+<region> sample=Attention Seeker-67-127 1.wav key=55 lokey=55 hikey=55 end=593087 loop_mode=no_loop
+<region> sample=Attention Seeker-68-127 1.wav key=56 lokey=56 hikey=56 end=594303 loop_mode=no_loop
+<region> sample=Attention Seeker-69-127 1.wav key=57 lokey=57 hikey=57 end=594879 loop_mode=no_loop
+<region> sample=Attention Seeker-70-127 1.wav key=58 lokey=58 hikey=58 end=591935 loop_mode=no_loop
+<region> sample=Attention Seeker-71-127 1.wav key=59 lokey=59 hikey=59 end=594047 loop_mode=no_loop
+<region> sample=Attention Seeker-72-127 1.wav key=60 lokey=60 hikey=60 end=594367 loop_mode=no_loop
+<region> sample=Attention Seeker-73-127 1.wav key=61 lokey=61 hikey=61 end=595839 loop_mode=no_loop
+<region> sample=Attention Seeker-74-127 1.wav key=62 lokey=62 hikey=62 end=593727 loop_mode=no_loop
+<region> sample=Attention Seeker-75-127 1.wav key=63 lokey=63 hikey=63 end=593663 loop_mode=no_loop
+<region> sample=Attention Seeker-76-127 1.wav key=64 lokey=64 hikey=64 end=592767 loop_mode=no_loop
+<region> sample=Attention Seeker-77-127 1.wav key=65 lokey=65 hikey=65 end=593663 loop_mode=no_loop
+<region> sample=Attention Seeker-78-127 1.wav key=66 lokey=66 hikey=66 end=593727 loop_mode=no_loop
+<region> sample=Attention Seeker-79-127 1.wav key=67 lokey=67 hikey=67 end=593727 loop_mode=no_loop
+<region> sample=Attention Seeker-80-127 1.wav key=68 lokey=68 hikey=68 end=593407 loop_mode=no_loop
+<region> sample=Attention Seeker-81-127 1.wav key=69 lokey=69 hikey=69 end=593471 loop_mode=no_loop
+<region> sample=Attention Seeker-82-127 1.wav key=70 lokey=70 hikey=70 end=593599 loop_mode=no_loop
+<region> sample=Attention Seeker-83-127 1.wav key=71 lokey=71 hikey=71 end=593215 loop_mode=no_loop
+<region> sample=Attention Seeker-84-127 1.wav key=72 lokey=72 hikey=72 end=595263 loop_mode=no_loop
+<region> sample=Attention Seeker-85-127 1.wav key=73 lokey=73 hikey=73 end=594943 loop_mode=no_loop
+<region> sample=Attention Seeker-86-127 1.wav key=74 lokey=74 hikey=74 end=594175 loop_mode=no_loop
+<region> sample=Attention Seeker-87-127 1.wav key=75 lokey=75 hikey=75 end=593535 loop_mode=no_loop
+<region> sample=Attention Seeker-88-127 1.wav key=76 lokey=76 hikey=76 end=594303 loop_mode=no_loop
+<region> sample=Attention Seeker-89-127 1.wav key=77 lokey=77 hikey=77 end=595647 loop_mode=no_loop

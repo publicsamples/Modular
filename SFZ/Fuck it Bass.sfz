@@ -1,0 +1,59 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Fuck it Bass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/Users/rick/Music/Audio Music Apps/Sampler Instruments/Modularsamples.com/Public Domain/Synths/Modular/Fuck it Bass/
+
+<group>        // Fuck it Bass
+<region> sample=Fuck it Bass-45-127.wav key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=127 offset=249 end=72555 loop_mode=no_loop
+<region> sample=Fuck it Bass-46-127.wav key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=127 offset=249 loop_mode=no_loop
+<region> sample=Fuck it Bass-47-127.wav key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=127 offset=311 end=73562 loop_mode=no_loop
+<region> sample=Fuck it Bass-48-127.wav key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=438 end=73593 loop_mode=no_loop
+<region> sample=Fuck it Bass-49-127.wav key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=312 end=72223 loop_mode=no_loop
+<region> sample=Fuck it Bass-50-127.wav key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=442 end=72961 loop_mode=no_loop
+<region> sample=Fuck it Bass-51-127.wav key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=441 end=72665 loop_mode=no_loop
+<region> sample=Fuck it Bass-52-127.wav key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=442 loop_mode=no_loop
+<region> sample=Fuck it Bass-53-127.wav key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=380 end=72307 loop_mode=no_loop
+<region> sample=Fuck it Bass-54-127.wav key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=327 end=72124 loop_mode=no_loop
+<region> sample=Fuck it Bass-55-127.wav key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=377 loop_mode=no_loop
+<region> sample=Fuck it Bass-56-127.wav key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=374 end=77185 loop_mode=no_loop
+<region> sample=Fuck it Bass-57-127.wav key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=441 end=71352 loop_mode=no_loop
+<region> sample=Fuck it Bass-58-127.wav key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=312 end=73697 loop_mode=no_loop
+<region> sample=Fuck it Bass-59-127.wav key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=377 end=77594 loop_mode=no_loop
+<region> sample=Fuck it Bass-60-127.wav key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=1 hivel=127 offset=441 end=76842 loop_mode=no_loop
+<region> sample=Fuck it Bass-61-127.wav key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=1 hivel=127 offset=249 end=75208 loop_mode=no_loop
+<region> sample=Fuck it Bass-62-127.wav key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=1 hivel=127 offset=441 end=73935 loop_mode=no_loop
+<region> sample=Fuck it Bass-63-127.wav key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=1 hivel=127 offset=440 loop_mode=no_loop
+<region> sample=Fuck it Bass-64-127.wav key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=1 hivel=127 offset=444 end=73865 loop_mode=no_loop
+<region> sample=Fuck it Bass-65-127.wav key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=1 hivel=127 offset=424 end=74205 loop_mode=no_loop
+<region> sample=Fuck it Bass-66-127.wav key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=1 hivel=127 offset=443 end=73359 loop_mode=no_loop
+<region> sample=Fuck it Bass-67-127.wav key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=1 hivel=127 offset=198 end=73226 loop_mode=no_loop
+<region> sample=Fuck it Bass-68-127.wav key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=1 hivel=127 offset=377 loop_mode=no_loop
+<region> sample=Fuck it Bass-69-127.wav key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=1 hivel=127 offset=434 end=73984 loop_mode=no_loop
+<region> sample=Fuck it Bass-70-127.wav key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=1 hivel=127 offset=312 loop_mode=no_loop
+<region> sample=Fuck it Bass-71-127.wav key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=1 hivel=127 offset=248 end=74466 loop_mode=no_loop
+<region> sample=Fuck it Bass-72-127.wav key=72 lokey=72 hikey=72 amp_veltrack=20 lovel=1 hivel=127 offset=323 end=71738 loop_mode=no_loop
+<region> sample=Fuck it Bass-73-127.wav key=73 lokey=73 hikey=73 amp_veltrack=20 lovel=1 hivel=127 offset=246 end=71854 loop_mode=no_loop
+<region> sample=Fuck it Bass-74-127.wav key=74 lokey=74 hikey=74 amp_veltrack=20 lovel=1 hivel=127 offset=374 end=73941 loop_mode=no_loop
+<region> sample=Fuck it Bass-75-127.wav key=75 lokey=75 hikey=75 amp_veltrack=20 lovel=1 hivel=127 offset=376 end=72709 loop_mode=no_loop
+<region> sample=Fuck it Bass-76-127.wav key=76 lokey=76 hikey=76 amp_veltrack=20 lovel=1 hivel=127 offset=249 end=74614 loop_mode=no_loop
+<region> sample=Fuck it Bass-77-127.wav key=77 lokey=77 hikey=77 amp_veltrack=20 lovel=1 hivel=127 offset=250 end=72806 loop_mode=no_loop
+<region> sample=Fuck it Bass-78-127.wav key=78 lokey=78 hikey=78 amp_veltrack=20 lovel=1 hivel=127 offset=323 end=72848 loop_mode=no_loop
+<region> sample=Fuck it Bass-79-127.wav key=79 lokey=79 hikey=79 amp_veltrack=20 lovel=1 hivel=127 offset=313 end=73309 loop_mode=no_loop
+<region> sample=Fuck it Bass-80-127.wav key=80 lokey=80 hikey=80 amp_veltrack=20 lovel=1 hivel=127 offset=378 end=73220 loop_mode=no_loop
+<region> sample=Fuck it Bass-81-127.wav key=81 lokey=81 hikey=81 amp_veltrack=20 lovel=1 hivel=127 offset=249 end=72563 loop_mode=no_loop
+<region> sample=Fuck it Bass-82-127.wav key=82 lokey=82 hikey=82 amp_veltrack=20 lovel=1 hivel=127 offset=251 loop_mode=no_loop
+<region> sample=Fuck it Bass-83-127.wav key=83 lokey=83 hikey=83 amp_veltrack=20 lovel=1 hivel=127 offset=264 end=73497 loop_mode=no_loop
+<region> sample=Fuck it Bass-84-127.wav key=84 lokey=84 hikey=84 amp_veltrack=20 lovel=1 hivel=127 offset=250 end=72877 loop_mode=no_loop
+<region> sample=Fuck it Bass-85-127.wav key=85 lokey=85 hikey=85 amp_veltrack=20 lovel=1 hivel=127 offset=252 end=72792 loop_mode=no_loop
+<region> sample=Fuck it Bass-86-127.wav key=86 lokey=86 hikey=86 amp_veltrack=20 lovel=1 hivel=127 offset=313 end=72576 loop_mode=no_loop
+<region> sample=Fuck it Bass-87-127.wav key=87 lokey=87 hikey=87 amp_veltrack=20 lovel=1 hivel=127 offset=252 end=72615 loop_mode=no_loop
+<region> sample=Fuck it Bass-88-127.wav key=88 lokey=88 hikey=88 amp_veltrack=20 lovel=1 hivel=127 offset=314 end=72515 loop_mode=no_loop
+<region> sample=Fuck it Bass-89-127.wav key=89 lokey=89 hikey=89 amp_veltrack=20 lovel=1 hivel=127 offset=250 end=73122 loop_mode=no_loop
+<region> sample=Fuck it Bass-90-127.wav key=90 lokey=90 hikey=90 amp_veltrack=20 lovel=1 hivel=127 offset=248 end=73603 loop_mode=no_loop
+<region> sample=Fuck it Bass-91-127.wav key=91 lokey=91 hikey=91 amp_veltrack=20 lovel=1 hivel=127 offset=251 end=73605 loop_mode=no_loop
+<region> sample=Fuck it Bass-92-127.wav key=92 lokey=92 hikey=92 amp_veltrack=20 lovel=1 hivel=127 offset=385 end=70701 loop_mode=no_loop
+<region> sample=Fuck it Bass-93-127.wav key=93 lokey=93 hikey=93 amp_veltrack=20 lovel=1 hivel=127 offset=375 end=74161 loop_mode=no_loop
+<region> sample=Fuck it Bass-94-127.wav key=94 lokey=94 hikey=94 amp_veltrack=20 lovel=1 hivel=127 offset=442 end=73658 loop_mode=no_loop
+<region> sample=Fuck it Bass-95-127.wav key=95 lokey=95 hikey=95 amp_veltrack=20 lovel=1 hivel=127 offset=377 end=70785 loop_mode=no_loop
+<region> sample=Fuck it Bass-96-127.wav key=96 lokey=96 hikey=96 amp_veltrack=20 lovel=1 hivel=127 offset=379 end=72234 loop_mode=no_loop

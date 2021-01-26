@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - CrunchBass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/ModularKeys-SAMPLES/
+
+<group> volume=-6        // Single group
+<region> sample=20091111165700_c17f0000.wav key=36 lokey=0 hikey=36 tune=-1 transpose=-12 end=76756 loop_mode=no_loop
+<region> sample=20091111165713_c#17f0000.wav key=37 lokey=37 hikey=37 tune=-1 transpose=-12 end=77077 loop_mode=no_loop
+<region> sample=20091111165727_d17f0000.wav key=38 lokey=38 hikey=38 tune=-1 transpose=-12 end=77689 loop_mode=no_loop
+<region> sample=20091111165741_d#17f0000.wav key=39 lokey=39 hikey=39 tune=-1 transpose=-12 end=76753 loop_mode=no_loop
+<region> sample=20091111165754_e17f0000.wav key=40 lokey=40 hikey=40 tune=-1 transpose=-12 end=79714 loop_mode=no_loop
+<region> sample=20091111165808_f17f0000.wav key=41 lokey=41 hikey=41 tune=-1 transpose=-12 end=81195 loop_mode=no_loop
+<region> sample=20091111165821_f#17f0000.wav key=42 lokey=42 hikey=42 tune=-1 transpose=-12 end=81710 loop_mode=no_loop
+<region> sample=20091111165835_g17f0000.wav key=43 lokey=43 hikey=43 tune=-1 transpose=-12 end=83181 loop_mode=no_loop
+<region> sample=20091111165849_g#17f0000.wav key=44 lokey=44 hikey=44 tune=-1 transpose=-12 end=82414 loop_mode=no_loop
+<region> sample=20091111165903_a17f0000.wav key=45 lokey=45 hikey=45 tune=-1 transpose=-12 end=85056 loop_mode=no_loop
+<region> sample=20091111165916_a#17f0000.wav key=46 lokey=46 hikey=46 tune=-1 transpose=-12 end=87250 loop_mode=no_loop
+<region> sample=20091111165930_b17f0000.wav key=47 lokey=47 hikey=47 tune=-1 transpose=-12 end=86580 loop_mode=no_loop
+<region> sample=20091111165943_c27f0000.wav key=48 lokey=48 hikey=48 tune=-1 transpose=-12 end=91457 loop_mode=no_loop
+<region> sample=20091111165957_c#27f0000.wav key=49 lokey=49 hikey=49 tune=-1 transpose=-12 end=90082 loop_mode=no_loop
+<region> sample=20091111170011_d27f0000.wav key=50 lokey=50 hikey=50 tune=-1 transpose=-12 end=91631 loop_mode=no_loop
+<region> sample=20091111170024_d#27f0000.wav key=51 lokey=51 hikey=51 tune=-1 transpose=-12 end=88635 loop_mode=no_loop
+<region> sample=20091111170038_e27f0000.wav key=52 lokey=52 hikey=52 tune=-1 transpose=-12 end=89362 loop_mode=no_loop
+<region> sample=20091111170051_f27f0000.wav key=53 lokey=53 hikey=53 tune=-1 transpose=-12 end=85899 loop_mode=no_loop
+<region> sample=20091111170105_f#27f0000.wav key=54 lokey=54 hikey=54 tune=-1 transpose=-12 end=87674 loop_mode=no_loop
+<region> sample=20091111170118_g27f0000.wav key=55 lokey=55 hikey=55 tune=-1 transpose=-12 end=84091 loop_mode=no_loop
+<region> sample=20091111170132_g#27f0000.wav key=56 lokey=56 hikey=56 tune=-1 transpose=-12 end=82622 loop_mode=no_loop
+<region> sample=20091111170145_a27f0000.wav key=57 lokey=57 hikey=57 tune=-1 transpose=-12 end=85089 loop_mode=no_loop
+<region> sample=20091111170159_a#27f0000.wav key=58 lokey=58 hikey=58 tune=-1 transpose=-12 end=87087 loop_mode=no_loop
+<region> sample=20091111170213_b27f0000.wav key=59 lokey=59 hikey=59 tune=-1 transpose=-12 end=89101 loop_mode=no_loop
+<region> sample=20091111170226_c37f0000.wav key=60 lokey=60 hikey=60 tune=-1 transpose=-12 end=88651 loop_mode=no_loop
+<region> sample=20091111170240_c#37f0000.wav key=61 lokey=61 hikey=61 tune=-1 transpose=-12 end=92741 loop_mode=no_loop
+<region> sample=20091111170254_d37f0000.wav key=62 lokey=62 hikey=62 tune=-1 transpose=-12 end=93158 loop_mode=no_loop
+<region> sample=20091111170308_d#37f0000.wav key=63 lokey=63 hikey=63 tune=-1 transpose=-12 end=93243 loop_mode=no_loop
+<region> sample=20091111170322_e37f0000.wav key=64 lokey=64 hikey=64 tune=-1 transpose=-12 end=90045 loop_mode=no_loop
+<region> sample=20091111170335_f37f0000.wav key=65 lokey=65 hikey=65 tune=-1 transpose=-12 end=91121 loop_mode=no_loop
+<region> sample=20091111170349_f#37f0000.wav key=66 lokey=66 hikey=66 tune=-1 transpose=-12 end=86696 loop_mode=no_loop
+<region> sample=20091111170403_g37f0000.wav key=67 lokey=67 hikey=67 tune=-1 transpose=-12 end=87071 loop_mode=no_loop
+<region> sample=20091111170417_g#37f0000.wav key=68 lokey=68 hikey=68 tune=-1 transpose=-12 end=87425 loop_mode=no_loop
+<region> sample=20091111170430_a37f0000.wav key=69 lokey=69 hikey=69 tune=-1 transpose=-12 end=87361 loop_mode=no_loop
+<region> sample=20091111170444_a#37f0000.wav key=70 lokey=70 hikey=70 tune=-1 transpose=-12 end=89276 loop_mode=no_loop
+<region> sample=20091111170458_b37f0000.wav key=71 lokey=71 hikey=71 tune=-1 transpose=-12 end=87034 loop_mode=no_loop
+<region> sample=20091111170511_c47f0000.wav key=72 lokey=72 hikey=127 tune=-1 transpose=-12 end=83783 loop_mode=no_loop

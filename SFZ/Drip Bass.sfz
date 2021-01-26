@@ -1,0 +1,126 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Drip Bass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+
+
+<control>
+default_path=../Audio/Drip Bass-SAMPLES/
+
+<group> volume=-6        // Drip Bass
+<region> sample=Drip Bass-48-127.wav key=48 lokey=48 hikey=48 offset=687 end=258047 loop_mode=loop_continuous loop_start=123119 loop_end=144671
+
+
+<region> sample=Drip Bass-49-127.wav key=49 lokey=49 hikey=49 offset=949 end=257023 loop_mode=loop_continuous loop_start=120245 loop_end=130431
+
+
+<region> sample=Drip Bass-50-127.wav key=50 lokey=50 hikey=50 offset=694 end=258559 loop_mode=loop_continuous loop_start=115035 loop_end=148728
+
+
+<region> sample=Drip Bass-51-127.wav key=51 lokey=51 hikey=51 offset=441 end=263167 loop_mode=loop_continuous loop_start=114696 loop_end=146430
+
+
+<region> sample=Drip Bass-52-127.wav key=52 lokey=52 hikey=52 offset=444 end=259071 loop_mode=loop_continuous loop_start=122093 loop_end=145663
+
+
+<region> sample=Drip Bass-53-127.wav key=53 lokey=53 hikey=53 offset=694 end=259583 loop_mode=loop_continuous loop_start=111962 loop_end=122086
+
+
+<region> sample=Drip Bass-54-127.wav key=54 lokey=54 hikey=54 offset=444 end=254975 loop_mode=loop_continuous loop_start=128374 loop_end=141723
+
+
+<region> sample=Drip Bass-55-127.wav key=55 lokey=55 hikey=55 offset=712 end=262143 loop_mode=loop_continuous loop_start=111186 loop_end=149035
+
+
+<region> sample=Drip Bass-56-127.wav key=56 lokey=56 hikey=56 offset=443 end=266239 loop_mode=loop_continuous loop_start=123438 loop_end=133622
+
+
+<region> sample=Drip Bass-57-127.wav key=57 lokey=57 hikey=57 offset=953 end=256511 loop_mode=loop_continuous loop_start=121810 loop_end=133039
+
+
+<region> sample=Drip Bass-58-127.wav key=58 lokey=58 hikey=58 offset=951 end=258559 loop_mode=loop_continuous loop_start=113935 loop_end=151842
+
+
+<region> sample=Drip Bass-59-127.wav key=59 lokey=59 hikey=59 offset=949 end=262655 loop_mode=loop_continuous loop_start=121148 loop_end=135429
+
+
+<region> sample=Drip Bass-60-127.wav key=60 lokey=60 hikey=60 offset=694 end=259583 loop_mode=loop_continuous loop_start=121114 loop_end=150805
+
+
+<region> sample=Drip Bass-61-127.wav key=61 lokey=61 hikey=61 offset=698 end=254975 loop_mode=loop_continuous loop_start=115728 loop_end=127207
+
+
+<region> sample=Drip Bass-62-127.wav key=62 lokey=62 hikey=62 offset=959 end=252927 loop_mode=loop_continuous loop_start=121692 loop_end=134980
+
+
+<region> sample=Drip Bass-63-127.wav key=63 lokey=63 hikey=63 offset=959 end=262143 loop_mode=loop_continuous loop_start=116644 loop_end=126865
+
+
+<region> sample=Drip Bass-64-127.wav key=64 lokey=64 hikey=64 offset=950 end=257535 loop_mode=loop_continuous loop_start=122049 loop_end=143514
+
+
+<region> sample=Drip Bass-65-127.wav key=65 lokey=65 hikey=65 offset=1459 end=257023 loop_mode=loop_continuous loop_start=127359 loop_end=137467
+
+
+<region> sample=Drip Bass-66-127.wav key=66 lokey=66 hikey=66 offset=926 end=262143 loop_mode=loop_continuous loop_start=133584 loop_end=148869
+
+
+<region> sample=Drip Bass-67-127.wav key=67 lokey=67 hikey=67 offset=661 end=259583 loop_mode=loop_continuous loop_start=116492 loop_end=147087
+
+
+<region> sample=Drip Bass-68-127.wav key=68 lokey=68 hikey=68 offset=700 end=259583 loop_mode=loop_continuous loop_start=130840 loop_end=141893
+
+
+<region> sample=Drip Bass-69-127.wav key=69 lokey=69 hikey=69 offset=938 end=255487 loop_mode=loop_continuous loop_start=117789 loop_end=136207
+
+
+<region> sample=Drip Bass-70-127.wav key=70 lokey=70 hikey=70 offset=667 end=257023 loop_mode=loop_continuous loop_start=117009 loop_end=134418
+
+
+<region> sample=Drip Bass-71-127.wav key=71 lokey=71 hikey=71 offset=686 end=257535 loop_mode=loop_continuous loop_start=116379 loop_end=130687
+
+
+<region> sample=Drip Bass-72-127.wav key=72 lokey=72 hikey=72 offset=938 end=261119 loop_mode=loop_continuous loop_start=115296 loop_end=140898
+
+
+<region> sample=Drip Bass-73-127.wav key=73 lokey=73 hikey=73 offset=947 end=255999 loop_mode=loop_continuous loop_start=112643 loop_end=141295
+
+
+<region> sample=Drip Bass-74-127.wav key=74 lokey=74 hikey=74 offset=682 end=256511 loop_mode=loop_continuous loop_start=111082 loop_end=120710
+
+
+<region> sample=Drip Bass-75-127.wav key=75 lokey=75 hikey=75 offset=955 end=258047 loop_mode=loop_continuous loop_start=112021 loop_end=144329
+
+
+<region> sample=Drip Bass-76-127.wav key=76 lokey=76 hikey=76 offset=695 end=257535 loop_mode=loop_continuous loop_start=129498 loop_end=142355
+
+
+<region> sample=Drip Bass-77-127.wav key=77 lokey=77 hikey=77 offset=694 end=254463 loop_mode=loop_continuous loop_start=119771 loop_end=132428
+
+
+<region> sample=Drip Bass-78-127.wav key=78 lokey=78 hikey=78 offset=932 end=264191 loop_mode=loop_continuous loop_start=127502 loop_end=149036
+
+
+<region> sample=Drip Bass-79-127.wav key=79 lokey=79 hikey=79 offset=706 end=252927 loop_mode=loop_continuous loop_start=134412 loop_end=145231
+
+
+<region> sample=Drip Bass-80-127.wav key=80 lokey=80 hikey=80 offset=678 end=256511 loop_mode=loop_continuous loop_start=140295 loop_end=150946
+
+
+<region> sample=Drip Bass-81-127.wav key=81 lokey=81 hikey=81 offset=955 end=253951 loop_mode=loop_continuous loop_start=116221 loop_end=126285
+
+
+<region> sample=Drip Bass-82-127.wav key=82 lokey=82 hikey=82 offset=943 end=255999 loop_mode=loop_continuous loop_start=117722 loop_end=148157
+
+
+<region> sample=Drip Bass-83-127.wav key=83 lokey=83 hikey=83 offset=694 end=258559 loop_mode=loop_continuous loop_start=120151 loop_end=133058
+
+
+<region> sample=Drip Bass-84-127.wav key=84 lokey=84 hikey=84 offset=688 end=261119 loop_mode=loop_continuous loop_start=132792 loop_end=143970
+
+
+<region> sample=Drip Bass-85-127.wav key=85 lokey=85 hikey=85 offset=428 end=260095 loop_mode=loop_continuous loop_start=124394 loop_end=136560
+
+
+<region> sample=Drip Bass-86-127.wav key=86 lokey=86 hikey=86 offset=956 end=255999 loop_mode=loop_continuous loop_start=127979 loop_end=137886
+
+

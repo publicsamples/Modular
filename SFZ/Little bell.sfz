@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Little bell.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../EXS24/Little bell/
+
+<group>        // Little bell
+<region> sample=BraidsMod-127-C1-AQV0.wav key=36 lokey=2 hikey=36 amp_veltrack=20 lovel=1 hivel=127 offset=515 end=53172 loop_mode=no_loop
+<region> sample=BraidsMod-127-C#1-10LM.wav key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=127 offset=885 end=53673 loop_mode=no_loop
+<region> sample=BraidsMod-127-D1-LPPI.wav key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=127 offset=805 end=53350 loop_mode=no_loop
+<region> sample=BraidsMod-127-D#1-4GDC.wav key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=127 offset=942 end=54162 loop_mode=no_loop
+<region> sample=BraidsMod-127-E1-H73C.wav key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=127 offset=600 end=52979 loop_mode=no_loop
+<region> sample=BraidsMod-127-F1-AUF3.wav key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=127 offset=622 end=53245 loop_mode=no_loop
+<region> sample=BraidsMod-127-F#1-SWMJ.wav key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=127 offset=1028 end=54000 loop_mode=no_loop
+<region> sample=BraidsMod-127-G1-4034.wav key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=127 offset=801 end=53396 loop_mode=no_loop
+<region> sample=BraidsMod-127-G#1-2CAP.wav key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=127 offset=687 end=53558 loop_mode=no_loop
+<region> sample=BraidsMod-127-A1-L3XU.wav key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=127 offset=687 end=53683 loop_mode=no_loop
+<region> sample=BraidsMod-127-A#1-O7R4.wav key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=127 offset=484 end=54343 loop_mode=no_loop
+<region> sample=BraidsMod-127-B1-2ELI.wav key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=127 offset=686 end=55294 loop_mode=no_loop
+<region> sample=BraidsMod-127-C2-C83I.wav key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=613 end=54681 loop_mode=no_loop
+<region> sample=BraidsMod-127-C#2-1J9F.wav key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=864 end=55208 loop_mode=no_loop
+<region> sample=BraidsMod-127-D2-7O72.wav key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=530 end=55685 loop_mode=no_loop
+<region> sample=BraidsMod-127-D#2-DD6P.wav key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=745 end=56751 loop_mode=no_loop
+<region> sample=BraidsMod-127-E2-LYN4.wav key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=868 end=57132 loop_mode=no_loop
+<region> sample=BraidsMod-127-F2-6RSN.wav key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=652 loop_mode=no_loop
+<region> sample=BraidsMod-127-F#2-WTNV.wav key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=923 end=56769 loop_mode=no_loop
+<region> sample=BraidsMod-127-G2-64XP.wav key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=789 end=56546 loop_mode=no_loop
+<region> sample=BraidsMod-127-G#2-8P1R.wav key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=1037 end=56022 loop_mode=no_loop
+<region> sample=BraidsMod-127-A2-L8QS.wav key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=799 end=54970 loop_mode=no_loop
+<region> sample=BraidsMod-127-A#2-LT0K.wav key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=903 end=54545 loop_mode=no_loop
+<region> sample=BraidsMod-127-B2-WQOE.wav key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=540 end=53258 loop_mode=no_loop
+<region> sample=BraidsMod-127-C3-Y1WB.wav key=60 lokey=60 hikey=60 amp_veltrack=20 lovel=1 hivel=127 offset=841 end=52716 loop_mode=no_loop
+<region> sample=BraidsMod-127-C#3-NU4E.wav key=61 lokey=61 hikey=61 amp_veltrack=20 lovel=1 hivel=127 offset=1042 loop_mode=no_loop
+<region> sample=BraidsMod-127-D3-NB7S.wav key=62 lokey=62 hikey=62 amp_veltrack=20 lovel=1 hivel=127 offset=672 end=50571 loop_mode=no_loop
+<region> sample=BraidsMod-127-D#3-E0PT.wav key=63 lokey=63 hikey=63 amp_veltrack=20 lovel=1 hivel=127 offset=802 end=49875 loop_mode=no_loop
+<region> sample=BraidsMod-127-E3-8QW8.wav key=64 lokey=64 hikey=64 amp_veltrack=20 lovel=1 hivel=127 offset=717 end=48487 loop_mode=no_loop
+<region> sample=BraidsMod-127-F3-I5MK.wav key=65 lokey=65 hikey=65 amp_veltrack=20 lovel=1 hivel=127 offset=995 end=48605 loop_mode=no_loop
+<region> sample=BraidsMod-127-F#3-ON0X.wav key=66 lokey=66 hikey=66 amp_veltrack=20 lovel=1 hivel=127 offset=1041 end=46663 loop_mode=no_loop
+<region> sample=BraidsMod-127-G3-IA9F.wav key=67 lokey=67 hikey=67 amp_veltrack=20 lovel=1 hivel=127 offset=876 end=45276 loop_mode=no_loop
+<region> sample=BraidsMod-127-G#3-TSEH.wav key=68 lokey=68 hikey=68 amp_veltrack=20 lovel=1 hivel=127 offset=768 end=45682 loop_mode=no_loop
+<region> sample=BraidsMod-127-A3-I7LG.wav key=69 lokey=69 hikey=69 amp_veltrack=20 lovel=1 hivel=127 offset=659 loop_mode=no_loop
+<region> sample=BraidsMod-127-A#3-FNGQ.wav key=70 lokey=70 hikey=70 amp_veltrack=20 lovel=1 hivel=127 offset=581 end=41345 loop_mode=no_loop
+<region> sample=BraidsMod-127-B3-BDVH.wav key=71 lokey=71 hikey=71 amp_veltrack=20 lovel=1 hivel=127 offset=791 loop_mode=no_loop
+<region> sample=BraidsMod-127-C4-4CDF.wav key=72 lokey=72 hikey=121 amp_veltrack=20 lovel=1 hivel=127 offset=947 loop_mode=no_loop

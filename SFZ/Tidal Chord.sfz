@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Tidal Chord.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Tidal Chord/
+
+<group>        // Tidal Chord
+<region> sample=Tidal Chord-36-127.wav key=36 lokey=0 hikey=36 amp_veltrack=20 lovel=1 hivel=127 offset=207 loop_mode=no_loop
+<region> sample=Tidal Chord-37-127.wav key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=127 offset=310 end=741758 loop_mode=no_loop
+<region> sample=Tidal Chord-38-127.wav key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=127 offset=211 end=743822 loop_mode=no_loop
+<region> sample=Tidal Chord-39-127.wav key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=127 offset=133 end=740177 loop_mode=no_loop
+<region> sample=Tidal Chord-40-127.wav key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=127 offset=231 end=744323 loop_mode=no_loop
+<region> sample=Tidal Chord-41-127.wav key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=127 offset=255 end=745246 loop_mode=no_loop
+<region> sample=Tidal Chord-42-127.wav key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=127 offset=289 end=744098 loop_mode=no_loop
+<region> sample=Tidal Chord-43-127.wav key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=127 offset=87 loop_mode=no_loop
+<region> sample=Tidal Chord-44-127.wav key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=127 offset=241 loop_mode=no_loop
+<region> sample=Tidal Chord-45-127.wav key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=127 offset=291 end=745218 loop_mode=no_loop
+<region> sample=Tidal Chord-46-127.wav key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=127 offset=229 end=744959 loop_mode=no_loop
+<region> sample=Tidal Chord-47-127.wav key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=127 offset=344 loop_mode=no_loop
+<region> sample=Tidal Chord-48-127.wav key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=10936 end=744124 loop_mode=no_loop
+<region> sample=Tidal Chord-49-127.wav key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=907 loop_mode=no_loop
+<region> sample=Tidal Chord-50-127.wav key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=1050 end=741264 loop_mode=no_loop
+<region> sample=Tidal Chord-51-127.wav key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=1063 loop_mode=no_loop
+<region> sample=Tidal Chord-52-127.wav key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=990 loop_mode=no_loop
+<region> sample=Tidal Chord-53-127.wav key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=1028 loop_mode=no_loop
+<region> sample=Tidal Chord-54-127.wav key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=954 loop_mode=no_loop
+<region> sample=Tidal Chord-55-127.wav key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=971 loop_mode=no_loop
+<region> sample=Tidal Chord-56-127.wav key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=1112 end=741260 loop_mode=no_loop
+<region> sample=Tidal Chord-57-127.wav key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=1094 loop_mode=no_loop
+<region> sample=Tidal Chord-58-127.wav key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=927 end=743797 loop_mode=no_loop
+<region> sample=Tidal Chord-59-127.wav key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=1032 end=738430 loop_mode=no_loop
+<region> sample=Tidal Chord-60-127.wav key=60 lokey=60 hikey=127 amp_veltrack=20 lovel=1 hivel=127 offset=1142 loop_mode=no_loop

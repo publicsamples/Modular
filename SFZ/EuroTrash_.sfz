@@ -1,0 +1,49 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - EuroTrash_.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/EuroTrash_1-SAMPLES/
+
+<group> volume=-5        // Group #5
+<region> sample=EuroTrash-59-127.wav key=36 lokey=47 hikey=47 pitch_keytrack=0 pan=5 end=531647 loop_mode=no_loop
+<region> sample=EuroTrash-60-127.wav key=37 lokey=48 hikey=48 pitch_keytrack=0 pan=5 end=532799 loop_mode=no_loop
+<region> sample=EuroTrash-61-127.wav key=38 lokey=49 hikey=49 pitch_keytrack=0 pan=5 end=532287 loop_mode=no_loop
+<region> sample=EuroTrash-62-127.wav key=39 lokey=50 hikey=50 pitch_keytrack=0 pan=5 end=533247 loop_mode=no_loop
+<region> sample=EuroTrash-63-127.wav key=40 lokey=51 hikey=51 pitch_keytrack=0 pan=5 end=533311 loop_mode=no_loop
+<region> sample=EuroTrash-64-127.wav key=41 lokey=52 hikey=52 pitch_keytrack=0 pan=5 end=531967 loop_mode=no_loop
+<region> sample=EuroTrash-65-127.wav key=42 lokey=53 hikey=53 pitch_keytrack=0 pan=5 end=534399 loop_mode=no_loop
+<region> sample=EuroTrash-66-127.wav key=43 lokey=54 hikey=54 pitch_keytrack=0 pan=5 end=533567 loop_mode=no_loop
+<region> sample=EuroTrash-67-127.wav key=44 lokey=55 hikey=55 pitch_keytrack=0 pan=5 end=532351 loop_mode=no_loop
+<region> sample=EuroTrash-68-127.wav key=45 lokey=56 hikey=56 pitch_keytrack=0 pan=5 end=531007 loop_mode=no_loop
+<region> sample=EuroTrash-69-127.wav key=46 lokey=57 hikey=57 pitch_keytrack=0 pan=5 end=531711 loop_mode=no_loop
+<region> sample=EuroTrash-70-127.wav key=47 lokey=58 hikey=58 pitch_keytrack=0 pan=5 end=530879 loop_mode=no_loop
+<region> sample=EuroTrash-71-127.wav key=48 lokey=59 hikey=59 pitch_keytrack=0 pan=5 end=531135 loop_mode=no_loop
+<region> sample=EuroTrash-72-127.wav key=49 lokey=60 hikey=60 pitch_keytrack=0 pan=5 end=532799 loop_mode=no_loop
+<region> sample=EuroTrash-73-127.wav key=50 lokey=61 hikey=61 pitch_keytrack=0 pan=5 end=533055 loop_mode=no_loop
+<region> sample=EuroTrash-74-127.wav key=51 lokey=62 hikey=62 pitch_keytrack=0 pan=5 end=532031 loop_mode=no_loop
+<region> sample=EuroTrash-75-127.wav key=52 lokey=63 hikey=63 pitch_keytrack=0 pan=5 end=533055 loop_mode=no_loop
+<region> sample=EuroTrash-76-127.wav key=53 lokey=64 hikey=64 pitch_keytrack=0 pan=5 end=532287 loop_mode=no_loop
+<region> sample=EuroTrash-77-127.wav key=54 lokey=65 hikey=65 pitch_keytrack=0 pan=5 end=532095 loop_mode=no_loop
+<region> sample=EuroTrash-78-127.wav key=55 lokey=66 hikey=66 pitch_keytrack=0 pan=5 end=531647 loop_mode=no_loop
+<region> sample=EuroTrash-79-127.wav key=56 lokey=67 hikey=67 pitch_keytrack=0 pan=5 end=531583 loop_mode=no_loop
+<region> sample=EuroTrash-80-127.wav key=57 lokey=68 hikey=68 pitch_keytrack=0 pan=5 end=531775 loop_mode=no_loop
+<region> sample=EuroTrash-81-127.wav key=58 lokey=69 hikey=69 pitch_keytrack=0 pan=5 end=531775 loop_mode=no_loop
+<region> sample=EuroTrash-82-127.wav key=59 lokey=70 hikey=70 pitch_keytrack=0 pan=5 end=532671 loop_mode=no_loop
+<region> sample=EuroTrash-83-127.wav key=60 lokey=71 hikey=71 pitch_keytrack=0 pan=5 end=531647 loop_mode=no_loop
+<region> sample=EuroTrash-84-127.wav key=61 lokey=72 hikey=72 pitch_keytrack=0 pan=5 end=533119 loop_mode=no_loop
+<region> sample=EuroTrash-85-127.wav key=62 lokey=73 hikey=73 pitch_keytrack=0 pan=5 end=532735 loop_mode=no_loop
+<region> sample=EuroTrash-86-127.wav key=63 lokey=74 hikey=74 pitch_keytrack=0 pan=5 end=532031 loop_mode=no_loop
+<region> sample=EuroTrash-87-127.wav key=64 lokey=75 hikey=75 pitch_keytrack=0 pan=5 end=533567 loop_mode=no_loop
+<region> sample=EuroTrash-88-127.wav key=65 lokey=76 hikey=76 pitch_keytrack=0 pan=5 end=532927 loop_mode=no_loop
+<region> sample=EuroTrash-89-127.wav key=66 lokey=77 hikey=118 pitch_keytrack=0 pan=5 end=532415 loop_mode=no_loop
+<region> sample=EuroTrash-48-127.wav key=67 lokey=0 hikey=36 pitch_keytrack=0 pan=5 end=533951 loop_mode=no_loop
+<region> sample=EuroTrash-49-127.wav key=68 lokey=37 hikey=37 pitch_keytrack=0 pan=5 end=534783 loop_mode=no_loop
+<region> sample=EuroTrash-50-127.wav key=69 lokey=38 hikey=38 pitch_keytrack=0 pan=5 end=533823 loop_mode=no_loop
+<region> sample=EuroTrash-51-127.wav key=70 lokey=39 hikey=39 pitch_keytrack=0 pan=5 end=534463 loop_mode=no_loop
+<region> sample=EuroTrash-52-127.wav key=71 lokey=40 hikey=40 pitch_keytrack=0 pan=5 end=534527 loop_mode=no_loop
+<region> sample=EuroTrash-53-127.wav key=72 lokey=41 hikey=41 pitch_keytrack=0 pan=5 end=534911 loop_mode=no_loop
+<region> sample=EuroTrash-54-127.wav key=73 lokey=42 hikey=42 pitch_keytrack=0 pan=5 end=533503 loop_mode=no_loop
+<region> sample=EuroTrash-55-127.wav key=74 lokey=43 hikey=43 pitch_keytrack=0 pan=5 end=533119 loop_mode=no_loop
+<region> sample=EuroTrash-56-127.wav key=75 lokey=44 hikey=44 pitch_keytrack=0 pan=5 end=533631 loop_mode=no_loop
+<region> sample=EuroTrash-57-127.wav key=76 lokey=45 hikey=45 pitch_keytrack=0 pan=5 end=533503 loop_mode=no_loop
+<region> sample=EuroTrash-58-127.wav key=77 lokey=46 hikey=46 pitch_keytrack=0 pan=5 end=535423 loop_mode=no_loop

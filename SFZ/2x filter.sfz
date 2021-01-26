@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - 2x filter.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/2xfilter/
+
+<group>        // AutoSampled patch
+<region> sample=modhols201611272424-UXFD.aif key=24 lokey=24 hikey=24 amp_veltrack=20 lovel=1 hivel=127 offset=659 end=717013 loop_mode=no_loop
+<region> sample=modhols201611272525-SFA5.aif key=25 lokey=25 hikey=25 amp_veltrack=20 lovel=1 hivel=127 offset=769 end=718546 loop_mode=no_loop
+<region> sample=modhols201611272626-2OYH.aif key=26 lokey=26 hikey=26 amp_veltrack=20 lovel=1 hivel=127 offset=781 loop_mode=no_loop
+<region> sample=modhols201611272727-S51W.aif key=27 lokey=27 hikey=27 amp_veltrack=20 lovel=1 hivel=127 offset=467 end=719938 loop_mode=no_loop
+<region> sample=modhols201611272828-T4RF.aif key=28 lokey=28 hikey=28 amp_veltrack=20 lovel=1 hivel=127 offset=911 loop_mode=no_loop
+<region> sample=modhols201611272929-T7OK.aif key=29 lokey=29 hikey=29 amp_veltrack=20 lovel=1 hivel=127 offset=822 loop_mode=no_loop
+<region> sample=modhols201611273030-OQ9W.aif key=30 lokey=30 hikey=30 amp_veltrack=20 lovel=1 hivel=127 offset=685 loop_mode=no_loop
+<region> sample=modhols201611273131-ZP0T.aif key=31 lokey=31 hikey=31 amp_veltrack=20 lovel=1 hivel=127 offset=775 end=712595 loop_mode=no_loop
+<region> sample=modhols201611273232-M7C2.aif key=32 lokey=32 hikey=32 amp_veltrack=20 lovel=1 hivel=127 offset=516 end=713427 loop_mode=no_loop
+<region> sample=modhols201611273333-YXS2.aif key=33 lokey=33 hikey=33 amp_veltrack=20 lovel=1 hivel=127 offset=633 end=711853 loop_mode=no_loop
+<region> sample=modhols201611273434-3R9P.aif key=34 lokey=34 hikey=34 amp_veltrack=20 lovel=1 hivel=127 offset=666 end=709988 loop_mode=no_loop
+<region> sample=modhols201611273535-QZWJ.aif key=35 lokey=35 hikey=35 amp_veltrack=20 lovel=1 hivel=127 offset=800 end=714696 loop_mode=no_loop
+<region> sample=modhols201611273636-88LI.aif key=36 lokey=36 hikey=36 amp_veltrack=20 lovel=1 hivel=127 offset=639 end=712169 loop_mode=no_loop
+<region> sample=modhols201611273737-5NN0.aif key=37 lokey=37 hikey=37 amp_veltrack=20 lovel=1 hivel=127 offset=662 end=708383 loop_mode=no_loop
+<region> sample=modhols201611273838-EQ7N.aif key=38 lokey=38 hikey=38 amp_veltrack=20 lovel=1 hivel=127 offset=499 end=707854 loop_mode=no_loop
+<region> sample=modhols201611273939-JNXS.aif key=39 lokey=39 hikey=39 amp_veltrack=20 lovel=1 hivel=127 offset=429 end=704612 loop_mode=no_loop
+<region> sample=modhols201611274040-3E12.aif key=40 lokey=40 hikey=40 amp_veltrack=20 lovel=1 hivel=127 offset=332 loop_mode=no_loop
+<region> sample=modhols201611274141-TA3B.aif key=41 lokey=41 hikey=41 amp_veltrack=20 lovel=1 hivel=127 offset=818 end=703802 loop_mode=no_loop
+<region> sample=modhols201611274242-M85A.aif key=42 lokey=42 hikey=42 amp_veltrack=20 lovel=1 hivel=127 offset=429 end=701869 loop_mode=no_loop
+<region> sample=modhols201611274343-VPED.aif key=43 lokey=43 hikey=43 amp_veltrack=20 lovel=1 hivel=127 offset=808 end=703333 loop_mode=no_loop
+<region> sample=modhols201611274444-SHRC.aif key=44 lokey=44 hikey=44 amp_veltrack=20 lovel=1 hivel=127 offset=376 end=700971 loop_mode=no_loop
+<region> sample=modhols201611274545-JB5Q.aif key=45 lokey=45 hikey=45 amp_veltrack=20 lovel=1 hivel=127 offset=429 loop_mode=no_loop
+<region> sample=modhols201611274646-GMA8.aif key=46 lokey=46 hikey=46 amp_veltrack=20 lovel=1 hivel=127 offset=602 end=701095 loop_mode=no_loop
+<region> sample=modhols201611274747-MZTS.aif key=47 lokey=47 hikey=47 amp_veltrack=20 lovel=1 hivel=127 offset=529 loop_mode=no_loop
+<region> sample=modhols201611274848-2HR5.aif key=48 lokey=48 hikey=48 amp_veltrack=20 lovel=1 hivel=127 offset=517 end=695813 loop_mode=no_loop
+<region> sample=modhols201611274949-0D7C.aif key=49 lokey=49 hikey=49 amp_veltrack=20 lovel=1 hivel=127 offset=518 end=693952 loop_mode=no_loop
+<region> sample=modhols201611275050-9K9H.aif key=50 lokey=50 hikey=50 amp_veltrack=20 lovel=1 hivel=127 offset=643 end=693789 loop_mode=no_loop
+<region> sample=modhols201611275151-Z91M.aif key=51 lokey=51 hikey=51 amp_veltrack=20 lovel=1 hivel=127 offset=539 end=693513 loop_mode=no_loop
+<region> sample=modhols201611275252-YOKS.aif key=52 lokey=52 hikey=52 amp_veltrack=20 lovel=1 hivel=127 offset=724 end=692696 loop_mode=no_loop
+<region> sample=modhols201611275353-2KNC.aif key=53 lokey=53 hikey=53 amp_veltrack=20 lovel=1 hivel=127 offset=912 end=693459 loop_mode=no_loop
+<region> sample=modhols201611275454-7Y1T.aif key=54 lokey=54 hikey=54 amp_veltrack=20 lovel=1 hivel=127 offset=413 loop_mode=no_loop
+<region> sample=modhols201611275555-4504.aif key=55 lokey=55 hikey=55 amp_veltrack=20 lovel=1 hivel=127 offset=454 loop_mode=no_loop
+<region> sample=modhols201611275656-I6KH.aif key=56 lokey=56 hikey=56 amp_veltrack=20 lovel=1 hivel=127 offset=411 loop_mode=no_loop
+<region> sample=modhols201611275757-O5E6.aif key=57 lokey=57 hikey=57 amp_veltrack=20 lovel=1 hivel=127 offset=384 end=694273 loop_mode=no_loop
+<region> sample=modhols201611275858-8TOP.aif key=58 lokey=58 hikey=58 amp_veltrack=20 lovel=1 hivel=127 offset=268 end=694916 loop_mode=no_loop
+<region> sample=modhols201611275959-PCGB.aif key=59 lokey=59 hikey=59 amp_veltrack=20 lovel=1 hivel=127 offset=527 end=695189 loop_mode=no_loop
+<region> sample=modhols201611276060-YWOS.aif key=60 lokey=60 hikey=123 amp_veltrack=20 lovel=1 hivel=127 offset=354 end=692483 loop_mode=no_loop

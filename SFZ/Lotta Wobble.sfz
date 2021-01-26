@@ -1,0 +1,177 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Lotta Wobble.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+
+
+<control>
+default_path=../Audio/Lotta Wobble-SAMPLES/
+
+<group> volume=-6        // Lotta Wobble
+<region> sample=Lotta Wobble-36-127.wav key=36 lokey=36 hikey=36 offset=256 end=496511 loop_mode=loop_continuous loop_start=52807 loop_end=360014
+
+
+<region> sample=Lotta Wobble-37-127.wav key=37 lokey=37 hikey=37 offset=256 end=497215 loop_mode=loop_continuous loop_start=142198 loop_end=259992
+
+
+<region> sample=Lotta Wobble-38-127.wav key=38 lokey=38 hikey=38 offset=256 end=496831 loop_mode=loop_continuous loop_start=114287 loop_end=279198
+
+
+<region> sample=Lotta Wobble-39-127.wav key=39 lokey=39 hikey=39 offset=194 end=492607 loop_mode=loop_continuous loop_start=53169 loop_end=355287
+
+
+<region> sample=Lotta Wobble-40-127.wav key=40 lokey=40 hikey=40 offset=256 end=498559 loop_mode=loop_continuous loop_start=27201 loop_end=358022
+
+
+<region> sample=Lotta Wobble-41-127.wav key=41 lokey=41 hikey=41 offset=258 end=498367 loop_mode=loop_continuous loop_start=874 loop_end=356172
+
+
+<region> sample=Lotta Wobble-42-127.wav key=42 lokey=42 hikey=42 offset=261 end=498943 loop_mode=loop_continuous loop_start=178556 loop_end=305495
+
+
+<region> sample=Lotta Wobble-43-127.wav key=43 lokey=43 hikey=43 offset=256 end=496575 loop_mode=loop_continuous loop_start=14879 loop_end=331262
+
+
+<region> sample=Lotta Wobble-44-127.wav key=44 lokey=44 hikey=44 offset=256 end=493759 loop_mode=loop_continuous loop_start=181401 loop_end=256481
+
+
+<region> sample=Lotta Wobble-45-127.wav key=45 lokey=45 hikey=45 offset=258 end=496639 loop_mode=loop_continuous loop_start=143601 loop_end=351382
+
+
+<region> sample=Lotta Wobble-46-127.wav key=46 lokey=46 hikey=46 offset=256 end=504191 loop_mode=loop_continuous loop_start=15064 loop_end=175841
+
+
+<region> sample=Lotta Wobble-47-127.wav key=47 lokey=47 hikey=47 offset=256 end=499967 loop_mode=loop_continuous loop_start=116484 loop_end=239173
+
+
+<region> sample=Lotta Wobble-48-127.wav key=48 lokey=48 hikey=48 offset=256 end=519615 loop_mode=loop_continuous loop_start=32550 loop_end=117546
+
+
+<region> sample=Lotta Wobble-49-127.wav key=49 lokey=49 hikey=49 offset=256 end=500607 loop_mode=loop_continuous loop_start=248721 loop_end=356031
+
+
+<region> sample=Lotta Wobble-50-127.wav key=50 lokey=50 hikey=50 offset=267 end=504767 loop_mode=loop_continuous loop_start=7351 loop_end=83069
+
+
+<region> sample=Lotta Wobble-51-127.wav key=51 lokey=51 hikey=51 offset=266 end=499775 loop_mode=loop_continuous loop_start=61917 loop_end=156442
+
+
+<region> sample=Lotta Wobble-52-127.wav key=52 lokey=52 hikey=52 offset=263 end=499455 loop_mode=loop_continuous loop_start=3262 loop_end=248610
+
+
+<region> sample=Lotta Wobble-53-127.wav key=53 lokey=53 hikey=53 offset=266 end=497983 loop_mode=loop_continuous loop_start=34882 loop_end=181248
+
+
+<region> sample=Lotta Wobble-54-127.wav key=54 lokey=54 hikey=54 offset=263 end=528191 loop_mode=loop_continuous loop_start=214823 loop_end=314183
+
+
+<region> sample=Lotta Wobble-55-127.wav key=55 lokey=55 hikey=55 offset=263 end=503167 loop_mode=loop_continuous loop_start=55253 loop_end=239664
+
+
+<region> sample=Lotta Wobble-56-127.wav key=56 lokey=56 hikey=56 offset=263 end=493247 loop_mode=loop_continuous loop_start=141485 loop_end=349236
+
+
+<region> sample=Lotta Wobble-57-127.wav key=57 lokey=57 hikey=57 offset=265 end=495487 loop_mode=loop_continuous loop_start=206981 loop_end=353350
+
+
+<region> sample=Lotta Wobble-58-127.wav key=58 lokey=58 hikey=58 offset=266 end=500927 loop_mode=loop_continuous loop_start=232916 loop_end=355669
+
+
+<region> sample=Lotta Wobble-59-127.wav key=59 lokey=59 hikey=59 offset=199 end=495551 loop_mode=loop_continuous loop_start=183517 loop_end=268531
+
+
+<region> sample=Lotta Wobble-60-127.wav key=60 lokey=60 hikey=60 offset=263 end=502079 loop_mode=loop_continuous loop_start=72016 loop_end=232824
+
+
+<region> sample=Lotta Wobble-61-127.wav key=61 lokey=61 hikey=61 offset=272 end=503615 loop_mode=loop_continuous loop_start=279756 loop_end=355484
+
+
+<region> sample=Lotta Wobble-62-127.wav key=62 lokey=62 hikey=62 offset=267 end=500863 loop_mode=loop_continuous loop_start=99771 loop_end=359719
+
+
+<region> sample=Lotta Wobble-63-127.wav key=63 lokey=63 hikey=63 offset=263 end=499583 loop_mode=loop_continuous loop_start=47234 loop_end=269237
+
+
+<region> sample=Lotta Wobble-64-127.wav key=64 lokey=64 hikey=64 offset=263 end=503743 loop_mode=loop_continuous loop_start=91309 loop_end=237710
+
+
+<region> sample=Lotta Wobble-65-127.wav key=65 lokey=65 hikey=65 offset=263 end=498751 loop_mode=loop_continuous loop_start=79725 loop_end=287742
+
+
+<region> sample=Lotta Wobble-66-127.wav key=66 lokey=66 hikey=66 offset=263 end=500927 loop_mode=loop_continuous loop_start=2019 loop_end=356391
+
+
+<region> sample=Lotta Wobble-67-127.wav key=67 lokey=67 hikey=67 offset=261 end=494655 loop_mode=loop_continuous loop_start=184880 loop_end=307506
+
+
+<region> sample=Lotta Wobble-68-127.wav key=68 lokey=68 hikey=68 offset=265 end=500991 loop_mode=loop_continuous loop_start=71530 loop_end=194419
+
+
+<region> sample=Lotta Wobble-69-127.wav key=69 lokey=69 hikey=69 offset=263 end=501695 loop_mode=loop_continuous loop_start=15007 loop_end=100008
+
+
+<region> sample=Lotta Wobble-70-127.wav key=70 lokey=70 hikey=70 offset=265 end=506751 loop_mode=loop_continuous loop_start=38429 loop_end=307833
+
+
+<region> sample=Lotta Wobble-71-127.wav key=71 lokey=71 hikey=71 offset=265 end=502335 loop_mode=loop_continuous loop_start=196821 loop_end=272555
+
+
+<region> sample=Lotta Wobble-72-127.wav key=72 lokey=72 hikey=72 offset=263 end=511167 loop_mode=loop_continuous loop_start=105150 loop_end=228071
+
+
+<region> sample=Lotta Wobble-73-127.wav key=73 lokey=73 hikey=73 offset=265 end=502911 loop_mode=loop_continuous loop_start=79364 loop_end=225494
+
+
+<region> sample=Lotta Wobble-74-127.wav key=74 lokey=74 hikey=74 offset=199 end=510783 loop_mode=loop_continuous loop_start=175187 loop_end=359687
+
+
+<region> sample=Lotta Wobble-75-127.wav key=75 lokey=75 hikey=75 offset=265 end=507775 loop_mode=loop_continuous loop_start=45769 loop_end=154462
+
+
+<region> sample=Lotta Wobble-76-127.wav key=76 lokey=76 hikey=76 offset=263 end=498943 loop_mode=loop_continuous loop_start=40656 loop_end=295920
+
+
+<region> sample=Lotta Wobble-77-127.wav key=77 lokey=77 hikey=77 offset=267 end=500159 loop_mode=loop_continuous loop_start=101723 loop_end=178907
+
+
+<region> sample=Lotta Wobble-78-127.wav key=78 lokey=78 hikey=78 offset=272 end=498559 loop_mode=loop_continuous loop_start=63615 loop_end=186525
+
+
+<region> sample=Lotta Wobble-79-127.wav key=79 lokey=79 hikey=79 offset=216 end=499839 loop_mode=loop_continuous loop_start=133188 loop_end=218204
+
+
+<region> sample=Lotta Wobble-80-127.wav key=80 lokey=80 hikey=80 offset=276 end=499071 loop_mode=loop_continuous loop_start=96366 loop_end=204813
+
+
+<region> sample=Lotta Wobble-81-127.wav key=81 lokey=81 hikey=81 offset=286 end=500543 loop_mode=loop_continuous loop_start=49592 loop_end=125045
+
+
+<region> sample=Lotta Wobble-82-127.wav key=82 lokey=82 hikey=82 offset=286 end=495103 loop_mode=loop_continuous loop_start=15572 loop_end=346305
+
+
+<region> sample=Lotta Wobble-83-127.wav key=83 lokey=83 hikey=83 offset=271 end=499071 loop_mode=loop_continuous loop_start=60552 loop_end=306263
+
+
+<region> sample=Lotta Wobble-84-127.wav key=84 lokey=84 hikey=84 offset=272 end=512703 loop_mode=loop_continuous loop_start=136508 loop_end=344331
+
+
+<region> sample=Lotta Wobble-85-127.wav key=85 lokey=85 hikey=85 offset=272 end=478335 loop_mode=loop_continuous loop_start=122764 loop_end=330675
+
+
+<region> sample=Lotta Wobble-86-127.wav key=86 lokey=86 hikey=86 offset=275 end=503615 loop_mode=loop_continuous loop_start=15454 loop_end=322574
+
+
+<region> sample=Lotta Wobble-87-127.wav key=87 lokey=87 hikey=87 offset=277 end=502911 loop_mode=loop_continuous loop_start=167423 loop_end=251626
+
+
+<region> sample=Lotta Wobble-88-127.wav key=88 lokey=88 hikey=88 offset=322 end=504319 loop_mode=loop_continuous loop_start=136568 loop_end=259393
+
+
+<region> sample=Lotta Wobble-89-127.wav key=89 lokey=89 hikey=89 offset=196 end=503487 loop_mode=loop_continuous loop_start=50514 loop_end=343468
+
+
+<region> sample=Lotta Wobble-90-127.wav key=90 lokey=90 hikey=90 offset=258 end=523839 loop_mode=loop_continuous loop_start=128209 loop_end=359732
+
+
+<region> sample=Lotta Wobble-91-127.wav key=91 lokey=91 hikey=91 offset=263 end=507711 loop_mode=loop_continuous loop_start=155062 loop_end=253618
+
+

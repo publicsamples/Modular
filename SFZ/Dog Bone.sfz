@@ -1,0 +1,49 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Dog Bone.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Audio/Dog Bone-SAMPLES/
+
+<group> volume=7        // Dog Bone
+<region> sample=Dog Bone-48-127.wav key=48 lokey=0 hikey=48 offset=402 end=188351 loop_mode=no_loop
+<region> sample=Dog Bone-49-127.wav key=49 lokey=49 hikey=49 offset=402 end=134591 loop_mode=no_loop
+<region> sample=Dog Bone-50-127.wav key=50 lokey=50 hikey=50 offset=506 end=136511 loop_mode=no_loop
+<region> sample=Dog Bone-51-127.wav key=51 lokey=51 hikey=51 offset=439 end=128127 loop_mode=no_loop
+<region> sample=Dog Bone-52-127.wav key=52 lokey=52 hikey=52 offset=560 end=135807 loop_mode=no_loop
+<region> sample=Dog Bone-53-127.wav key=53 lokey=53 hikey=53 offset=538 end=129343 loop_mode=no_loop
+<region> sample=Dog Bone-54-127.wav key=54 lokey=54 hikey=54 offset=531 end=131135 loop_mode=no_loop
+<region> sample=Dog Bone-55-127.wav key=55 lokey=55 hikey=55 offset=491 end=127999 loop_mode=no_loop
+<region> sample=Dog Bone-56-127.wav key=56 lokey=56 hikey=56 offset=389 end=170815 loop_mode=no_loop
+<region> sample=Dog Bone-57-127.wav key=57 lokey=57 hikey=57 offset=608 end=168383 loop_mode=no_loop
+<region> sample=Dog Bone-58-127.wav key=58 lokey=58 hikey=58 offset=563 end=168447 loop_mode=no_loop
+<region> sample=Dog Bone-59-127.wav key=59 lokey=59 hikey=59 offset=443 end=179903 loop_mode=no_loop
+<region> sample=Dog Bone-60-127.wav key=60 lokey=60 hikey=60 offset=480 end=154815 loop_mode=no_loop
+<region> sample=Dog Bone-61-127.wav key=61 lokey=61 hikey=61 offset=459 end=158975 loop_mode=no_loop
+<region> sample=Dog Bone-62-127.wav key=62 lokey=62 hikey=62 offset=574 end=133375 loop_mode=no_loop
+<region> sample=Dog Bone-63-127.wav key=63 lokey=63 hikey=63 offset=524 end=152511 loop_mode=no_loop
+<region> sample=Dog Bone-64-127.wav key=64 lokey=64 hikey=64 offset=758 end=148991 loop_mode=no_loop
+<region> sample=Dog Bone-65-127.wav key=65 lokey=65 hikey=65 offset=585 end=140415 loop_mode=no_loop
+<region> sample=Dog Bone-66-127.wav key=66 lokey=66 hikey=66 offset=624 end=137343 loop_mode=no_loop
+<region> sample=Dog Bone-67-127.wav key=67 lokey=67 hikey=67 offset=304 end=145535 loop_mode=no_loop
+<region> sample=Dog Bone-68-127.wav key=68 lokey=68 hikey=68 offset=517 end=143167 loop_mode=no_loop
+<region> sample=Dog Bone-69-127.wav key=69 lokey=69 hikey=69 offset=657 end=151359 loop_mode=no_loop
+<region> sample=Dog Bone-70-127.wav key=70 lokey=70 hikey=70 offset=453 end=150591 loop_mode=no_loop
+<region> sample=Dog Bone-71-127.wav key=71 lokey=71 hikey=71 offset=564 end=143423 loop_mode=no_loop
+<region> sample=Dog Bone-72-127.wav key=72 lokey=72 hikey=72 offset=403 end=153727 loop_mode=no_loop
+<region> sample=Dog Bone-73-127.wav key=73 lokey=73 hikey=73 offset=470 end=135871 loop_mode=no_loop
+<region> sample=Dog Bone-74-127.wav key=74 lokey=74 hikey=74 offset=575 end=147391 loop_mode=no_loop
+<region> sample=Dog Bone-75-127.wav key=75 lokey=75 hikey=75 offset=294 end=143935 loop_mode=no_loop
+<region> sample=Dog Bone-76-127.wav key=76 lokey=76 hikey=76 offset=396 end=147071 loop_mode=no_loop
+<region> sample=Dog Bone-77-127.wav key=77 lokey=77 hikey=77 offset=560 end=145599 loop_mode=no_loop
+<region> sample=Dog Bone-78-127.wav key=78 lokey=78 hikey=78 offset=478 end=163967 loop_mode=no_loop
+<region> sample=Dog Bone-79-127.wav key=79 lokey=79 hikey=79 offset=377 end=139327 loop_mode=no_loop
+<region> sample=Dog Bone-80-127.wav key=80 lokey=80 hikey=80 offset=515 end=143679 loop_mode=no_loop
+<region> sample=Dog Bone-81-127.wav key=81 lokey=81 hikey=81 offset=356 end=143935 loop_mode=no_loop
+<region> sample=Dog Bone-82-127.wav key=82 lokey=82 hikey=82 offset=396 end=140735 loop_mode=no_loop
+<region> sample=Dog Bone-83-127.wav key=83 lokey=83 hikey=83 offset=314 end=150271 loop_mode=no_loop
+<region> sample=Dog Bone-84-127.wav key=84 lokey=84 hikey=84 offset=460 end=144511 loop_mode=no_loop
+<region> sample=Dog Bone-85-127.wav key=85 lokey=85 hikey=85 offset=588 end=145215 loop_mode=no_loop
+<region> sample=Dog Bone-86-127.wav key=86 lokey=86 hikey=86 offset=401 end=142783 loop_mode=no_loop
+<region> sample=Dog Bone-87-127.wav key=87 lokey=87 hikey=87 offset=487 end=142463 loop_mode=no_loop
+<region> sample=Dog Bone-88-127.wav key=88 lokey=88 hikey=88 offset=331 end=163583 loop_mode=no_loop
+<region> sample=Dog Bone-89-127.wav key=89 lokey=89 hikey=126 offset=557 end=139071 loop_mode=no_loop
