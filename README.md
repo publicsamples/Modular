@@ -4,6 +4,7 @@ A large Collection of sounds from a modular synthesiser.
 
 
 -   **Formats:** EXS24, Kontakt, NN-XT
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/modular.html)
 
 **This collection requires you to download the audio seperately**
 
