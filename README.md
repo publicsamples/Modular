@@ -1,3 +1,4 @@
+
 # Modular Sample Library
 
 A large Collection of sounds from a modular synthesiser.
@@ -36,5 +37,3 @@ A large Collection of sounds from a modular synthesiser.
 
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
-
-![Sample library disks][https://github.com/publicsamples/Public-Samples/blob/master/images/ulp.jpg?raw=true](https://www.modularsamples.com/posts/products/excessive-hits/)
